@@ -1,2 +1,2 @@
-# Bearvile-client-files
-Client files for Build A Bearvile. All files taken from the Wayback Machine
+# Build-A-Bearvile scrapes
+Various files used for Build-A-Bearvile Online. All files taken from the Wayback Machine
