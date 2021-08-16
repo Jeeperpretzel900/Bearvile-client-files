@@ -1,0 +1,82 @@
+<HTML>
+
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script>
+function AddBearBillForSummerCamp()
+{
+	window.top.AddBearBill("SummerCampGame");
+	
+	if(!window.top.UserIsLoggedIn())
+	{
+		window.top.ShowLogin("play");
+	}
+}
+</script>
+</HEAD>
+
+<BODY bgColor="#000000">
+<div align="center">
+<SCRIPT LANGUAGE=JavaScript>
+<!--
+var ShockMode = 1;
+if (navigator.mimeTypes && navigator.mimeTypes["application/x-director"] && navigator.mimeTypes["application/x-director"].enabledPlugin)
+{
+	if (navigator.plugins && navigator.plugins["Shockwave for Director"] && (versionIndex = navigator.plugins["Shockwave for Director"].description.indexOf(".")) != - 1)
+	{
+		var versionString = navigator.plugins["Shockwave for Director"].description.substring(versionIndex-2, versionIndex);
+		versionIndex = parseInt( versionString );
+		if ( versionIndex >= 10 )
+		{
+			ShockMode = 1;
+		}
+	}
+}
+else if (navigator.userAgent && navigator.userAgent.indexOf("MSIE")>=0
+   && (navigator.userAgent.indexOf("Windows 95")>=0 || navigator.userAgent.indexOf("Windows 98")>=0 || navigator.userAgent.indexOf("Windows NT")>=0 ))
+{
+	document.write('<SCRIPT LANGUAGE=VBScript\> \n');
+	document.write('on error resume next \n');
+	document.write('ShockMode = (IsObject(CreateObject("SWCtl.SWCtl.8.5"))) \n');
+	document.write('</SCRIPT\> \n');
+}
+if ( ShockMode )
+{
+	document.write('<OBJECT classid="clsid:166B1BCA-3F9C-11CF-8075-444553540000"');
+	document.write(' codebase="http://download.macromedia.com/pub/shockwave/cabs/director/sw.cab#version=10,0,0,0"');
+	document.write(' ID=camp_happy_heart WIDTH=590 HEIGHT=443>');
+	document.write('<PARAM NAME=src VALUE="camp_happy_heart.dcr">');
+	document.write('<PARAM NAME=wmode VALUE="transparent">');
+	document.write('<PARAM NAME=swStretchStyle VALUE=fill>');
+	document.write('<PARAM NAME=swRemote VALUE="');
+	document.write("swSaveEnabled='true' swVolume='true' swRestart='true' swPausePlay='true' swFastForward='true' swContextMenu='true' ");
+	document.write('">\n');
+	
+	document.write('<EMBED SRC="camp_happy_heart.dcr"');
+	document.write(' bgColor=#000000 name="camp_happy_heart" wmode="transparent" swLiveConnect=TRUE  WIDTH=590 HEIGHT=443 swStretchStyle=fill ');
+	document.write('swRemote="');
+	document.write("swSaveEnabled='true' swVolume='true' swRestart='true' swPausePlay='true' swFastForward='true' swContextMenu='true' ");
+	document.write('"');
+	document.write(' TYPE="application/x-director" PLUGINSPAGE="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveDirector">');
+	document.write('</EMBED>');
+	
+	document.write('</OBJECT>');
+}
+else if (!(navigator.appName && navigator.appName.indexOf("Netscape")>=0 && navigator.appVersion.indexOf("2.")>=0))
+{
+	document.write('<table width="100%" border="0" height="100%" ><tr><td align="middle">');
+	document.write('<FONT COLOR="#FFFFFF" face="Verdana" size="2"><p>A newer version of Shockwave must be installed to display this content. Please update your Shockwave installation.<br><br>');
+	document.write('<a href="http://www.macromedia.com/shockwave/download/" target="_blank">Click here to download Macromedia Shockwave plugin</a><br><br></FONT></p>');
+	document.write('</td></tr></table>');
+}
+//-->
+</SCRIPT>
+
+<NOEMBED>
+<FONT COLOR="#FFFFFF" face="Verdana" size="2"><p>The game cannot start correctly. Please check your browser settings.<br><br></FONT></p>
+</NOEMBED>
+<NOSCRIPT>
+<FONT COLOR="#FFFFFF" face="Verdana" size="2"><p>The game cannot start correctly. Please check your browser settings.<br><br></FONT></p>
+</NOSCRIPT>
+
+</div>

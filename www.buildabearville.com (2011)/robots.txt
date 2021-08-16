@@ -1,0 +1,4 @@
+# robots.txt for http://www.buildabear.com/
+
+User-agent: *
+Allow: /

@@ -1,0 +1,534 @@
+@import url("color.css");
+@import url("typography.css");
+
+/* Normalizes margin, padding */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, form, fieldset, input, p, blockquote, th, td 
+{ margin : 0; padding : 0; }
+
+/* Normalizes font-size for headers */
+h1,h2,h3,h4,h5,h6 { font-size : 100%; }
+
+/* Removes list-style from lists */
+ol,ul { list-style-type : none; }
+
+ul.bullet, ol.bullet {
+	list-style-type:disc;
+}
+
+/* Replace the bullet with an image on list that have the 'image_bullet' class attached (i.e., <ul class="image_bullet"> */
+ul.image_bullet {
+	margin-left: 1em;
+	list-style-image : url(../images/home/list_ornament.gif);
+	list-style-position: outside;
+}
+
+/* Normalizes font-style and font-weight to normal */
+address, caption, cite, code, dfn, em, strong, th, var
+{ font-style : normal; font-weight : normal; }
+
+/* Removes list-style from lists */
+table { border-collapse : collapse; border-spacing : 0; }
+
+/* Removes border from fieldset and img */
+fieldset,img { border : 0; }
+
+/* Left-aligns text in caption and th */
+caption,th { text-align : left; }
+
+/* Removes quotation marks from q */
+q:before, q:after { content :''; }
+
+
+
+/* 3 column layout.css */
+
+html {text-align: center;}
+
+body {
+	position: relative;
+	width: 770px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+#shadow {
+	position: relative; top: 0; left: 0;
+	width: 100%;
+}
+
+#container {
+	position: relative; top: 0; left: 10px;
+	width: 750px;
+}
+
+#siteNav {
+	position: relative;
+	width: 100%;
+	height: 18px;
+	background: url(../images/branding/site_nav_bg.jpg) no-repeat;
+}
+
+#siteNav li, #siteInfo li, subNav, li {
+	display: inline;
+	vertical-align: middle;
+}
+
+#logo {
+	position: absolute; top: 0; left: 0;
+	z-index: 100;
+}
+
+#branding {
+	position: relative;
+	width: 100%;
+	/*height:166px;*/
+	height:200px;
+}
+
+#content {
+	position: relative; top: 0; left:5px;
+	width: 100%;
+	z-index: 999;
+}
+
+.leftColumn, .middleColumn, .rightColumn {
+	position: absolute; top: 0;	left: 0;
+}
+
+.middleColumn {
+	margin-bottom: -80px;
+}
+
+/*.leftColumn {
+	width: 28%;
+}
+
+.middleColumn {
+	left: 29%;
+	width: 44%;
+}
+	
+.rightColumn {
+	left: 71%;
+	width: 28%;
+}*/
+
+.leftColumn {
+	width: 210px;
+}
+
+.middleColumn {
+	left: 210px;
+	width: 330px;
+}
+	
+.rightColumn {
+	left: 540px;
+	width: 210px;
+}
+
+.features {
+	position: relative;
+	width: 100%;
+	margin: 0 auto 20px;
+}
+
+/*.btmFeatures {margin-bottom: 12px;}*/
+
+#siteInfo {
+	position: relative; top: 120px; left: 0;
+	width: 100%;
+	height: 26px;
+}
+
+#siteInfo ul { position: relative; top: -111px; left: 200px; height: 26px; z-index: 999;}
+#siteInfo li.right { padding-left: 50px; }
+#siteInfo img.bbb {position: absolute; left: 2px; top: -32px; padding-left: 5px; padding-right: 5px;}
+#siteInfo img.housekeeping {position: absolute; left: 45px; top: -15px; padding-right: 5px;}
+#siteInfo img.parenting {position: absolute; left: 130px; top: -48px; padding-right: 5px;}
+
+/* 2 column layout */
+
+.subContent, .mainContent {position: absolute; top: 0;	left: 0;}
+
+/*.subContent {width: 29%;}
+
+.mainContent {
+	left: 29%;
+	width: 71%;
+}*/
+
+.subContent {width: 210px;}
+
+.mainContent {
+	left: 210px;
+	width: 540px;
+}
+
+.clear_children,.cc_tallest { position: relative; } /**/* html .clear_children { display: inline;}/* PREVENTS MISSING CHILDREN IN IE WIN 5.0 */
+.cc_tallest:after { content: ''; } /* PREVENTS A REDRAW BUG IN SAFARI */
+
+
+
+/* modules */
+
+.module_top {
+	position: absolute; top: -7px; left: -10px;
+	z-index: 10;
+}
+
+.module_btm {
+	position: relative; top: -25px; left: -10px;
+	z-index: 11;
+}
+
+/* Getting Started */
+#startHere {width: 517px;}
+
+#getting_started_header {
+	position: absolute; top: 10px; left: 150px;
+	z-index: 100;
+	width: 184px;
+}
+
+#startHere .content {
+	position: relative; top: 0; left: 0;
+	z-index: 0;
+}
+
+#startHere .content ul {margin-top: 30px;}
+
+#startHere .content li {display: block;}
+
+/* Newsflash (2 Column) */
+#news {width: 517px;}
+
+#news_header {
+	position: absolute; top: 10px; left: 170px;
+	z-index: 100;
+	width: 184px;
+}
+
+#news .content {
+	position: relative; top: 0; left: 0;
+	z-index: 0;
+}
+
+#news .content .spacer {margin-top: 40px;}
+
+#news .content li {display: block;}
+
+#newsletterButton { 
+	position: relative; 
+	margin-top: -37px;
+	margin-left: 90px; 
+	z-index: 999; 
+}
+
+/* Help */
+#help {width: 517px;}
+
+#help_header {
+	position: absolute; top: 10px; left: 240px;
+	z-index: 100;
+	width: 184px;
+}
+
+#help .content {
+	position: relative; top: 0; left: 0;
+	z-index: 0;
+}
+
+#help .content ul {margin-top: 30px;}
+
+#help .content li {display: block;}
+
+/* FAQ (2 column page) */
+#faq { width: 517px; }
+
+#faq_header {
+	position: absolute; top: 10px; left: 240px;
+	z-index: 100;
+	width: 184px;
+}
+
+#faq .content {
+	position: relative; top: 0; left: 0;
+	z-index: 0;
+}
+
+#faq .content h1 {margin-top: 30px;}
+
+#faq .content li {display: block;}
+
+/* Parents' Info (2 column page) */
+#parents { width: 517px; }
+
+#parents_header {
+	position: absolute; top: 10px; left: 200px;
+	z-index: 100;
+	width: 184px;
+}
+
+#parents .content {
+	position: relative; top: 0; left: 0;
+	z-index: 0;
+}
+
+#parents .content h1 {margin-top: 30px;}
+
+#parents .content li {display: block;}
+
+/* Terms (2 column page) */
+#terms { width: 517px; }
+
+#terms_header {
+	position: absolute; top: 10px; left: 175px;
+	z-index: 100;
+	width: 184px;
+}
+
+#terms .content {
+	position: relative; top: 0; left: 0;
+	z-index: 0;
+}
+
+#terms .content h1 {margin-top: 30px;}
+
+#terms .content li {display: block;}
+
+/* Cool Stuff (2 column page) */
+#coolStuff {width: 517px; padding-bottom: 50px;}
+
+#coolStuff_header {
+	position: absolute; top: 10px; left: 175px;
+	z-index: 100;
+	width: 184px;
+}
+
+#coolStuff .content {
+	position: relative; top: 0; left: 0;
+	z-index: 0;
+	height: 100%;
+}
+
+#coolStuff .content ul {margin-top: 30px;}
+
+#coolStuff .content li {display: block;}
+
+/* Pics (2 column page) */
+#pics {width: 517px; padding-bottom: 50px;}
+
+#pics_header {
+	position: absolute; top: 10px; left: 185px;
+	z-index: 100;
+	width: 184px;
+}
+
+#pics .content {
+	position: relative; top: 0; left: 0;
+	z-index: 0;
+	height: 100%;
+}
+
+#pics .content ul {margin-top: 30px;}
+
+#pics .content li {display: block;}
+
+/* Games (2 column page) */
+#games {width: 517px;}
+
+#games_header {
+	position: absolute; top: 10px; left: 150px;
+	z-index: 100;
+	width: 184px;
+}
+
+#games .content {
+	position: relative; top: 0; left: 0;
+	z-index: 0;
+	height: 100%;
+}
+
+#games #description {
+	min-height: 100px;
+}
+
+#games .content ul {margin-top: 30px;}
+
+#games .content li {display: block;}
+
+#previewWin {
+	position: relative; top: 30px; left: 0;
+	width: 484px;
+	height: 358px;
+	margin: 0 auto;
+}
+
+#game_navigation {
+	position: relative; top: 12px; left: 0;
+	width: 315px;
+	height: 34px;
+	margin: 0 auto;
+}
+
+#game_navigation a {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+#gameInfo {
+	position: relative; top: 0; left: 0;
+	width: 100%;
+	margin: 0 auto 2em;
+}
+
+#wideInfo 
+{
+	text-align: center;
+	position: relative; top: 20px; left: 60px;
+	width: 75%;
+}
+
+
+#highScores {
+	float: right;
+	width: 45%;
+	display: inline;
+}
+
+#description {
+	position: relative; top: 0; left: 0;
+	width: 50%;
+}
+
+
+/* News Flash */
+
+#newsFlash {width: 317px;}
+
+#newsFlash .module_top {
+	position: absolute; top: -6px; left: -4px;
+	z-index: 10;
+}
+
+#newsFlash .module_btm {
+	position: relative; top: -23px; left: -4px;
+	z-index: 11;
+}
+
+#newsFlash_header {
+	position: absolute; top: 0; left: 75px;
+	z-index: 100;
+	width: 165px;
+	height: 33px;
+}
+
+#newsFlash .content  {
+	position: relative; top: 0; left: 0;
+	width: 288px;
+	z-index: 0;
+	overflow: hidden;
+}
+
+#newsFlash .content p {margin-bottom: 1em;}
+#newsFlash .content ul {margin-bottom: 1em;}
+
+#newsFlash .content li {display: block;}
+
+#newsFlash .content #newsList {position: relative; top: 35px; left: 3px; min-height: 290px;}
+#newsFlash .content #newsList img { border: 6px solid #0E27A2; }
+
+#newsFlash .content .spacer { margin-bottom: 4em; }
+
+/* babwLogo */
+#babwLogo {
+	position: relative;
+	left: 30px;
+}
+
+/* Games (3 column page) */ 
+
+#gamesHome {width: 317px;}
+
+#gamesHome .module_top {
+	position: absolute; top: -7px; left: -4px;
+	z-index: 10;
+}
+
+#gamesHome .module_btm {
+	position: relative; top: -23px; left: -4px;
+	z-index: 11;
+}
+
+#gamesHome #games_header {
+	position: absolute; top: 5px; left: 55px;
+	z-index: 100;
+	width: 184px;
+	height: 30px;
+}
+
+#gamesHome .content {
+	position: relative; top: 0; left: 0;
+	width: 288px;
+	height: 188px;
+	z-index: 0;
+}
+
+#gamesHome .content #picViewer {position: relative; top: 35px; left: 0;}
+
+/* picture Viewer */
+
+.col01 {
+	position: absolute; top: 0; left: 0;
+	width: 33%;
+}
+
+.col02 {
+	position: absolute; top: 0; 
+	left: 35%;
+	width: 34%;
+}
+	
+.col03 {
+	position: absolute; top: 0; 
+	left: 69%;
+	width: 33%;
+}
+
+#gamesHome .content #picViewer ul {
+	position: relative; top: 0; left:0;
+	margin-bottom: 1em;
+}
+
+#gamesHome .content #picViewer li {
+	display: block;
+}
+
+#gamesHome .content  p {position: relative; top: 23px; left:10px;}
+
+#gamesHome .moreInfo_btn {
+	position: absolute; top: 200px; left: 90px;
+	z-index: 50;
+}
+
+/* footer */
+#footer {
+
+	position:relative;
+	bottom:0;
+}
+
+#mainFooter {
+	position:relative;
+	bottom:20px;
+	width:750px;
+	height:146px;
+	top:0;
+	left:0;
+}
+#leftFooter {float:left;width:214px;}
+/*#centerFooter {float:left;width:336px;}*/
+#rightFooter {float:right; margin-top:-80px; width:200px;margin-left:336px;}
+
+

@@ -1,0 +1,84 @@
+<HTML>
+<HEAD>
+<TITLE>Bear University</TITLE>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<script language=javaScript>
+function getHTTPObject()
+{
+  var xhr = null;
+  if(window.XMLHttpRequest)
+  {
+    var xhr = new XMLHttpRequest();
+  }
+  else if(window.ActiveXObject)
+  {
+    try
+    {
+      var xhr = new ActiveXObject("Msxml2.XMLHTTP");
+    }
+    catch(e)
+    {
+      try
+      {
+        var xhr = new ActiveXObject("Microsoft.XMLHTTP");
+      }
+      catch(e)
+      {
+        xhr = null
+      }
+    }
+  }
+  return xhr
+}
+
+
+function statTracker( trackingURL )
+{
+  trackingURL = "http://www.silentbaystudios.com" + trackingURL;
+  var httpObject = getHTTPObject();
+  if (httpObject != null)
+  {
+    httpObject.open("GET", trackingURL, true);
+    httpObject.send(null);
+  }
+}
+
+
+
+var http = createRequestObject();
+
+function sendScore(bearBills)
+{
+	http.open('get', '[Change_here_script_communicating_with_BAB_API.php]?amount='+bearBills);
+}
+
+function createRequestObject()
+{
+    var ro;
+
+    var browser = navigator.appName;
+
+    if(browser == "Microsoft Internet Explorer"){
+
+        ro = new ActiveXObject("Microsoft.XMLHTTP");
+
+    }else{
+
+        ro = new XMLHttpRequest();
+
+    }
+
+    return ro;
+}
+
+</script>
+
+<script type="text/javascript" src="dcr_embed_sw11.js"></script>
+
+</HEAD>
+<BODY bgColor="#000000">
+	<div align="center">
+		<script language="javascript">PrintDCREmbedTagSw11('bear_university.dcr', 608, 457, '#000000', '', '', '', '', '', '', '', '', '', '', '11,5,0,593', 1);</script>
+	</div>
+</BODY>

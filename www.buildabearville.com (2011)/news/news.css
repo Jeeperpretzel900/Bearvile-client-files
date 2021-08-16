@@ -1,0 +1,12 @@
+/* CSS de la page index.html */
+
+body {
+	background-image: url(../images/gameBkg.jpg);
+	background-repeat: repeat-x;
+	margin: 0;
+	text-align: center;
+}
+
+p#flash {
+	margin: 15px auto auto auto;
+}

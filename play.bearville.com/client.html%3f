@@ -1,0 +1,213 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Build-A-Bearville</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="swfobject.js"></script>
+<script type="text/javascript" src="site/js/validateFlash.js"></script>
+<script type="text/javascript" src="site/js/googleAnalytics.js"></script>
+
+
+<script type="text/javascript">
+var popupAllowed = null;
+
+function sc_AreasVisited(id)
+{
+	_gaq._trackPageview("/AreaTag/"+id); 
+}
+
+function sc_GamePlayed(id)
+{
+	_gaq._trackPageview("/GameTag/"+id); 
+}
+
+function sc_VideoViewed(id)
+{
+	_gaq._trackPageview("/VideoTag/"+id); 
+}
+
+function NewsViewed(name)
+{
+	_gaq._trackPageview("/NewsTag/"+name); 
+}
+
+function sc_Navigation(name)
+{
+	_gaq._trackPageview("/NavigationToolTag/"+name); 
+}
+
+function sc_ChooseMeWall(name)
+{
+	_gaq._trackPageview("/ChooseMeWallTag/"+name);
+}
+
+function sc_BeachHouseAccess(name)
+{
+	_gaq._trackPageView("/BeachHouseAccessTag/"+name);
+}
+
+function sc_CondoAccess(name)
+{
+	_gaq._trackPageView("/CondoAccessTag/"+name);
+}
+
+function sc_BearMail(name)
+{
+	_gaq._trackPageView("/BearMail/"+name);
+}
+
+function sc_HomePage(name)
+{
+	_gaq._trackPageView("/HomePage/"+name);
+}
+
+function sc_TrackBarCode(name)
+{
+	_gaq._trackPageView("/BarCode/"+name);
+}
+
+function sc_TrackBearMailLinks(name)
+{
+	_gaq._trackPageView("/BearMailLinks/"+name);
+}
+
+function TryWindowOpening(page)
+{
+	popupAllowed = window.open(page, "PopupValidation", "");
+	var result = false;
+	if (popupAllowed != null)
+	{
+		result = true;
+		popupAllowed.close();
+	}
+	return(result);
+}
+
+function GetParam(param)
+{
+	var url = window.location.href;
+	var pos = url.indexOf(param);
+	if (pos == -1)
+	{
+		return("");
+	}
+	pos = pos + param.length + 1;
+	var name = url.substring(pos);
+	return(name);
+}
+
+var USERNAME = GetParam("name");
+var BACKGROUND = GetParam("background");
+
+function TestEventString(param)
+{
+	return(eval(param));
+}
+
+// DO NOT REMOVE
+function AdjustPageHeight()
+{
+
+}
+
+function OnGameEvent(eventName)
+{
+	switch(eventName)
+	{
+		case "OnGameLoadingError":
+			// ...
+			break;
+			
+		case "OnNewUserLogin":
+			// ...
+			break;
+			
+		case "OnReloadClient":
+			// ...
+			break;
+			
+		case "OnQuitGame":
+			// ...
+			break;
+	}
+	return true;
+}
+
+
+</script>
+
+<style type="text/css">
+<!--
+body {
+	background-image: url("site/images/gameBkg.jpg");
+	background-repeat: repeat-x;
+}
+#banner {
+	margin-top:1em;
+	text-align:center;
+	height:90px;
+	width:728px;
+	background:url("/site/images/adh.gif") no-repeat scroll 3px center #000000;
+	padding-left:15px;
+}
+-->
+</style>
+
+</head>
+<body bgcolor="#080E5A" onload="ValidateVersion()">
+<div align="center">
+	<div id="page">
+		<div id="flashEnabled" align="center">
+			<div id="flashcontent"></div>
+			<script type="text/javascript">
+				var versionClient = "Accessor.swf?Version=" + getQueryParamValue("VERSION");
+				var so = new SWFObject(versionClient, "client", "750", "510", "8,0,0,0", "#000000");
+				so.addVariable("VERSION", getQueryParamValue("VERSION"));
+				so.addVariable("USERNAME", USERNAME);
+				so.addVariable("BACKGROUND", BACKGROUND);
+				so.write("flashcontent");
+			</script>
+		</div>
+		<div id="banner">
+			<!-- BEGIN GN Ad Tag for Build A Bearville 728x90 ros -->
+			<script type="text/javascript">
+			  if(typeof(gnm_ord)=='undefined') { gnm_ord=Math.random()*10000000000000000; } if(typeof(gnm_tile) == 'undefined') { gnm_tile=1; }
+			  gnm_tile++;
+			  document.write('<scr'+'ipt src="http://n4403ad.doubleclick.net/adj/gn.buildabearville.com/ros;sect=ros;sz=728x90;tile='+gnm_tile+';ord='+gnm_ord+'?" type="text/javascript"></scr'+'ipt>');
+			</script>
+			<!-- END AD TAG -->
+		</div>
+		<div id="flashDisabled" style="display:none">
+			<p>
+				<a href="http://www.adobe.com/products/flashplayer/" title="Get Adobe Flash Player" onclick="OpenPopup('http://www.adobe.com/products/flashplayer/','GetFlash','');return(false);">
+					<img src="site/images/noFlashPlayer.jpg" title="Adobe Flash Player 9 required" alt="Adobe Flash Player 9 required" />
+				</a>
+			</p>
+			<p><a class="mainLink" href="index.html">Retry</a></p>
+		</div>
+	</div>
+</div>
+
+	<!-- Begin comScore Tag -->
+	<script>
+		document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+	</script>
+	<script>
+		COMSCORE.beacon({
+			c1:2,
+			c2:7939405,
+			c3:"",
+			c4:"",
+			c5:"",
+			c6:"",
+			c15:""
+		});
+	</script>
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&c2=7939405&c3=&c4=&c5=&c6=&c15=&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+</body>
+</html>

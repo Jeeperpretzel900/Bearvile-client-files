@@ -1,0 +1,103 @@
+body
+{
+	background-color: #152283;
+	color: #FFFFFF;
+	font: 0.8em arial,sans serif;
+	font-weight: bold;
+	margin: 0;
+	padding: 0;
+	position: relative;
+}
+
+img
+{
+	border: 0;
+}
+
+#page
+{
+	margin: 0 auto;
+	width: 1024px;
+}
+
+#header
+{
+	background: url("images/content1.png") no-repeat;
+	height: 212px;
+	position: relative;
+}
+
+#content
+{
+	background:url("images/content.png") repeat-y;
+	height: 421px;
+	position: relative;
+}
+
+#contentTop
+{
+	background: url("images/content2.png") no-repeat;
+	height: 77px;
+}
+
+#contentMainPage
+{
+	height: 633px;
+	position: absolute;
+	top: 0px;
+}
+
+#footerNotice
+{
+	clear: left;
+	color: #88B8FF;
+	font-size: 0.8em;
+	margin:0 6em;
+}
+
+span.fRight
+{
+	float: right;
+}
+
+
+/*==- LINKS -==*/
+
+a.mainLink:link, a.mainLink:visited 
+{
+	color: #88B8FF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.mainLink:hover
+{
+	color: #88B8FF;	
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#banners {
+	position:relative;
+	z-index:22;
+	top:48px;
+}
+#bannerleft {
+	background:url("/site/images/adv.gif") no-repeat scroll center 3px #000000;
+	padding-top:15px;
+	position:absolute;
+	z-index:20;
+	left:-140px;
+	height:600px;
+}
+#bannerright {
+	background:url("/site/images/adv.gif") no-repeat scroll center 3px #000000;
+	padding-top:15px;
+	position:absolute;
+	left:1002px;
+	z-index:21;
+	height:600px;
+}
+
+#pagevalue {
+}

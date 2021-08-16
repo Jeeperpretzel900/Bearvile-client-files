@@ -1,0 +1,978 @@
+<avatar_sidekick>
+	
+	
+	<default_sidekick type_id="0">		<!-- Type the new bear name, it's id (increasing) and all parts id. -->
+		<!--
+		Parameters :
+			id : unic identifier of the sidekick
+			legs : type of sidekick (1 : dinosaurus sidekick, 2 : standard 2 legged sidekick, 4 : standard 4 legged sidekick)
+			hat_id : indicates if the sidekick can wear headgear (-1 : can wear headgear, 0 : can't wear headgear,  1: can wear headgear but the ears are not hidden,  otherwise : can't wear headgear but have a skull part)
+			backpack_id : indicates if the sidekick can wear back item (-1 : can wear back item, 0 : can't wear back item, otherwise : can't wear back item but have a dorsal part)
+			default_color : indicastes the default color of it's skin or fur ("red,green,blue" as decimal values)
+			available : date of availability (yyyy-mm-dd)
+			releaseName : official name of the sidekick
+		-->
+		<Floppy_Cow							id="1" 	legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2007-12-17" releaseName="Floppy Cow"/>
+		<Bearemy							id="2"	legs="2" hat_id="-1" backpack_id="-1" default_color="181,146,99" available="2007-12-17" releaseName="Bearemy&#174;"/>
+		<Dimples_Teddy						id="3"	legs="2" hat_id="-1" backpack_id="-1" default_color="29,27,46" available="2007-12-17" releaseName="Dimples Teddy"/>
+		<Toffee_Teddy						id="4" 	legs="2" hat_id="-1" backpack_id="-1" default_color="240,180,90" available="2007-12-17" releaseName="Toffee Teddy"/>
+		<Husky								id="5" 	legs="4" hat_id="-1" backpack_id="-1" default_color="217,238,255" available="2007-12-17" releaseName="Husky"/>
+		<Curly_Teddy						id="6" 	legs="2" hat_id="-1" backpack_id="-1" default_color="232,197,127" available="2007-12-17" releaseName="Curly Teddy"/>
+		<Velvet_Teddy						id="7" 	legs="2" hat_id="-1" backpack_id="-1" default_color="255,213,150" available="2007-12-17" releaseName="asthma friendly&#174; Velvet Bear"/>
+		<Kuddly_Koala						id="8" 	legs="2" hat_id="-1" backpack_id="-1" default_color="153,153,153" available="2007-12-17" releaseName="Kuddly Koala&#174;"/>
+		<Playful_Puppy						id="9" 	legs="2" hat_id="-1" backpack_id="-1" default_color="253,245,232" available="2007-12-17" releaseName="Playful Puppy"/>
+		<Tabby_Kitty						id="10" legs="2" hat_id="-1" backpack_id="-1" default_color="255,170,0" available="2007-12-17" releaseName="Tabby Kitty"/>
+		<Pink_Cuddles_Teddy					id="11" legs="2" hat_id="-1" backpack_id="-1" default_color="255,242,248" available="2007-12-17" releaseName="Pink Cuddles Teddy"/>
+		<Blue_Cuddles_Teddy					id="12" legs="2" hat_id="-1" backpack_id="-1" default_color="242,243,255" available="2007-12-17" releaseName="Blue Cuddles Teddy"/>
+		<Lil_Vanilla_Cub					id="13" legs="2" hat_id="-1" backpack_id="-1" default_color="255,220,148" available="2007-12-17" releaseName="Lil' Vanilla Cub"/>
+		<Brown_Sugar_Puppy					id="14" legs="2" hat_id="-1" backpack_id="-1" default_color="224,165,78" available="2007-12-17" releaseName="Brown Sugar Puppy"/>
+		<Hip_Hippo							id="15" legs="2" hat_id="-1" backpack_id="-1" default_color="230,204,255" available="2007-12-17" releaseName="Hip Hippo"/>
+		<Pink_Kisses_Fur_You_Teddy			id="16" legs="2" hat_id="-1" backpack_id="-1" default_color="255,190,201" available="2007-12-17" releaseName="Pink Kisses Fur You&#174; Teddy"/>
+		<Bunny_Big_Ears						id="17" legs="2" hat_id="1" backpack_id="-1" default_color="227,176,113" available="2007-12-17" releaseName="Bunny Big Ears"/>
+		<Velvet_Puppy						id="18" legs="2" hat_id="-1" backpack_id="-1" default_color="245,183,120" available="2007-12-17" releaseName="asthma friendly&#174; Velvet Puppy"/>
+		<Big_Hugs_Bear						id="19" legs="2" hat_id="-1" backpack_id="-1" default_color="217,165,103" available="2007-12-17" releaseName="Big Hugs Bear"/>
+		<Purrincess_Kitty					id="21" legs="2" hat_id="-1" backpack_id="-1" default_color="255,213,213" available="2007-12-17" releaseName="Purrincess Kitty"/>
+		<WWF_Snow_Leopard					id="23" legs="2" hat_id="-1" backpack_id="-1" default_color="255,240,209" available="2007-12-17" releaseName="World Wildlife Fund Snow Leopard"/>
+		<Champ_A_Champion_Fur_Kids			id="24" legs="2" hat_id="-1" backpack_id="-1" default_color="255,224,161" available="2007-12-17" releaseName="Champ - A Champion Fur Kids"/>
+		<Magnificent_Monkey					id="25" legs="2" hat_id="-1" backpack_id="-1" default_color="181,98,61" available="2007-12-17" releaseName="Magnificent Monkey"/>
+		<White_Fluffy_Puppy					id="27" legs="4" hat_id="-1" backpack_id="-1" default_color="255,251,242" available="2007-12-17" releaseName="White Fluffy Puppy"/>
+		<Lil_Milk_Chocolate_Cub				id="29" legs="2" hat_id="-1" backpack_id="-1" default_color="167,94,57" available="2007-12-17" releaseName="Lil' Milk Chocolate Cub"/>
+		<Sweet_Hugs_Kisses_Teddy			id="30" legs="2" hat_id="-1" backpack_id="-1" default_color="219,2,2" available="2007-12-17" releaseName="Sweet Hugs &#38; Kisses Teddy"/>
+		<Tan_Swirl_Bunny					id="31" legs="2" hat_id="1" backpack_id="-1" default_color="250,197,132" available="2007-12-17" releaseName="Tan Swirl Bunny"/>
+		<Spring_Bear_2007					id="32" legs="2" hat_id="-1" backpack_id="-1" default_color="255,204,229" available="2007-12-17" releaseName="Spring Bear 2007"/>
+		<Lots_O_Luck_Teddy					id="33" legs="2" hat_id="-1" backpack_id="-1" default_color="242,255,242" available="2007-12-17" releaseName="Lots O'Luck Teddy"/>
+		<Cuddly_Lamb						id="34" legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2007-12-17" releaseName="Cuddly Lamb"/>
+		<Trekkin_Turtle						id="36" legs="2" hat_id="0" backpack_id="1" default_color="88,186,91" available="2007-12-17" releaseName="Trekkin' Turtle"/>
+		<Summer_Bear_2007					id="37" legs="2" hat_id="-1" backpack_id="-1" default_color="167,214,172" available="2007-12-17" releaseName="Summer Bear 2007"/>
+		<Pretty_Poodle						id="38" legs="2" hat_id="-1" backpack_id="-1" default_color="255,242,248" available="2007-12-17" releaseName="Pretty Poodle"/>
+		<Read_Teddy							id="39" legs="2" hat_id="-1" backpack_id="-1" default_color="201,128,34" available="2007-12-17" releaseName="Read Teddy&#174;"/>
+		<Autumn_Bear_2007					id="41" legs="2" hat_id="-1" backpack_id="-1" default_color="255,180,69" available="2007-12-17" releaseName="Autumn Bear 2007"/>
+		<WWF_Cheetah						id="43" legs="2" hat_id="-1" backpack_id="-1" default_color="255,219,145" available="2007-12-17" releaseName="World Wildlife Fund Cheetah"/>
+		<Triceratops						id="44" legs="2" hat_id="0" backpack_id="-1" default_color="94,199,73" available="2007-12-17" releaseName="Triceratops"/>
+		<Boorrific_Ghost					id="45" legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2007-12-17" releaseName="Boorrific Ghost"/>
+		<Winter_Bear_2007					id="46" legs="2" hat_id="-1" backpack_id="-1" default_color="166,226,255" available="2007-12-17" releaseName="Winter Bear 2007"/>
+		<Waggly_Puppy						id="47" legs="4" hat_id="-1" backpack_id="-1" default_color="111,56,34" available="2007-12-17" releaseName="Waggly Puppy"/>
+		<Playful_Polar_bear					id="48" legs="4" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2007-12-17" releaseName="Playful Polar Bear"/>
+		<Floppy_Moose						id="51" legs="2" hat_id="0" backpack_id="-1" default_color="82,69,60" available="2007-12-17" releaseName="Floppy Moose"/>
+		<Hopeful_Wishes						id="52" legs="2" hat_id="-1" backpack_id="-1" default_color="253,154,254" available="2007-12-17" releaseName="Hopeful Wishes Teddy"/>
+		<Black_Labrador						id="53" legs="4" hat_id="-1" backpack_id="-1" default_color="13,13,21" available="2007-12-17" releaseName="Black Labrador"/>
+		<Golden_Retriever					id="54" legs="4" hat_id="-1" backpack_id="-1" default_color="163,125,65" available="2007-12-17" releaseName="Golden Retriever"/>
+		<Zoo_WWF_Leopard					id="55" legs="4" hat_id="-1" backpack_id="-1" default_color="197,146,39" available="2007-12-17" releaseName="World Wildlife Fund Cheetah"/>
+		<Westie								id="56" legs="4" hat_id="-1" backpack_id="-1" default_color="237,231,222" available="2007-12-17" releaseName="Westie"/>
+		<Shaggy_Bear						id="57" legs="2" hat_id="-1" backpack_id="-1" default_color="189,104,40" available="2007-12-17" releaseName="Shaggy Teddy"/>
+		<Beagle								id="58" legs="4" hat_id="-1" backpack_id="-1" default_color="189,146,66" available="2007-12-17" releaseName="Beagle"/>
+		<Happy_Cub							id="59" legs="2" hat_id="-1" backpack_id="-1" default_color="165,108,33" available="2007-12-17" releaseName="Happy Cub"/>
+		<Unicorn							id="60" legs="4" hat_id="0" backpack_id="-1" default_color="255,204,255" available="2007-12-17" releaseName="Unicorn"/>
+		<Lil_Caramel_Cub					id="61" legs="2" hat_id="-1" backpack_id="-1" default_color="179,132,45" available="2007-12-17" releaseName="Lil' Caramel Cub"/>
+		<Hearts_a_Plenty					id="62" legs="2" hat_id="-1" backpack_id="-1" default_color="253,217,218" available="2007-12-17" releaseName="Hearts a Plenty"/>
+		<Mocha_Bunny						id="63" legs="2" hat_id="1" backpack_id="-1" default_color="167,122,80" available="2007-12-17" releaseName="Mocha Bunny"/>
+		<Border_Collie						id="64" legs="4" hat_id="-1" backpack_id="-1" default_color="228,220,228" available="2007-12-17" releaseName="Border Collie"/>
+		<Friendly_Frog						id="65" legs="2" hat_id="0" backpack_id="-1" default_color="34,130,36" available="2007-12-17" releaseName="Friendly Frog"/>
+		<Maple_Teddy						id="66" legs="2" hat_id="-1" backpack_id="-1" default_color="123,87,47" available="2007-12-17" releaseName="Maple Teddy"/>
+		<Nikki_s_Bear_II					id="67" legs="2" hat_id="-1" backpack_id="-1" default_color="156,99,148" available="2007-12-17" releaseName="Nikki's Bear II"/>
+		<Yellow_Labrador					id="68" legs="4" hat_id="-1" backpack_id="-1" default_color="240,215,144" available="2007-12-17" releaseName="Yellow Labrador"/>
+		<Sassy_Kitty						id="69" legs="2" hat_id="-1" backpack_id="-1" default_color="234,223,244" available="2007-12-17" releaseName="Sassy Kitty"/>
+		<Boxer								id="70" legs="4" hat_id="-1" backpack_id="-1" default_color="149,65,30" available="2007-12-17" releaseName="Boxer"/>
+		<Nikki_s_Bear_III					id="71" legs="2" hat_id="-1" backpack_id="-1" default_color="182,169,252" available="2007-12-17" releaseName="Nikki's Bear III"/>
+		<Springtime_Fun_Bunny				id="72" legs="2" hat_id="1" backpack_id="-1" default_color="255,217,235" available="2007-12-17" releaseName="Springtime Fun Bunny"/>
+		<Zoo_Floppy_Tiger					id="73" legs="2" hat_id="-1" backpack_id="-1" default_color="157,102,21" available="2007-12-17" releaseName="Floppy Tiger"/>
+		<Zoo_Tree_Frog						id="74" legs="2" hat_id="0" backpack_id="-1" default_color="52,99,10" available="2007-12-17" releaseName="Tree Frog"/>
+		<Zoo_Ring_Tailed_Lemur				id="75" legs="2" hat_id="-1" backpack_id="-1" default_color="75,73,63" available="2007-12-17" releaseName="Ringtail Lemur"/>
+		<Zoo_Cimpanzee						id="76" legs="2" hat_id="0" backpack_id="-1" default_color="54,37,31" available="2007-12-17" releaseName="Chimpanzee"/>
+		<Zoo_Asian_Elephant					id="77" legs="2" hat_id="-1" backpack_id="-1" default_color="149,149,149" available="2007-12-17" releaseName="Asian Elephant"/>
+		<Zoo_Grevy_s_Zebra					id="78" legs="2" hat_id="0" backpack_id="-1" default_color="230,230,230" available="2007-12-17" releaseName="Grevy's Zebra"/>
+		<Traveling_Teddy					id="80" legs="2" hat_id="-1" backpack_id="-1" default_color="245,211,179" available="2007-12-17" releaseName="Traveling Teddy&#174;"/>
+		<Zoo_Prairie_Dog					id="81" legs="2" hat_id="0" backpack_id="-1" default_color="158,117,77" available="2007-12-17" releaseName="Prairie Dog"/>
+		<Zoo_Black_Bear						id="82" legs="4" hat_id="-1" backpack_id="-1" default_color="47,47,47" available="2007-12-17" releaseName="Black Bear"/>
+		<Zoo_Panda_Bear						id="83" legs="2" hat_id="-1" backpack_id="-1" default_color="13,13,21" available="2007-12-17" releaseName="Panda Bear"/>
+		<Brown_Pony							id="84" legs="4" hat_id="0" backpack_id="-1" default_color="158,117,77" available="2007-12-17" releaseName="Brown Pony"/>
+		<Zoo_WWF_Lion						id="85" legs="2" hat_id="-1" backpack_id="-1" default_color="224,197,133" available="2007-12-17" releaseName="World Wildlife Fund Lion"/>
+		<Pug								id="86" legs="4" hat_id="-1" backpack_id="-1" default_color="236,211,179" available="2007-12-17" releaseName="Pug"/>
+		<Zoo_Hippopotamus					id="87" legs="4" hat_id="0" backpack_id="-1" default_color="149,149,149" available="2007-12-17" releaseName="Hippopotamus"/>
+		<Zoo_Alligator						id="88" legs="2" hat_id="-1" backpack_id="-1" default_color="78,181,55" available="2007-12-17" releaseName="Alligator"/>
+		<White_Tiger						id="89" legs="2" hat_id="-1" backpack_id="-1" default_color="204,204,204" available="2007-12-17" releaseName="White Tiger"/>
+		<Dino_Tyrannosaurus_Rex				id="90" legs="1" hat_id="0" backpack_id="-1" default_color="41,5,97" available="2007-12-17" releaseName="Tyrannosaurus Rex (Purple)"/>
+		<Dino_Apatosaurus_Pink				id="91" legs="1" hat_id="0" backpack_id="-1" default_color="253,2,103" available="2007-12-17" releaseName="Apatosaurus Pink"/>
+		<Dino_Apatosaurus_Blue				id="92" legs="1" hat_id="0" backpack_id="-1" default_color="52,75,126" available="2007-12-17" releaseName="Apatosaurus Blue"/>
+		<Dino_Brachiosaurus					id="93" legs="1" hat_id="0" backpack_id="-1" default_color="128,176,11" available="2007-12-17" releaseName="Brachiosaurus"/>
+		<Dino_Stegosaurus					id="94" legs="1" hat_id="0" backpack_id="2" default_color="84,1,27" available="2007-12-17" releaseName="Stegosaurus"/>
+		<Dino_Ankylosaurus					id="95" legs="1" hat_id="0" backpack_id="3" default_color="63,66,28" available="2007-12-17" releaseName="Ankylosaurus"/>
+		<Dino_Tyrannosaurus_Gold			id="96" legs="1" hat_id="0" backpack_id="-1" default_color="201,147,20" available="2007-12-17" releaseName="Tyrannosaurus Rex (Gold)"/>
+		<Dino_Pachycephalosaurus			id="97" legs="1" hat_id="0" backpack_id="-1" default_color="141,72,3" available="2007-12-17" releaseName="Pachycephalosaurus"/>
+		<Dino_Parasaurolophus				id="98" legs="1" hat_id="0" backpack_id="-1" default_color="70,44,135" available="2007-12-17" releaseName="Parasaurolophus"/>
+		<Dino_Velociraptor					id="99" legs="1" hat_id="0" backpack_id="-1" default_color="225,114,4" available="2007-12-17" releaseName="Velociraptor"/>
+		<Dino_Dilophosaurus					id="100" legs="1" hat_id="0" backpack_id="-1" default_color="173,39,66" available="2007-12-17" releaseName="Dilophosaurus"/>
+		<Holiday_Reindeer_Generic_Male		id="101" legs="4" hat_id="0" backpack_id="-1" default_color="135,94,52" available="2007-12-17" releaseName="Holiday Reindeer (Male)"/>
+		<Holiday_Reindeer_Generic_Female	id="102" legs="4" hat_id="0" backpack_id="-1" default_color="191,156,125" available="2007-12-17" releaseName="Holiday Reindeer (Female)"/>
+		<Pawfect_Pink_Leopard				id="103" legs="2" hat_id="-1" backpack_id="-1" default_color="254,197,197" available="2007-12-17" releaseName="Pawfect Pink Leopard"/>
+		<Hearts_Fur_You_Puppy				id="104" legs="4" hat_id="-1" backpack_id="-1" default_color="255,237,237" available="2007-12-19"  releaseName="Hearts Fur You Puppy"/>
+		<Big_Hearts_Fur_You_Puppy			id="105" legs="4" hat_id="-1" backpack_id="-1" default_color="255,237,237" available="2008-02-01" releaseName="Big Hearts Fur You Puppy"/>
+		<Precious_Pink						id="106" legs="2" hat_id="-1" backpack_id="-1" default_color="255,213,213" available="2008-01-11"  releaseName="Precious Pink Teddy"/>
+		<Ground_Hog							id="107" legs="2" hat_id="0" backpack_id="-1" default_color="136,102,68" available="2008-01-18" releaseName="Groundhog"/>
+		<Lucky_Fur_You_Teddy				id="108" legs="2" hat_id="-1" backpack_id="-1" default_color="253,243,164" available="2008-02-01" releaseName="Lucky Fur You Teddy"/>
+		<Pawsome_Pink_Bunny					id="109" legs="2" hat_id="1" backpack_id="-1" default_color="255,232,240" available="2008-02-08" releaseName="Pawsome Pink Bunny"/>
+		<Fuzzy_Chick						id="110" legs="2" hat_id="-1" backpack_id="-1" default_color="248,213,75" available="2008-02-15" releaseName="Fuzzy Chick"/>
+		<Pink_Hearts_Teddy					id="111" legs="2" hat_id="-1" backpack_id="-1" default_color="254,137,190" available="2008-03-18" releaseName="Pink Hearts Teddy"/>
+		<Zoo_Sea_Lion						id="112" legs="2" hat_id="0" backpack_id="-1" default_color="192,159,126" available="2012-07-01" releaseName="Sea Lion"/>
+		<Zoo_Orangutan						id="115" legs="2" hat_id="-1" backpack_id="-1" default_color="224,100,39" available="2008-07-01" releaseName="Orangutan"/>
+		<Dino_Spinosaurus					id="116" legs="1" hat_id="0" backpack_id="-1" default_color="0,183,46" available="2008-07-01" releaseName="Spinosaurus"/>
+		<Lil_Honey_Cub						id="117" legs="2" hat_id="-1" backpack_id="-1" default_color="201,138,61" available="2008-07-01" releaseName="Lil' Honey Cub"/>
+		<Zoo_Gorilla						id="118" legs="2" hat_id="-1" backpack_id="-1" default_color="28,28,42" available="2008-07-01" releaseName="Gorilla"/>
+		<Adorable_Elephant					id="119" legs="2" hat_id="-1" backpack_id="-1" default_color="174,174,174" available="2008-03-07" releaseName="Adorable Elephant"/>
+		<Treasure_Topaz_Teddy				id="120" legs="2" hat_id="-1" backpack_id="-1" default_color="255,204,102" available="2008-04-11" releaseName="Treasure Topaz Teddy"/>
+		<Pawsome_Panda						id="121" legs="2" hat_id="-1" backpack_id="-1" default_color="13,13,21" available="2008-05-09" releaseName="Pawsome Panda"/>
+		<Black_Labrador						id="122" legs="4" hat_id="-1" backpack_id="-1" default_color="13,13,21" available="2008-04-25" releaseName="Black Labrador"/>
+		<Ball_Park_Dug_Out_Dog				id="123" legs="4" hat_id="-1" backpack_id="-1" default_color="28,28,42" available="2008-03-27" releaseName="Ball Park Dug Out Dog"/>
+		<Ball_Park_Clysdale					id="124" legs="4" hat_id="0" backpack_id="-1" default_color="174,174,174" available="2009-03-12" releaseName="Ball Park Clysdale"/>
+		<Ball_Park_Generic_Brown_Bear		id="125" legs="2" hat_id="-1" backpack_id="-1" default_color="201,138,61" available="2008-03-27" releaseName="Ball Park Generic Brown Bear"/>
+		<Ball_Park_Colorable_Bear			id="126" legs="2" hat_id="-1" backpack_id="-1" default_color="28,28,42" available="2009-03-12" releaseName="Ball Park Colorable Bear"/>
+		<Ball_Park_MVP_Monkey				id="127" legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2008-03-27" releaseName="Ball Park MVP Monkey"/>
+		<Ball_Park_Panda_Bear				id="128" legs="2" hat_id="-1" backpack_id="-1" default_color="0,183,46" available="2008-03-27" releaseName="Ball Park Panda Bear"/>
+		<Kangaroo							id="129" legs="2" hat_id="1" backpack_id="-1" default_color="228,139,50" available="2008-03-27" releaseName="Red Kangaroo"/>
+		<USASpiritTeddy						id="130" legs="2" hat_id="-1" backpack_id="-1" default_color="247,247,247" available="2008-06-12" releaseName="USA Spirit Teddy"/>
+		<CanadaSpiritTeddy					id="131" legs="2" hat_id="-1" backpack_id="-1" default_color="247,247,247" available="2008-06-12" releaseName="Canada Spirit Teddy"/>
+		<TedTheTailor						id="132" legs="2" hat_id="-1" backpack_id="-1" default_color="215,158,28" available="2008-05-22" releaseName="Ted the Tailor"/>
+		<HelloKitty							id="133" legs="2" hat_id="0" backpack_id="-1" default_color="223,168,123" available="2008-05-30" releaseName="Tropical Hello Kitty"/>
+		<BactrianCamel						id="134" legs="4" hat_id="-1" backpack_id="-1" default_color="225,168,140" available="2008-06-27" releaseName="Bactrian Camel"/>
+		<Ostrich							id="135" legs="1" hat_id="0" backpack_id="-1" default_color="242,219,183" available="2008-05-30" releaseName="Ostrich"/>
+		<NorthAmericanRiverOtter			id="136" legs="2" hat_id="0" backpack_id="-1" default_color="153,120,51" available="2008-05-30" releaseName="North American River Otter"/>
+		<GreenTracksTeddy					id="137" legs="4" hat_id="-1" backpack_id="-1" default_color="239,221,165" available="2012-05-30" releaseName="Green Tracks Teddy"/>
+		<DinoGreenScalyTRex					id="138" legs="1" hat_id="0" backpack_id="-1" default_color="139,151,70" available="2008-07-11" releaseName="Green T-Rex"/>
+		<AdorableAmethystTeddy				id="139" legs="2" hat_id="-1" backpack_id="-1" default_color="206,143,233" available="2008-07-03" releaseName="Adorable Amethyst Teddy"/>
+		<Grizzly							id="140" legs="2" hat_id="-1" backpack_id="-1" default_color="93,38,18" available="2012-05-30" releaseName="Grizzly"/>
+		<EuropeanRabbit						id="141" legs="2" hat_id="0" backpack_id="-1" default_color="156,98,58" available="2012-05-30" releaseName="European Rabbit"/>
+		<Coyote								id="142" legs="4" hat_id="-1" backpack_id="-1" default_color="188,137,67" available="2008-07-15" releaseName="Coyote"/>
+		<LilButtercream						id="143" legs="2" hat_id="-1" backpack_id="-1" default_color="249,217,170" available="2007-12-25" releaseName="Lil'Buttercream"/>
+		<Longhorn							id="144" legs="4" hat_id="0" backpack_id="-1" default_color="155,68,47" available="2008-07-31" releaseName="Longhorn"/>
+		<HSMBear							id="145" legs="2" hat_id="-1" backpack_id="-1" default_color="189,99,49" available="2008-07-31" releaseName="HSM Bear"/>
+		
+		<Beaver								id="146" legs="2" hat_id="0" backpack_id="-1" default_color="156,98,58" available="2008-08-29" releaseName="Beaver"/>
+		<CoquiFrog							id="147" legs="2" hat_id="-1" backpack_id="-1" default_color="183,134,62" available="2008-08-19" releaseName="CoquiFrog"/>
+		<Buffalo							id="148" legs="4" hat_id="-1" backpack_id="-1" default_color="83,37,26" available="2008-09-01" releaseName="Buffalo"/>
+		<BlackJaguar						id="149" legs="4" hat_id="-1" backpack_id="-1" default_color="32,29,37" available="2008-08-29" releaseName="Black Jaguar"/>
+		<HalloweenKitty						id="150" legs="2" hat_id="-1" backpack_id="-1" default_color="250,181,0" available="2008-09-02" releaseName="Halloween Kitty"/>
+		<Lobster							id="151" legs="2" hat_id="0" backpack_id="6" default_color="255,62,62" available="2008-05-30" releaseName="Lobster"/>
+		<HMBear								id="152" legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2008-09-12" releaseName="Hannah Montanna Bear"/>
+		<Zebra								id="153" legs="4" hat_id="-1" backpack_id="-1" default_color="255,247,247" available="2008-08-22" releaseName="Zebra"/>
+		<AmurTiger							id="154" legs="2" hat_id="-1" backpack_id="-1" default_color="188,122,24" available="2008-08-19" releaseName="Amur Tiger"/>
+		<Champ_A_Champion_Fur_Kids			id="155" legs="2" hat_id="-1" backpack_id="-1" default_color="255,224,161" available="2008-08-22" releaseName="Champ_A_Champion_Fur_Kids"/>
+		<BearillantBlueTeddy				id="156" legs="2" hat_id="-1" backpack_id="-1" default_color="102,204,255" available="2008-10-17" releaseName="Bearillant Blue Teddy"/>
+		<Pudsey								id="157" legs="2" hat_id="-1" backpack_id="-1" default_color="255,122,24" available="2008-10-01" releaseName="Pudsey"/>
+		<FemaleMoose						id="158" legs="2" hat_id="-1" backpack_id="-1" default_color="156,98,58" available="2008-11-06" releaseName="Female Moose"/>
+		<BrownSugarPuppy2					id="159" legs="2" hat_id="-1" backpack_id="-1" default_color="139,78,37" available="2008-08-19" releaseName="Brown Sugar Puppy 2"/>
+		<Penguin							id="160" legs="2" hat_id="-1" backpack_id="-1" default_color="227,137,2" available="2008-11-01" releaseName="Penguin"/>
+		<Turkey								id="161" legs="1" hat_id="0" backpack_id="7" default_color="175,106,37" available="2008-10-20" releaseName="Turkey"/>
+		<HopefulWishes						id="162" legs="2" hat_id="-1" backpack_id="-1" default_color="255,219,217" available="2008-10-01" releaseName="Hopeful Wishes"/>
+		<HalMoose							id="163" legs="2" hat_id="-1" backpack_id="-1" default_color="73,46,27" available="2008-11-06" releaseName="Hal Moose"/>
+		<ManagerMeetingBear 				id="164" legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2008-10-18" releaseName="Manager's Meeting Bear"/>
+		<Dachshund							id="165" legs="4" hat_id="-1" backpack_id="-1" default_color="206,123,49" available="2008-10-17" releaseName="Dachshund"/>
+		<LilSweetCreamCub					id="166" legs="2" hat_id="-1" backpack_id="-1" default_color="220,193,171" available="2008-12-01" releaseName="Lil'Sweet Cream Cub"/>
+		<SnazzyKitty						id="167" legs="2" hat_id="-1" backpack_id="-1" default_color="201,202,203" available="2008-12-01" releaseName="Snazzy Kitty"/>
+		<Mini_Bearemy						id="168" legs="2" hat_id="-1" backpack_id="-1" default_color="181,146,99" available="2008-12-01" releaseName="Mini Bearemy&#174;"/>
+		<CuddlyHugsPink						id="169" legs="2" hat_id="-1" backpack_id="-1" default_color="255,242,248" available="2008-12-01" releaseName="Pink Cuddles Teddy"/>
+		<CuddlyHugsBlue						id="170" legs="2" hat_id="-1" backpack_id="-1" default_color="226,236,248" available="2008-12-01" releaseName="Blue Cuddles Teddy"/>
+		<Bunny_Big_Ears						id="171" legs="2" hat_id="1" backpack_id="-1" default_color="227,176,113" available="2008-12-01" releaseName="Bunny Big Ears"/>
+		<Hello_Kitty						id="172" legs="2" hat_id="0" backpack_id="-1" default_color="255,255,255" available="2008-12-05" releaseName="Hello Kitty"/>
+		<HugsFurYouMonkey					id="173" legs="2" hat_id="-1" backpack_id="-1" default_color="225,81,160" available="2008-12-26" releaseName="Hugs Fur You Monkey"/>
+		<JackRussellTerrier					id="174" legs="4" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2009-01-09" releaseName="Jack Russell Terrier"/>
+		<LilChocolateCub					id="175" legs="2" hat_id="-1" backpack_id="-1" default_color="255,75,40" available="2009-01-02" releaseName="Lil Chocolate Cub"/>
+		<SpringHugsBear						id="176" legs="2" hat_id="-1" backpack_id="-1" default_color="239,175,209" available="2009-01-23" releaseName="Season of Hugs Bear"/>
+		<HappyGoLuckyFrog					id="177" legs="2" hat_id="-1" backpack_id="-1" default_color="168,221,70" available="2009-02-12" releaseName="Happy Go Lucky Frog"/>
+		<SummerHugsBear						id="178" legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2009-05-01" releaseName="Summer Hugs Bear"/>
+		<Ox									id="179" legs="4" hat_id="-1" backpack_id="-1" default_color="199,115,51" available="2009-01-02" releaseName="Ox"/>
+		<CinnamonSwirlBunny					id="180" legs="2" hat_id="-1" backpack_id="-1" default_color="193,138,98" available="2009-02-20" releaseName="Cinnamon Swirl Bunny"/>
+		<CurlyLamb							id="181" legs="2" hat_id="-1" backpack_id="-1" default_color="245,240,239" available="2009-02-27" releaseName="Curly Lamb"/>
+		<VelvetPuppy						id="182" legs="4" hat_id="-1" backpack_id="-1" default_color="176,117,64" available="2009-02-20" releaseName="Velvet Puppy"/>
+		<CamoBear							id="183" legs="2" hat_id="-1" backpack_id="-1" default_color="174,192,44" available="2009-02-20" releaseName="Camo Bear"/>
+		<Lion								id="184" legs="2" hat_id="-1" backpack_id="-1" default_color="213,166,102" available="2009-03-12" releaseName="Lion"/>
+		<MacawParrot						id="185" legs="2" hat_id="-1" backpack_id="-1" default_color="72,64,60" available="2009-02-20" releaseName="Macaw Parrot"/>
+		<AmurLeopard						id="186" legs="2" hat_id="-1" backpack_id="-1" default_color="222,188,118" available="2009-03-12" releaseName="Amur Leopard"/>
+		<GalapogosTortoise					id="187" legs="2" hat_id="-1" backpack_id="8" default_color="153,150,81" available="2009-03-06" releaseName="Tortoise"/>
+		<BaseballBunny						id="188" legs="2" hat_id="-1" backpack_id="-1" default_color="239,175,181" available="2009-03-12" releaseName="Baseball Bunny"/>
+		<PlayByPlayPuppy					id="189" legs="4" hat_id="-1" backpack_id="-1" default_color="32,35,38" available="2009-03-12" releaseName="Play by Play Puppy"/>
+		<ShootingStarsUnicorn				id="190" legs="4" hat_id="-1" backpack_id="-1" default_color="237,197,215" available="2009-03-20" releaseName="Shooting Stars Unicorn"/>
+		<KingPenguin						id="191" legs="2" hat_id="-1" backpack_id="-1" default_color="51,51,51" available="2009-02-20" releaseName="King Penguin"/>
+		<HumboltPenguin						id="192" legs="2" hat_id="-1" backpack_id="-1" default_color="51,51,51" available="2009-02-20" releaseName="Humbolt Penguin"/>
+		<FurbulousFlamingo					id="193" legs="1" hat_id="-1" backpack_id="-1" default_color="255,153,153" available="2009-02-20" releaseName="Furbulous Flamingo"/>
+		<Pteranodon							id="194" legs="1" hat_id="0" backpack_id="-1" default_color="0,153,204" available="2009-02-20" releaseName="Pteranodon"/>
+		<Ball_Park_Colorable_Bear			id="195" legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2009-03-12" releaseName="Ball Park Colorable Bear"/>
+		<Ball_Park_Generic_Brown_Bear		id="196" legs="2" hat_id="-1" backpack_id="-1" default_color="220,130,69" available="2009-03-12" releaseName="Ball Park Generic Brown Bear"/>
+		<Ball_Park_Pink_Bear				id="197" legs="2" hat_id="-1" backpack_id="-1" default_color="239,175,181" available="2009-03-12" releaseName="Ball Park Pink Bear"/>
+		<Ball_Park_Clysdale					id="198" legs="4" hat_id="-1" backpack_id="-1" default_color="117,51,23" available="2009-03-12" releaseName="Ball Park Clysdale"/>
+		<FureverBear						id="199" legs="2" hat_id="-1" backpack_id="-1" default_color="217,183,119" available="2009-04-17" releaseName="Furever Bear"/>
+		<Bulldog							id="200" legs="4" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2009-05-01" releaseName="Bulldog"/>
+		<ScottieDog							id="201" legs="4" hat_id="-1" backpack_id="-1" default_color="32,35,38" available="2009-04-01" releaseName="Scottie Dog"/>
+		<AwesomeAlien						id="202" legs="2" hat_id="-1" backpack_id="-1" default_color="227,163,91" available="2009-05-21" releaseName="Awesome Alien"/>
+		<EndlessHugsTeddy					id="203" legs="2" hat_id="-1" backpack_id="-1" default_color="250,153,184" available="2009-05-15" releaseName="Endless Hugs Teddy"/>
+		<AndeanBear							id="204" legs="4" hat_id="-1" backpack_id="-1" default_color="61,67,71" available="2009-05-22" releaseName="Andean Bear"/>
+		<SparklySnowLeopard					id="205" legs="2" hat_id="-1" backpack_id="-1" default_color="227,213,198" available="2009-05-29" releaseName="Sparkly Snow Leopard"/>
+		<Ray								id="206" legs="4" hat_id="-1" backpack_id="-1" default_color="184,181,193" available="2009-05-29" releaseName="Ray"/>
+		<PeaceBear							id="207" legs="2" hat_id="-1" backpack_id="-1" default_color="43,75,189" available="2009-06-05" releaseName="Peace Bear"/>
+		<ILoveNYBear						id="208" legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2009-06-10" releaseName="I Love NY Bear"/>
+		<BlackRhino							id="209" legs="4" hat_id="-1" backpack_id="-1" default_color="197,192,198" available="2009-06-12" releaseName="Black Rhino"/>
+		<PatrioticPup						id="210" legs="2" hat_id="-1" backpack_id="-1" default_color="231,221,232" available="2009-06-12" releaseName="Patriotic Pup"/>
+		<MapleLeafPuppy						id="211" legs="2" hat_id="-1" backpack_id="-1" default_color="231,221,232" available="2009-06-12" releaseName="Maple Leaf Pup"/>
+		<Owl								id="212" legs="2" hat_id="-1" backpack_id="-1" default_color="237,234,233" available="2009-07-10" releaseName="Owl"/>
+		<GoodHousekeepingSeal				id="213" legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2009-07-10" releaseName="Good Housekeeping Seal"/>
+		<GrayKitty							id="214" legs="2" hat_id="-1" backpack_id="-1" default_color="214,215,216" available="2009-07-17" releaseName="Gray Kitty"/>
+		<PawsomePony						id="215" legs="4" hat_id="-1" backpack_id="-1" default_color="200,88,40" available="2009-06-26" releaseName="Pawsome Pony"/>
+		<PRBear								id="216" legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2009-07-31" releaseName="PR Bear"/>
+		<Pig								id="217" legs="2" hat_id="-1" backpack_id="-1" default_color="206,23,134" available="2009-07-03" releaseName="Pig"/>
+		<WaterPortugeseDog					id="218" legs="4" hat_id="-1" backpack_id="-1" default_color="41,41,41" available="2009-07-03" releaseName="Water Portugese Dog"/>
+		<WWFWolf							id="219" legs="4" hat_id="-1" backpack_id="-1" default_color="149,132,146" available="2009-07-03" releaseName="WWF Wolf"/>
+		<CinnamonSugarPuppy					id="220" legs="2" hat_id="-1" backpack_id="-1" default_color="178,92,17" available="2009-07-03" releaseName="Cinnamon Sugar Puppy"/>
+		<FudgePuppy							id="221" legs="2" hat_id="-1" backpack_id="-1" default_color="135,30,18" available="2009-07-03" releaseName="Fudge Puppy"/>
+		<HuggablePuppy						id="222" legs="2" hat_id="-1" backpack_id="-1" default_color="228,186,104" available="2009-07-03" releaseName="Huggable Puppy"/>
+		<SeasonofHugsBear					id="223" legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2009-07-03" releaseName="Season of Hugs Bear"/>
+		<WoolyMammoth						id="224" legs="4" hat_id="-1" backpack_id="-1" default_color="87,43,23" available="2009-07-03" releaseName="Wooly Mammoth"/>
+		<FennecFox							id="225" legs="4" hat_id="-1" backpack_id="-1" default_color="219,183,130" available="2009-07-03" releaseName="Fennec Fox"/>
+		<KookySpookyKitty					id="226" legs="2" hat_id="-1" backpack_id="-1" default_color="93,33,183" available="2009-09-11" releaseName="Kooky Spooky Kitty"/>
+		<JonasBrosPuppy						id="227" legs="4" hat_id="-1" backpack_id="-1" default_color="176,70,70" available="2009-09-25" releaseName="Jonas Bros Puppy"/>
+		<OhioMascotte						id="228" legs="2" hat_id="-1" backpack_id="-1" default_color="28,28,42" available="2009-08-28" releaseName="Ball Park Colorable Bear Special Reward"/>
+		<PolarBear							id="229" legs="4" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2009-10-09" releaseName="Polar Bear"/>
+		<WinterHugsBear						id="230" legs="2" hat_id="-1" backpack_id="-1" default_color="223,244,242" available="2009-10-23" releaseName="Winter Hugs Bear"/>
+		<BrutusBuckEye						id="231" legs="2" hat_id="-1" backpack_id="-1" default_color="28,28,42" available="2009-09-23" releaseName="Brutus Buck Eye"/>
+		<UKSnowman							id="232" legs="2" hat_id="-1" backpack_id="-1" default_color="242,244,251" available="2009-11-01" releaseName="Snowman"/>
+		<Puffin								id="233" legs="2" hat_id="-1" backpack_id="-1" default_color="240,123,6" available="2009-11-12" releaseName="Puffin"/>
+		<ChristmasHug						id="234" legs="2" hat_id="-1" backpack_id="-1" default_color="250,187,124" available="2009-11-28" releaseName="Holiday Heart Teddy"/>
+		<MapleLeafTeddy						id="235" legs="2" hat_id="-1" backpack_id="-1" default_color="245,239,241" available="2009-11-28" releaseName="Maple Leaf Heart Teddy"/>
+		<Alvin								id="236" legs="2" hat_id="-1" backpack_id="-1" default_color="118,53,27" available="2009-11-23" releaseName="Alvin"/>
+		<Bearemy2							id="237" legs="2" hat_id="-1" backpack_id="-1" default_color="181,146,99" available="2009-11-01" releaseName="Bearemy"/>
+		<Bunny_Big_Ears2					id="238" legs="2" hat_id="1" backpack_id="-1" default_color="227,176,113" available="2009-11-01" releaseName="Lil' Bunny Big Ears"/>
+		<HalMoose2							id="239" legs="2" hat_id="-1" backpack_id="-1" default_color="73,46,27" available="2009-11-12" releaseName="Hal Moose"/>
+		<FemaleMoose2						id="240" legs="2" hat_id="-1" backpack_id="-1" default_color="156,98,58" available="2009-11-12" releaseName="Holly Moose"/>
+		<Friendly_Frog_Returns				id="241" legs="2" hat_id="0" backpack_id="-1" default_color="34,130,36" available="2009-11-01" releaseName="Fabulous Frog"/>
+		<Frosty								id="242" legs="2" hat_id="0" backpack_id="-1" default_color="242,244,251" available="2009-11-01" releaseName="Frosty The Snowman"/>
+		<Orca								id="243" legs="4" hat_id="-1" backpack_id="-1" default_color="34,34,34" available="2009-12-02" releaseName="Orca"/>
+		<YearOfTheMouse						id="244" legs="2" hat_id="-1" backpack_id="-1" default_color="232,217,202" available="2009-12-02" releaseName="Year of the Mouse"/>
+		<BlossomBunny						id="245" legs="2" hat_id="-1" backpack_id="-1" default_color="238,238,238" available="2009-12-04" releaseName="Blossom Bunny"/>
+		<MarbleMonkey						id="246" legs="2" hat_id="-1" backpack_id="-1" default_color="192,143,97" available="2009-12-04" releaseName="Marble Monkey"/>
+		<BungeeMonkey						id="247" legs="2" hat_id="-1" backpack_id="-1" default_color="75,49,44" available="2009-12-04" releaseName="Bungee Monkey"/>
+		<YearOfTheTiger						id="248" legs="4" hat_id="-1" backpack_id="-1" default_color="188,122,24" available="2010-01-01" releaseName="Year of the Tiger"/>
+		<HappyHugsTeddy						id="249" legs="2" hat_id="-1" backpack_id="-1" default_color="254,224,165" available="2010-01-04" releaseName="Happy Hugs Teddy"/>
+		<BeMineDalmation					id="250" legs="4" hat_id="-1" backpack_id="-1" default_color="234,231,227" available="2010-01-08" releaseName="Be Mine Dalmation"/>
+		<BabyPanther						id="251" legs="4" hat_id="-1" backpack_id="-1" default_color="227,213,198" available="2010-01-10" releaseName="Baby Panther"/>
+		<HelloKitty35Anniv					id="252" legs="2" hat_id="0" backpack_id="-1" default_color="255,255,255" available="2009-12-26" releaseName="Limited Edition HK 35th Anniversary"/>
+		
+		<ICarly								id="253" legs="2" hat_id="-1" backpack_id="-1" default_color="209,189,216" available="2009-01-01" releaseName="I-Carly"/>
+		<Glitter							id="254" legs="2" hat_id="-1" backpack_id="-1" default_color="209,189,216" available="2009-01-01" releaseName="Glitter Teddy"/>
+		<BearyOLuckyTeddy					id="255" legs="2" hat_id="-1" backpack_id="-1" default_color="155,221,0"   available="2009-01-01" releaseName="Beary O'Lucky Teddy"/>
+		<EnchantedPony						id="256" legs="4" hat_id="-1" backpack_id="-1" default_color="238,231,215" available="2010-04-05" releaseName="Enchanted Pony"/>
+		<Spinosaurus						id="257" legs="1" hat_id="-1" backpack_id="-1" default_color="155,179,60"  available="2010-02-24" releaseName="Spinosaurus"/>
+		<SupposedtobeHappyHugsTeddy			id="258" legs="2" hat_id="-1" backpack_id="-1" default_color="210,185,147" available="2010-02-24" releaseName=""/>
+		<DownTownDisneyBear					id="259" legs="2" hat_id="-1" backpack_id="-1" default_color="91,57,45"	   available="2010-03-04" releaseName="Downtown Disney Bear"/>
+		<Champ								id="260" legs="2" hat_id="-1" backpack_id="-1" default_color="131,75,16"   available="2010-03-01" releaseName="Champ"/>
+		<BirthdayBearYellow					id="261" legs="2" hat_id="-1" backpack_id="-1" default_color="236,224,130" available="2010-02-26" releaseName="Cele-bear-ation Yellow"/>
+		<Brittany							id="262" legs="2" hat_id="-1" backpack_id="-1" default_color="200,98,55"   available="2010-03-19" releaseName="Brittany"/>
+		<cuddlyhugsblue						id="263" legs="2" hat_id="-1" backpack_id="-1" default_color="182,205,226" available="2010-02-24" releaseName="Sweet Cuddles Blue"/>
+		<cuddlyhugspink						id="264" legs="2" hat_id="-1" backpack_id="-1" default_color="248,203,226" available="2010-02-24" releaseName="Sweet Cuddles Pink"/>
+		<Brachiosaurus						id="265" legs="1" hat_id="-1" backpack_id="-1" default_color="246,50,52"   available="2010-03-15" releaseName="Brachiosaurus"/>
+		<SabreToothTiger					id="266" legs="4" hat_id="-1" backpack_id="-1" default_color="218,122,29"  available="2010-03-15" releaseName="Saber-tooth Tiger"/>
+		<EasterChick						id="267" legs="2" hat_id="-1" backpack_id="-1" default_color="248,213,75"  available="2010-03-05" releaseName="Chick"/>
+		<CrossBear							id="268" legs="2" hat_id="-1" backpack_id="-1" default_color="242,242,242" available="2010-03-05" releaseName="Cross Bear"/>
+		<BirthdayBearPink					id="269" legs="2" hat_id="-1" backpack_id="-1" default_color="252,202,211" available="2010-02-26" releaseName="Cele-bear-ation Pink"/>
+		<Duck								id="270" legs="2" hat_id="-1" backpack_id="-1" default_color="248,221,118" available="2010-03-05" releaseName="Duck"/>
+		<StarofDavidBear					id="271" legs="2" hat_id="-1" backpack_id="-1" default_color="43,86,189"   available="2010-03-05" releaseName="Star of David Bear"/>
+		<VelvetyTeddy						id="272" legs="2" hat_id="-1" backpack_id="-1" default_color="166,111,55"  available="2010-04-01" releaseName="Velvety Teddy"/>
+		<LilCoconutCub						id="273" legs="2" hat_id="-1" backpack_id="-1" default_color="236,217,198" available="2010-03-01" releaseName="Lil Coconut Cub"/>
+		<Camel								id="274" legs="4" hat_id="-1" backpack_id="-1" default_color="231,203,146" available="2010-02-24" releaseName="Camel"/>
+		<MrBaseball							id="275" legs="2" hat_id="0" backpack_id="-1" default_color="255,255,255" available="2010-03-26" releaseName="Mr. Baseball"/>
+		<DragonBear							id="276" legs="1" hat_id="-1" backpack_id="276" default_color="255,255,255" available="2010-04-05" releaseName="Dragon Bear"/>
+		<Peacock							id="277" legs="1" hat_id="-1" backpack_id="0" default_color="255,255,255" available="2010-04-02" releaseName="Peacock"/>
+		<Giraffe							id="278" legs="4" hat_id="0" backpack_id="-1" default_color="255,255,255" available="2010-03-05" releaseName="Giraffe"/>
+		<WCBear								id="279" legs="2" hat_id="-1" backpack_id="-1" default_color="255,255,255" available="2010-02-24" releaseName="WC Bear"/>
+		
+		
+	</default_sidekick>
+	
+	
+	<upper_cloth type_id="1">		<!-- Type the new upper cloth name, its id (increasing) and all parts id. -->
+		<!--
+		Parameters :
+			id : unic identifier of the upper cloth
+		-->
+		<BAB_T-Shirt						id="1" />
+		<Ground_Hog_T-Shirt					id="2" />
+		<Leap_Day_T-Shirt					id="3" />
+		<Explorator_Vest					id="4"  />
+		<Panda_T-Shirt						id="5" />
+		<Baseball_Shirt						id="6" />
+		<Football_Shirt						id="7" />
+		<Soccer_Shirt						id="8" />
+		<tempClothing						id="9" />
+		<tempClothing						id="10"/>
+		<!-- Use only for Dress-A-Bear until finished! -->
+		<Plaid_Scottie_Set					id="11" />
+		<Striped_Sweater_Set				id="12" />
+		<Santa_Bear_Tee						id="13" />
+		<Holly_Fairy						id="14" />
+		<Huge_Air_Hoodie_Set				id="15" />
+		<Dino_Tee							id="16" />
+		<Dress_With_Fur						id="17" />
+		<Polka_Dot_Dress					id="18" />
+		<Rockin_Reindeer_PJ					id="19" />
+		<Sequin_Dress						id="20" />
+		<Boy_Elf_Costume					id="21" />
+		<tempClothing						id="22" />
+		<tempClothing						id="23" />
+		<tempClothing						id="24" />
+		<tempClothing						id="25" />
+		<tempClothing						id="26" />
+		<tempClothing						id="27" />
+		<Cloth_18							id="28" />
+		<tempClothing						id="29" />
+		<tempClothing						id="30" />
+		<Cloth_21							id="31" />
+		<Cloth_22							id="32" />
+		<Cloth_23							id="33" />
+		<Cloth_24							id="34" />
+		<Cloth_25							id="35" />
+		<Cloth_26							id="36" />
+		<Cloth_27							id="37" />
+		<tempClothing						id="38" />
+		<tempClothing						id="39" />
+		<tempClothing						id="40" />
+		<tempClothing						id="41" />
+		<tempClothing						id="42" />
+		<tempClothing						id="43" />
+		<tempClothing						id="44" />
+		<tempClothing						id="45" />
+		<tempClothing						id="46" />
+		<tempClothing						id="47" />
+		<tempClothing						id="48" />
+		<tempClothing						id="49" />
+		<Valentine_40						id="50" />
+		<Valentine_41						id="51" />
+		<Valentine_42						id="52" />
+		<tempClothing						id="53" />
+		<Valentine_44						id="54" />
+		<tempClothing						id="55" />
+		<tempClothing						id="56" />
+		<tempClothing						id="57" />
+		<tempClothing						id="58" />
+		<tempClothing						id="59" />
+		<tempClothing						id="60" />
+		<tempClothing						id="61" />
+		<tempClothing						id="62" />
+		<tempClothing						id="63" />
+		<tempClothing						id="64" />
+		<tempClothing						id="65" />
+		<tempClothing						id="66" />
+		<tempClothing						id="67" />
+		<tempClothing						id="68" />
+		<tempClothing						id="69" />
+		<tempClothing						id="70" />
+		<tempClothing						id="71" />
+		<tempClothing						id="72" />
+		<tempClothing						id="73" />
+		<tempClothing						id="74" />
+		<tempClothing						id="75" />
+		<!-- Return to normal clothing -->
+		<cutierhinestonetee					id="76" />
+		<gembubbledress						id="77" />
+		<leopardsmockedbikini				id="78" />
+		<yellowgemfairyoutfit				id="79" />
+		<baseballplaidshortset				id="80" />
+		<bigsurftanktop						id="81" />
+		<ponydenimshortset					id="82" />
+		<rainbowalohatanktop				id="83" />
+		<floralropestrapdress				id="84" />
+		<brightgrassshortnlei				id="85" />
+		<purplefloralcapriset				id="86" />
+		<sequinbutterflyset					id="87" />
+		<sunsetshiptee						id="88" />
+		<volleyballuniform					id="89" />
+		<purrfectkittypj					id="90" />
+		<hellokittypj						id="91" />
+		<gemtunic							id="92" />
+		<cheerleaderuniform					id="93" />
+		<fuschiapromdress					id="94" />
+		<floraldress						id="95" />
+		<tropicalhellokittytop				id="96" />
+		<karateuniformtop					id="97" />
+		<lacrossuniformtop					id="98" />
+		<solidtee							id="99" />
+		<solidtank							id="100" />
+		<patrioticgirltop					id="101" />
+		<stripeddenimsettop					id="102" />
+		<usasequintee						id="103" />
+		<canadasequintee					id="104" />
+		<englandsequintee					id="105" />
+		<cartee								id="106" />
+		<!-- Build 18/06/08 -->
+		<basketballuniformtop 				id="107"/>
+		<starsandstripesswimsuittop			id="108"/>
+		<mapleleafgymnastoutfittop			id="109"/>
+		<stargymnastoutfittop				id="110"/>
+		<usaolympictee						id="111"/>
+		<suntinytee							id="112"/>
+		<!-- Build 16/07/08 -->
+		<gemtopwzebraleggings 				id="113" />
+		<dancestarjogset					id="114" />
+		<polkadotbeltedtunic				id="115"  />
+		<purplegemfairycostume				id="116"  />
+		<imfabulousnailheadtee				id="117"  />
+		<floralgemtop						id="118"  />
+		<bluestripedbuttondownshirt			id="119"  />
+		<thinkgreentee						id="120"  />
+		<!-- Build 13/08/08 -->
+		<warmup 							id="121" />
+		<floralruffledress 					id="122" />
+		<sweaterglitterdenim 				id="123" />
+		<goldembroidereddenim 				id="124" />
+		<motocrosspatches 					id="125" />
+		<plaindogdress 						id="126" />
+		<lettermanjacket					id="127" />
+		<pinkandblackflowertank 			id="128" />
+		<zebrawordtee 						id="129" />
+		<witchcostume						id="130" />
+		<mummycostume 						id="131" />
+		<readytorock 						id="132" />
+		<pumpkincostume						id="133" />
+		<redblackpiratecostume				id="134" />
+		<girlpiratecostume					id="135" />
+		<greyleopard 						id="136" />
+		<sweetcandycorn						id="137" />
+		<hoperibbon 						id="138" />
+		<pudseytee	 						id="139" />
+		<verticalsequintop					id="140" />
+		<satinprintedtop					id="141" />
+		<extremesporttop					id="142" />
+		<satinbubbletop						id="143" />
+		<silverquiltedtop					id="144" />
+		<crisscrossribbontop				id="145" />
+		<argylesweatertop					id="146" />
+		<redblackplaidtop					id="147" />
+		<redquiltedpuffytop					id="148" />
+		<santaclause						id="149" />
+		<mrsclausehollyberry				id="150" />
+		<stripedelfdress					id="151" />
+		<stripedelfjumper					id="152" />
+		<velvetgatthereddress				id="153" />
+		<lilhaloutfittop					id="154" />
+		<halmooseoutfittop					id="155" />
+		<hollymooseoutfittop				id="156" />
+		<BlueAngelWithFur					id="157" />
+		<SequinFairyDress					id="158" />
+		<MoosePjTop							id="159" />
+		<IceBluePrincessDress				id="160" />
+		<HeartBeltedTop						id="161" />
+		<SatinHeartDress					id="162" />
+		<TieredFlowerDress					id="163" />
+		<EmbroideredFlowerOutfit			id="164"/>
+		<LeprechaunCostume					id="165"/>
+		<LotsOLuckDress						id="166"/>
+		<FrogFlowerPajamas					id="167"/>
+		<FloralBowTop						id="168"/>
+		<SportsRockMonkeyTop				id="169"/>
+		<PlaidRuffleTop						id="170"/>
+		<CamoOutfit							id="171"/>
+		<FloralBeltedTunic					id="172"/>
+		<HockeyShirt						id="173"/>
+		<GolfOutfit							id="174"/>
+		<RainbowPeaceTee					id="175"/>
+		<EasterEggCostume					id="176"/>
+		<FlaredGemDress						id="177"/>
+		<SatinGemTank						id="178"/>
+		<SurfTank							id="179"/>
+		<LoveHugsPeaceCapSleeveTop			id="180"/>
+		<LoveHugsPeaceRhinestoneTank		id="181"/>
+		<PeaceSignTee						id="182"/>
+		<EyeletPlaidShortsTop				id="183"/>
+		<FlaredGemDress						id="184"/>
+		<HibiscusPrintSwimsuitTop			id="185"/>
+		<RockinOutfitTop					id="186"/>
+		<RainbowDotTankiniTop				id="187"/>
+		<DiverSuitTop						id="188"/>
+		<GrassOutfitTop						id="189"/>
+		<StarOutfitTop						id="190"/>
+		<TieredDressTop						id="191"/>
+		<SkateTee							id="192"/>
+		<USAHugFreelyTee					id="193"/>
+		<TieDyedFlowerTank					id="194"/>
+		<SatinDressTop						id="195"/>
+		<SoccerUniformTop					id="196"/>	
+		<SmockedLeggingTop					id="197"/>
+		<RuffleSkirtTop						id="198"/>
+		<SmockedDress						id="199"/>
+		<StripedHoodie						id="200"/>
+		<LoveHugsPeaceHeartTee				id="201"/>
+		<FutureRockstarTank					id="202"/>
+		<IHeartNYTee						id="203"/>
+		<WizardCostumeTop					id="204"/>
+		<RockSequinGuitarTank				id="205"/>
+		<RuffledTieDyedDenimTop				id="206"/>
+		<StripedButtonDownShirt				id="207"/>
+		<HeartDotHoodieTop					id="208"/>
+		<RainbowRibbonFairyTop				id="209"/>
+		<MetallicZebraTop					id="210"/>
+		<SmockedRhinestoneDress				id="211"/>
+		<LoveHugsPeaceScriptTee				id="212"/>
+		<GrayWolfTee						id="213"/>
+		<GuitarSetVest						id="214"/>
+		<LeopardSetSweater					id="215"/>
+		<CroppedSweater						id="216"/>
+		<PumpkinFairyShirt					id="217"/>
+		<WitchCostumeShirt					id="218"/>
+		<LeopardKittyDress					id="219"/>
+		<VampireCostume						id="220"/>
+		<KittyShirt							id="221"/>
+		<BooShirt							id="222"/>
+		<Fairisle							id="223"/>
+		<Skater								id="224"/>
+		<Sherpa								id="225"/>
+		<BlueDress							id="226"/>
+		<SnowPatrol							id="227"/>
+		<Gold								id="228"/>
+		<Angel								id="229"/>
+		<SantaClausCostumeTop				id="230"/>
+		<MrsClausCostumeTop					id="231"/>
+		<StripedElfDressTop					id="232"/>
+		<StripedElfCostumeTop				id="233"/>
+		<VelvetDress						id="234"/>
+		<PinkBowDressTop					id="235"/>
+		<HollyMooseCoat						id="236"/>
+		<HalMooseCoat						id="237"/>
+		
+		<LoveBugFairyShirt					id="238"/>
+		<HuggableHoddie						id="239"/>
+		<PuppyLovePJShirt					id="240"/>
+		<AllStarPJShirt						id="241"/>
+		<TiedyeEagleShirt					id="242"/>
+		<PrinceShirt						id="243"/>
+		<FloralDress						id="244"/>
+		<SatinHeartDress					id="245"/>
+		<EmbroideredLoveFloralShirt			id="246"/>
+		<SatinHeartBubbleDress				id="247"/>
+		<ArgyleDogSweater					id="248"/>
+		
+		<ShamrockShirt						id="249"/>
+		<RosetteCapriTop					id="250"/>
+		<FancyDressTop						id="251"/>
+		<EmbrodCapriTop						id="252"/>
+		<LeprechaunShirt					id="253"/>
+		<GinghamDressTop					id="254"/>
+		<EasterEggShirt						id="255"/>
+		<CuteChickShirt						id="256"/>
+		<BunnyTeeShirt						id="257"/>
+		<BuffaloPlaidShirt					id="258"/>
+	</upper_cloth>
+	
+	<lower_cloth type_id="2">		<!-- Type the new lower cloth name, its id (increasing) and all parts id. -->
+		<!--
+		Parameters :
+			id : unic identifier of the lower cloth
+			underwear_id, skirt_id, rupleg_id, lupleg_id, rlowleg_id, llowleg_id : idenifier of the frame (minus 1) where the graphics are located (-1 for skin)
+					skirt_id should be -1
+		-->
+		<Jeans								id="1" />
+		<Skirt								id="2"  />
+		<Explorator_Pants					id="3" />
+		<Baseball_Pants						id="4" />
+		<Football_Pants						id="5" />
+		<Soccer_Pants						id="6" />
+		<Black_Pants						id="7" />
+		<Black_Carpenter_Jeans				id="8" />
+		<Faded_Jeans						id="9" />
+		<tempClothing						id="10"/>
+		<!-- Use only for Dress-A-Bear until finished! -->
+		<Plaid_Scottie_Set					id="11" />
+		<tempClothing						id="12" />
+		<Santa_Bear_Boxers					id="13" />
+		<Holly_Fairy						id="14" />
+		<Huge_Air_Hoodie_Set				id="15" />
+		<Prehistoric_Dino_Jeans				id="16" />
+		<Dress_With_Fur						id="17" />
+		<Polka_Dot_Dress					id="18" />
+		<Rockin_Reindeer_PJ					id="19" />
+		<Sequin_Dress						id="20" />
+		<Boy_Elf_Costume					id="21" />
+		<tempClothing						id="22" />
+		<tempClothing						id="23" />
+		<Fur_Lace_Up_Boot					id="24" />
+		<Cloth_15							id="25" />
+		<Cloth_16							id="26" />
+		<tempClothing						id="27" />
+		<Cloth_18							id="28" />
+		<Cloth_19							id="29" />
+		<Cloth_20							id="30" />
+		<Cloth_21							id="31" />
+		<Cloth_22							id="32" />
+		<Cloth_23							id="33" />
+		<tempClothing						id="34" />
+		<tempClothing						id="35" />
+		<tempClothing						id="37" />
+		<tempClothing						id="36" />
+		<tempClothing						id="38" />
+		<tempClothing						id="39" />
+		<tempClothing						id="40" />
+		<tempClothing						id="41" />
+		<tempClothing						id="42" />
+		<Cloth_33							id="43" />
+		<tempClothing						id="44" />
+		<tempClothing						id="45" />
+		<tempClothing						id="46" />
+		<tempClothing						id="47" />
+		<tempClothing						id="48" />
+		<Valentine_39						id="49" />
+		<Valentine_40						id="50" />
+		<Valentine_41						id="51" />
+		<tempClothing						id="52" />
+		<Valentine_43						id="53" />
+		<Valentine_44						id="54" />
+		<tempClothing						id="55" />
+		<tempClothing						id="56" />
+		<tempClothing						id="57" />
+		<tempClothing						id="58" />
+		<tempClothing						id="59" />
+		<tempClothing						id="60" />
+		<tempClothing						id="61" />
+		<tempClothing						id="62" />
+		<tempClothing						id="63" />
+		<tempClothing						id="64" />
+		<tempClothing						id="65" />
+		<tempClothing						id="66" />
+		<tempClothing						id="67" />
+		<tempClothing						id="68" />
+		<tempClothing						id="69" />
+		<tempClothing						id="70" />
+		<tempClothing						id="71" />
+		<tempClothing						id="72" />
+		<tempClothing						id="73" />
+		<tempClothing						id="74" />
+		<tempClothing						id="75" />
+		<!-- Return to normal clothing -->
+		<stripedswimshorts					id="76" />
+		<leopardsmockedbikini				id="77" />
+		<denimbowcapriset					id="78" />
+		<camoboardshorts					id="79" />
+		<purplefloralcapriset				id="80" />
+		<sequinbutterflyset					id="81" />
+		<volleyballuniform					id="82" />
+		<rhinestoneleggings					id="83" />
+		<baseballplaidshortset				id="84" />
+		<purrfectkittypj					id="85" />
+		<hellokittypj						id="86" />
+		<khakicargoshorts					id="87" />
+		<karateuniformbottom				id="88" />
+		<lacrossuniformbottom				id="89" />
+		<!-- Build 18/06/08 -->
+		<basketballuniformbottom			id="90" />
+		<starsandstripesswimsuitbottom		id="91" />
+		<knitusashorts						id="92" />
+		<knitcanadashorts					id="93" />
+		<mapleleafgymnastoutfitbottom		id="94" />
+		<stargymnastoutfitbottom			id="95" />
+		<!-- Build 16/07/08 -->
+		<zebraleggings						id="96" />
+		<dancestarjogsetleggings			id="97"  />
+		<purpleleggings						id="98"  />
+		<staightlegpants					id="99"  />
+		<!-- Build 13/08/08 -->
+		<warmup								id="100" />
+		<sweaterglitterdenim				id="101" />
+		<goldembroidereddenim				id="102" />
+		<motocrosspatches					id="103" />
+		<mummycostume						id="104" />
+		<readytorock						id="105" />
+		<witchskirt							id="106" />
+		<redblackpiratecostume				id="107" />
+		<sweetcandycorntee					id="108" />
+		<verticalsequinbottom				id="109" />
+		<satinprintedbottom					id="110" />
+		<extremesportbottom					id="111" />
+		<santaclause						id="112" />
+		<stripedelfdress					id="113" />
+		<stripedelfjumper					id="114" />
+		<lilhaloutfitbottom					id="115" />
+		<halmooseoutfitbottom				id="116" />
+		<hollymooseoutfitbottom				id="117" />
+		<MoosePjBottom						id="118" />
+		<EmbroideredFlowerPants				id="119" />
+		<LeprechaunPants					id="120" />
+		<FrogFlowerPajamas					id="121" />
+		<SportsRockMonkeyPants				id="122" />
+		<CamoPants							id="123" />
+		<HockeyPants						id="124" />
+		<GolfPants							id="125" />
+		<EasterEggCostume					id="126" />
+		<GemCapris							id="127" />
+		<TieDyedBoardShorts					id="128" />
+		<EyeletPlaidShorts					id="129" />
+		<HibiscusPrintSwimsuit				id="130" />
+		<RockinOutfitBottom					id="131" />
+		<RainbowDotTankiniBottom			id="132" />
+		<DiverSuitBottom					id="133" />
+		<MadrasPlaidShorts					id="134" />
+		<SoccerUniformBottom				id="135" />
+		<SmockedLeggingBottom				id="136" />
+		<CargoShorts						id="137" />
+		<FoliageCamoShorts					id="138" />
+		<FlowerJeans						id="139" />
+		<WizardCostumeBottom				id="140"/>
+		<RuffledTieDyedBottom				id="141"/>
+		<NailheadLeggings					id="142"/>
+		<MetallicZebraBottom				id="143"/>
+		<GrayWolfPants						id="144"/>
+		<CroppedSetPants					id="145"/>
+		<VampireCostumePants				id="146"/>
+		<StripedLaceLeggings				id="147"/>
+		<PatrolPants						id="148"/>
+		<SantaClausCostumeBottom			id="149"/>
+		<StripedElfDressBottom				id="150"/>
+		<StripedElfCostumeBottom			id="151"/>
+		
+		<PuppyLovePJPant					id="152"/>
+		<AllStarPJPant						id="153"/>
+		<TiedyeEaglePant					id="154"/>
+		<PrincePant							id="155"/>
+		
+		<RosetteCapri						id="156"/>
+		<EnbriCapri							id="157"/>
+		<LeprechaunPants					id="158"/>
+		<EasterEggPants						id="159"/>
+		<CuteChickPants						id="160"/>
+		<KhakiPants							id="161"/>
+	</lower_cloth>
+	
+	<shoes type_id="3">			<!-- Type the new shoes name, their id (increasing) and all parts id. -->
+		<!--
+		Parameters :
+			id : unic identifier of the lower cloth
+			rfoot_id, lfoot_id : idenifier of the frame (minus 1) where the graphics are located
+		-->
+		<Running_Shoes						id="1" />
+		<tempClothing						id="2" />
+		<tempClothing						id="3" />
+		<tempClothing						id="4" />
+		<tempClothing						id="5" />
+		<tempClothing						id="6" />
+		<tempClothing						id="7" />
+		<tempClothing						id="8" />
+		<tempClothing						id="9" />
+		<tempClothing						id="10" />
+		<tempClothing						id="11" />
+		<tempClothing						id="12" />
+		<tempClothing						id="13" />
+		<tempClothing						id="14" />
+		<tempClothing						id="15" />
+		<tempClothing						id="16" />
+		<tempClothing						id="17" />
+		<tempClothing						id="18" />
+		
+		<!-- Use only for Dress-A-Bear until finished! -->
+		<Rockin_Reindeer_PJ					id="19"  />
+		<tempClothing						id="20"  />
+		<Boy_Elf_Costume					id="21"  />
+		<Snowboard							id="22"  />
+		<Polka_Dot_Ballet_Flat				id="23"  />
+		<Fur_Lace_Up_Boot					id="24"  />
+		<tempClothing						id="25"  />
+		<tempClothing						id="26"  />
+		<tempClothing						id="27"  />
+		<tempClothing						id="28"  />
+		<tempClothing						id="29"  />
+		<tempClothing						id="30"  />
+		<tempClothing						id="31"  />
+		<tempClothing						id="32"  />
+		<tempClothing						id="33"  />
+		<tempClothing						id="34"  />
+		<tempClothing						id="35"  />
+		<tempClothing						id="36"  />
+		<tempClothing						id="37"  />
+		<Cloth_28							id="38"  />
+		<Cloth_29							id="39"  />
+		<Cloth_30							id="40"  />
+		<Cloth_31							id="41"  />
+		<Cloth_32							id="42"  />
+		<Cloth_33							id="43"  />
+		<Cloth_34							id="44"  />
+		<Cloth_35							id="45"  />
+		<Cloth_36							id="46"  />
+		<tempClothing						id="47"  />
+		<tempClothing						id="48"  />
+		<tempClothing						id="49"  />
+		<tempClothing						id="50"  />
+		<tempClothing						id="51"  />
+		<tempClothing						id="52"  />
+		<tempClothing						id="53"  />
+		<tempClothing						id="54"  />
+		<tempClothing						id="55"  />
+		<tempClothing						id="56"  />
+		<tempClothing						id="57"  />
+		<tempClothing						id="58"  />
+		<tempClothing						id="59"  />
+		<tempClothing						id="60"  />
+		<tempClothing						id="61"  />
+		<tempClothing						id="62"  />
+		<tempClothing						id="63"  />
+		<tempClothing						id="64"  />
+		<tempClothing						id="65"  />
+		<tempClothing						id="66"  />
+		<tempClothing						id="67"  />
+		<tempClothing						id="68"  />
+		<tempClothing						id="69"  />
+		<tempClothing						id="70"  />
+		<tempClothing						id="71"  />
+		<tempClothing						id="72"  />
+		<tempClothing						id="73"  />
+		<tempClothing						id="74"  />
+		<tempClothing						id="75"  />
+		
+		<!-- Return to normal clothing -->
+		<fuschiabowballetflat				id="76" />
+		<metallicgemflipflop				id="77" />
+		<silversequinflipflop				id="78" />
+		<butterflygemespadrille				id="79" />
+		<denimglottersandal					id="80" />
+		<tanfishermansandal					id="81" />
+		<boysportsandal						id="82" />
+		<purplesequinsandals				id="83" />
+		<blackpeeptoeheels					id="84"  />
+		<whiteflowerbearyjanes				id="85"  />
+		<whiteathleticstrapshoe				id="86"  />
+		<turfshoe							id="87"  />
+		<sportoxfords						id="88"  />
+		<silverglitterheel					id="89"  />
+		
+		<skates								id="90" />
+		<blackloafers						id="91" />
+		<saddleshoes						id="92" />
+		<stripedstarflipflop				id="93" />
+		
+		<hellokittyslippers					id="94" />
+		
+		<!-- Build 13/08/08 -->
+		<sherpalinedpawclog					id="95" />
+		<fuchsiabowballetflat				id="96" />
+		<silverballetflat					id="97" />
+		
+		<pumpkinslippers					id="98" />
+		
+		<greyleopardballetflat				id="99" />
+		<whitestrapshoes					id="100" />
+		<pinkglitterheel					id="101" />
+		
+		<elfshoes							id="102" />
+		<WhiteIceSkates						id="103" />
+		<MooseSlippers						id="104" />
+		<LeprechaunShoes					id="105" />
+		<GlitterFlipFlops					id="106" />
+		<DiverPalm							id="107" />
+		<PatentBalletFlats					id="108" />
+		<FringeBoots						id="109" />
+		<LeopardBuckleBalletFlats			id="110" />
+		<GoldShoes							id="111" />
+		<PinkShoes							id="112" />
+		<ElfShoes							id="113" />
+		
+		<PuppyLove							id="114" />
+		<GlitterBearyJane					id="115" />
+		
+		<EmbrodShoes						id="116" />
+	</shoes>
+
+	<skirts type_id="4">
+		<!--
+		Parameters :
+			id : unic identifier of the lower cloth
+			underwear_id, skirt_id, rupleg_id, lupleg_id, rlowleg_id, llowleg_id : idenifier of the frame (minus 1) where the graphics are located (-1 for skin)
+					everything except skirt_id should be -1
+		-->
+		<Skirt								id="1" />
+		<Flat_Front_Denim_Skirt				id="2" />
+		<gembubbledress						id="3" />
+		<yellowgemfairyoutfit				id="4" />
+		<ponydenimshortset					id="5" />
+		<bowpleateddenimskirt				id="6" />
+		<floralropestrapdress				id="7" />
+		<brightgrassshortnlei				id="8" />
+		<fuschiaskort						id="9" />
+		<cheerleaderuniform					id="10" />
+		<fuschiapromdress					id="11" />
+		<floraldress						id="12" />
+		
+		<tropcialhellokittyskirt 			id="13" />
+		<patrioticgirlbottom				id="14" />
+		<stripeddenimsetbottom				id="15" />
+		<denimskirtbelt						id="16" />
+		<purplegemfairycostume				id="17" />
+		
+		<!-- Build 13/08/08 -->
+		<blackcorduroyskirt					id="18" />
+		<ruffleskirt						id="19" />
+		<pinkcorduroypleated				id="20" />
+		<satinbubbleskirt					id="21" />
+		<silversatinskirt					id="22" />
+		<IceSkateSkirt						id="23" />
+		<HeartButtonSkirt					id="24" />
+		<LotsOLuckSkirt						id="25" />
+		<FloralBowOutfit					id="26" />
+		<PlaidRuffleSkirt					id="27" />
+		<WhiteEyeletSkirt					id="28" />
+		<GrassSkirt							id="29" />
+		<StarSkirt							id="30" />
+		<TieredDressBottom					id="31" />
+		<SatinDressBottom					id="32" />
+		<RuffleSkirt						id="33" />
+		<PleatedRhinestoneSkirt				id="34"/> 
+		<RainbowRibbonFairyBottom			id="35"/>
+		<LeopardSetSkirt					id="36"/>
+		<BlackTieredRuffleSkirt				id="37"/>
+		<WitchCostumeSkirt					id="38"/>
+		<LeopardKittySkirt					id="39"/>
+		<KittyOutfitSkirt					id="40"/>
+		<SkaterSkirt						id="41"/>
+		<GlodSkirt							id="42"/>
+		<MrsClausCostumeBottom				id="43"/>
+		<PinkBowDressBottom					id="44"/>
+		
+		<FloralDressSkirt					id="45"/>
+		<SatinHeartDressSkirt				id="46"/>
+		<EmbroideredLoveFloralSkirt			id="47"/>
+		<SatinHeartBubbleDressSkirt			id="48"/>
+		<LoveBugFairySkirt					id="49"/>
+		
+		<ShamrockSkirt						id="50"/>
+		<FancyDress							id="51"/>
+		<GinghamDress						id="52"/>
+	</skirts>
+	
+	<sashs type_id="5">			<!-- Type the new handbag name and it's id (increasing). -->
+		
+		<!-- Use only for Dress-A-Bear until finished! -->
+		<Cloth_37							id="47" />
+		<Cloth_38							id="48" />
+		<WizardCostumeScarf					id="46"/>
+	</sashs>
+	
+	<hats type_id="6">
+		
+		<!-- Use only for Dress-A-Bear until finished! -->
+		<Boy_Elf_Costume					id="21" />
+		<Witch_Hat							id="22" />
+		<Mummy_Head							id="23" />
+		<WizardCostumeHat					id="45"/>
+		<BlackWireRimGlasses				id="47"/>
+	</hats>
+	
+	<backpacks type_id="7">
+		
+		<!-- Use only for Dress-A-Bear until finished! -->
+		<Holly_Fairy						id="14" />
+		<Angel_Wings						id="14" />
+		<RainbowRibbonFairyWings			id="48" />
+		<HalloweenFairyWings				id="51" />
+		
+	</backpacks>
+	
+	<snowboards type_id="8">
+		
+		<!-- Use only for Dress-A-Bear until finished! -->
+		<Snowboard							id="22" />
+		
+	</snowboards>
+	
+</avatar_sidekick>
+
+<!-- End -->

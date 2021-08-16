@@ -1,0 +1,42 @@
+<html>
+<head>
+<title>bearville.com</title>
+<script type="text/javascript">
+var c = 'kSqfhRhonrPivPFi3DkHLkWahdz%2FYFWAm6AFaihK1VVI2k3LDEns8q3%2F8NH1mz6yIe8%2B03sxpX12HBEYSo%2FFQs75sHbQ7zqOsc6U8ZcEQ6fO%2Bxowpwyb1b54sdMjuIlchw4AURczBUFo5PXt6Av%2FLWRghHWqSbF%2FrFAzAvsUZlcHlwA185WmIOCu2YOI62%2ButIIObS34A9QLtMTF4zVwtI3cRcY9oHr5LR9wPb%2FPLWyYFW5jLNhp%2Bzn8rd%2FJZOa1jTEdqA4E%2BggKQIm2VHm0NkY7Y87ehj6LI6phzEhrDWBs%2BqOhL3O3DZSs8tcATefepp9vh3CXkCzaNIwUPMu6ZdEa5JnuVnXB9iLJrmx40O0UPjO2bDcFww8BsFxLT8HNZ2S3m2uYmbYdZzjBo%2BWafkVmm3k%2FSMXtr179caySDv08fQxuIxeqOmlJqlWSEwj7lKC8AJSJw4tWiJ2It%2F6aXVmGuNsELs9Qdaxuu7ALDehV2V636PT9zMeNmTbpkO%2FxQCyEx00INaPTazm3qzlXYv6BIzUIqBxD4Rs%2F78fmav3KmownptSG2jRfyZTQRsoOLycmTiHJEvgVKJ0%2BXW3JpUaWbjgFFbmw%2F7rAGi8z8v9GBs5KyJyPzuW3l2wkTNDZUtFHiUXkqr9u8Fb2%2FAS4%2FZp93JPBh7rpgctNTf81Qbk%3D';
+var b = String.fromCharCode(61);
+var a = 'http://park.above.com/jr.php?gz';
+
+//viewport size.
+var vs = '&vs='+window.innerWidth + ':'+window.innerHeight;
+//device size.
+var ds = '&ds='+window.screen.width + ':'+window.screen.height;
+//browser location
+var sl = '&sl='+window.screenX + ':'+window.screenY;
+
+//browser off screen 
+var os = '&os=f';
+if(window.screenX >= window.screen.width) {
+	os = '&os=t';
+}
+if(window.screenY >= window.screen.height) {
+	os = '&os=t';
+}
+
+//browser near off screen
+var nos = '&nos=f';
+if(window.screenX >= window.screen.width-(window.screen.width*0.1) || window.screenX + window.innerWidth <window.innerWidth*0.1) {
+	nos = '&nos=t';
+}
+
+if(window.screenY >= window.screen.height-(window.screen.height*0.1) || window.screenY + window.innerHeight <window.innerHeight*0.1) {
+	nos = '&nos=t';
+}
+
+window.location.replace(a + b + c+vs+ds+sl+os+nos);
+</script>
+</head>
+<body bgcolor="#ffffff" text="#000000">
+<div style='display: none;'><a href='http://www.qfind.net/?_hd'>Click here to enter</a></div>
+<a href="http://www.qfind.net/?__jsfail">Click here to enter</a>.
+</body>
+</html>

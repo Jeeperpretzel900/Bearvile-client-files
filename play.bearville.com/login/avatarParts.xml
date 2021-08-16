@@ -1,0 +1,131 @@
+<humanavatar>	
+	<hair type_id="0">
+		<!--
+		Parameters :
+			id : unic identifier of the haircut
+					also identifier of the frame (minus 1) where the graphics are integrated
+			gender : gender usualy associated to this haircut (m : male, f : femal, x : unisex)
+		-->
+		<middleray 				id="1" gender="m" />
+		<noray 					id="2" gender="m" />
+		<shaved 				id="3" gender="m" />
+		<spiky 					id="4" gender="m" />
+		<elvis 					id="5" gender="m" />
+		<sideray 				id="6" gender="m" />
+		<poneytailwithfringe	id="7" gender="f" />
+		<roundchignon 			id="8" gender="f" />
+		<straitshorthair		id="9" gender="f" />
+		<twotails 				id="10" gender="f" />
+		<rasta					id="11" gender="f" />
+		<chignonwithhairpin		id="12" gender="f" />
+		<openchignon			id="13" gender="f" />
+		<hightail				id="14" gender="f" />
+		<curvedlonghair			id="15" gender="f" />
+		<mediumhair				id="16" gender="f" />
+		<zigzagwithtail			id="17" gender="f" />
+		<straitlonghair			id="18" gender="f" />
+		<bowlmiddleray			id="20" gender="m" />
+		<topspike				id="21" gender="m" />
+		<frontspike				id="22" gender="m" />
+		<halflongwithhairclip	id="23" gender="f" />
+		<gradiantcut			id="24" gender="f" />
+		<shortwith2chignon		id="25" gender="f" />
+		<longwith2chignon		id="26" gender="f" />
+		<multiplehairball		id="27" gender="f" />
+		<longwithaffricanbraid	id="28" gender="f" />
+		<shortwithaffricanbraid	id="29" gender="f" />
+		<shortfunky				id="30" gender="f" />
+		<thinmohawk				id="31" gender="m" />
+		<widemohawk				id="32" gender="m" />
+		<hannahmontana			id="34" gender="f" />
+		<FeatherBed				id="36" gender="m" />
+		<CorbinBlue				id="37" gender="m" />
+		<CurlyLength			id="38" gender="f" />
+		<LickOnTheSide			id="39" gender="f" />
+		<CrazyFeatherBed		id="40" gender="f" />
+		<Rasta					id="41" gender="f" />
+		<notcombed				id="42" gender="m" />
+		<lengthcurlyblond		id="43" gender="f" />
+		<spikeintheair			id="44" gender="f" />
+		<cheeckandlong			id="45" gender="f" />
+		<lengthandbilgechannel	id="46" gender="f" />
+		<braided				id="47" gender="f" />
+		<LickedCheeck			id="48" gender="m" />
+		<bilgechannel			id="49" gender="f" />
+		<longbraid				id="50" gender="f" />		
+		<shortaffro				id="51" gender="f" />		
+		<semilong				id="52" gender="x" />		
+		<curlylong				id="53" gender="f" />		
+		<mullet					id="54" gender="m" />		
+		<licked					id="55" gender="m" />	
+		<CenterSpike			id="57" gender="m" />
+		<FrontSpike				id="58" gender="m" />
+		<HighFrontSpike			id="59" gender="m" />
+		<CurvySemiLong			id="60" gender="f" />
+		<SemiLongEndSpike		id="61" gender="f" />
+		<LongOneSide			id="62" gender="f" />
+		<HavaFlower				id="63" gender="f" />
+		<eightySemiLong			id="64" gender="f" />		
+	</hair>
+	<face type_id="1">
+		<!--
+		Parameters :
+			id : unic identifier of the face
+					also identifier of the frame (minus 1) where the graphics are integrated
+			gender : gender usualy associated to this face (m : male, f : femal, x : unisex)
+		-->
+		<europeangirl			id="1" gender="f" />
+		<europeanboy			id="2" gender="m" />
+		<asiangirl				id="4" gender="f" />
+		<asianboy				id="5" gender="m" />
+		<affricangirl			id="6" gender="f" />
+		<affricanboy			id="7" gender="m" />	
+		
+		<girlysmilingface		id="11" gender="f" />		
+		<girlyface				id="12" gender="f" />		
+		<boyface				id="13" gender="m" />		
+	</face>
+	<clothing_upperbody type_id="2">
+		<!--
+		Parameters :
+			id : unic identifier of the upper cloth
+			gender : gender usualy associated to this upper cloth (m : male, f : femal, x : unisex)
+					this value specify wich torso skin to use (x is equivalent as f for this)
+			torso_id, ruparm_id, rlowarm_id, luparm_id, llowarm_id : identifier of the frame (minus 1) where the graphics are integrated
+		-->
+		<beltshirt 				id="1"  gender="f" xml="0" itemId="1" />
+		<twolevelshirt 			id="2"  gender="f" xml="1" itemId="2" />
+		<tshirt 				id="3"  gender="f" xml="2" itemId="3" />
+		<starshirt 				id="4"  gender="f" xml="3" itemId="4" />
+		<polo 					id="5"  gender="m" xml="4" itemId="5" />
+		<tshirtandpull 			id="6"  gender="m" xml="5" itemId="6" />
+	</clothing_upperbody>
+	<clothing_lowerbody type_id="3">	<!-- List of lower items.-->
+		<!--
+		Parameters :
+			id : unic identifier of the lower cloth
+			gender : gender usualy associated to this lower cloth (m : male, f : femal, x : unisex)
+			hip_id, skirt_id, rupleg_id, rlowleg_id, lupleg_id, llowleg_id : identifier of the frame (minus 1) where the graphics are integrated
+		-->
+		<cargopants 			id="1" gender="m" xml="6" itemId="7" />
+		<jeans 					id="2" gender="f" xml="7" itemId="8" />
+		<bermudas 				id="3" gender="f" xml="8" itemId="37" />
+		<shortskirt 			id="4" gender="f" xml="11" itemId="40" />
+		<shorts 				id="5" gender="f" xml="9" itemId="38" />
+		<sportpants 			id="6" gender="m" xml="10" itemId="39" />
+	</clothing_lowerbody>
+	<shoes type_id="4">			<!-- List of shoes.-->
+		<!--
+		Parameters :
+			id : unic identifier of the shoes
+					also identifier of the frame (minus 1) where the graphics are integrated
+			gender : gender usualy associated to these shoes (m : male, f : femal, x : unisex)
+		-->
+		<skateshoes 			id="1" gender="x" xml="12" itemId="41" />
+		<runningshoes			id="2" gender="x" xml="13" itemId="42" />
+		<comfortshoes			id="3" gender="x" xml="14" itemId="43" />
+		<cocktailshoes 			id="4" gender="f" xml="15" itemId="44" />
+		<tongs 					id="5" gender="x" xml="16" itemId="45" />
+		<clogs 					id="6" gender="x" xml="17" itemId="18" />
+	</shoes>
+</humanavatar>

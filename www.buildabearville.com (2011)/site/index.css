@@ -1,0 +1,82 @@
+/* GENERAL */
+
+body
+{
+	background: #152283;
+	font: normal 0.8em arial, sans serif;
+	margin: 0;
+	text-align: center;
+}
+
+h1
+{
+	color: #152283;
+	float: left;
+	font-size: 0.1em;
+	position: absolute;
+}
+/* CONTENT */
+
+div#page
+{
+	margin: 0 auto;
+	position: relative;
+	text-align: left;
+	width: 911px;
+}
+
+div#flashHeader
+{
+	text-align: center;
+}
+
+div#header
+{
+	height: 102px;
+}
+
+div#contentMiddle
+{
+	/*width: 908px;*/
+}
+
+div#footer
+{
+	clear: left;
+	color: #88B8FF;
+	font-size: 0.8em;
+}
+
+span.fRight
+{
+	float: right;
+}
+
+div#flashDisabled
+{
+	visibility: hidden;
+	position: absolute;
+	top: 20px;
+	left: 203px;
+}
+
+div#flashDisabled img
+{
+	border: 2px #FFE400 solid;	
+}
+
+/* LINKS */
+
+a.mainLink:link, a.mainLink:visited 
+{
+	color: #88B8FF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a.mainLink:hover
+{
+	color: #88B8FF;	
+	font-weight: bold;
+	text-decoration: underline;
+}

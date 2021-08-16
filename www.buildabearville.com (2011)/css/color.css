@@ -1,0 +1,49 @@
+body {background: #080E5A; color: #EEFFFF;}
+#shadow {background: #080E5A url(../images/shadow_shellStretch.gif) repeat-y; }
+
+a:link {color: #435394; text-decoration: underline;}
+a:visited {color: #435394; text-decoration: underline;}
+a:hover {color: #435394; text-decoration: none;}
+a:active {color: #435394; text-decoration: underline;}
+
+#container {background: #415297 url(../images/branding/blue_bg.jpg) repeat-x;}
+
+#siteNav {background: url(../images/branding/site_nav_bg.jpg) no-repeat;}
+#siteNav a:link {color: #FFF; text-decoration: none;}
+#siteNav a:visited {color: #FFF; text-decoration: none;}
+#siteNav a:hover {color: #FFF; text-decoration: underline;}
+#siteNav a:active {color: #FFF; text-decoration: none;}
+
+#subNav a:link {color: #FFF; text-decoration: underline;}
+#subNav a:visited {color: #FFF; text-decoration: underline;}
+#subNav a:hover {color: #FFF; text-decoration: none;}
+#subNav a:active {color: #FFF; text-decoration: none;}
+
+#subNav a.selected:link {color: #FFD401; font-weight: bold; text-decoration: none;}
+#subNav a.selected:visited {color: #FFD401; font-weight: bold; text-decoration: none;}
+#subNav a.selected:hover {color: #FFD401; font-weight: bold; text-decoration: none;}
+#subNav a.selected:active {color: #FFD401; font-weight: bold; text-decoration: none;}
+
+#newsFlash a:link {color: #444; text-decoration: underline;}
+#newsFlash a:visited {color: #444; text-decoration: underline;}
+#newsFlash a:hover {color: #444; text-decoration: underline;}
+#newsFlash a:active {color: #444; text-decoration: underline;}
+
+#news {color: #444;}
+
+#siteInfo {background: url(../images/branding/site_info_bg.jpg) no-repeat;}
+#siteInfo {color: #444;}
+#siteInfo a:link {color: #444; text-decoration: none;}
+#siteInfo a:visited {color: #444; text-decoration: none;}
+#siteInfo a:hover {color: #444; text-decoration: underline;}
+#siteInfo a:active {color: #444; text-decoration: none;}
+
+#startHere .content, #games .content, #faq .content, #coolStuff .content, #pics .content, #help .content, #parents .content, #terms .content {background: #3C82D8 url(../images/global/module_ltBlue_bg.jpg) repeat-x;}
+
+#gamesHome .content {background: #3981DA url(../images/home/games_bg.jpg) repeat-x;}
+
+#news .content {background: #FFE068 url(../images/global/module_orange_bg.jpg) repeat-x;}
+
+#newsFlash .content {background: #FFE068 url(../images/home/news_bg.jpg) repeat-x;}
+
+#newsFlash .content  {color: #444;}

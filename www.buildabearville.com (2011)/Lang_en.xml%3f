@@ -1,0 +1,3851 @@
+<lang>
+	<clothing id="0">
+		<item id="0" text="Belted Top"/>		
+		<item id="1" text=""/>
+		<item id="2" text="Shrug"/>
+		<item id="3" text=""/>
+		<item id="4" text="Print Tee"/>
+		<item id="5" text=""/>
+		<item id="6" text="Star Tank"/>
+		<item id="7" text=""/>
+		<item id="8" text="Striped Polo Shirt"/>
+		<item id="9" text=""/>
+		<item id="10" text="Layered Print Tee"/>
+		<item id="11" text=""/>
+		<item id="12" text="Cargo Pants"/>
+		<item id="13" text=""/>
+		<item id="14" text="Jeans"/>
+		<item id="15" text=""/>
+		<item id="16" text="Capris"/>
+		<item id="17" text=""/>
+		<item id="18" text="Shorts"/>
+		<item id="19" text=""/>
+		<item id="20" text="Jog Pants"/>
+		<item id="21" text=""/>
+		<item id="22" text="Pleated Skirt"/>
+		<item id="23" text=""/>
+		<item id="24" text="Canvas Shoes"/>
+		<item id="25" text=""/>
+		<item id="26" text="Tennis Shoes"/>
+		<item id="27" text=""/>
+		<item id="28" text="Running Shoes"/>
+		<item id="29" text=""/>
+		<item id="30" text="Flats"/>
+		<item id="31" text=""/>
+		<item id="32" text="Flip Flops"/>
+		<item id="33" text=""/>
+		<item id="34" text="Clogs"/>
+		<item id="35" text=""/>
+		<item id="36" text="BABW® logo tee"/>
+		<item id="37" text=""/>
+		<item id="38" text="Pawlette Tee"/>
+		<item id="39" text=""/>
+		<item id="40" text="Maxine Bear Head Slippers"/>
+		<item id="41" text=""/>
+		<item id="42" text="High Tops"/>
+		<item id="43" text=""/>
+		<item id="44" text="Dino Slippers"/>
+		<item id="45" text=""/>
+		<item id="46" text="Spikey Shoes"/>
+		<item id="47" text=""/>
+		<item id="48" text="Gold Shoes"/>
+		<item id="49" text=""/>
+		<item id="50" text="Westie T-shirt"/>
+		<item id="51" text=""/>
+		<item id="52" text="Unicorn T-shirt"/>
+		<item id="53" text=""/>
+		<item id="54" text="Smiley Face T-shirt"/>
+		<item id="55" text=""/>
+		<item id="56" text="Black Dog T-shirt"/>
+		<item id="57" text=""/>
+		<item id="58" text="Volcano T-shirt"/>
+		<item id="59" text=""/>
+		<item id="60" text="Dino Bone T-shirt"/>
+		<item id="61" text=""/>
+		<item id="62" text="Hunter's Jacket"/>
+		<item id="63" text=""/>
+		<item id="64" text="Silk Pajama Pants"/>
+		<item id="65" text=""/>
+		<item id="66" text="Eskimo Jacket"/>
+		<item id="67" text=""/>
+		<item id="68" text="Velvet Jacket"/>
+		<item id="69" text=""/>
+		<item id="70" text="Tie Dye T-shirt"/>
+		<item id="71" text=""/>
+		<item id="72" text="Velvet Pants"/>
+		<item id="73" text=""/>
+		<item id="74" text="Jeans With Patches"/>
+		<item id="75" text=""/>
+		<item id="76" text="Furry Boots"/>
+		<item id="77" text=""/>
+		<item id="78" text="Maxine T-Shirt"/>
+		<item id="79" text=""/>
+		<item id="80" text="Striped Tunic"/>
+		<item id="81" text=""/>
+		<item id="82" text="Jean Jacket"/>
+		<item id="83" text=""/>
+		<item id="84" text="Puffy Vest"/>
+		<item id="85" text=""/>
+		<item id="86" text="Track Jacket"/>
+		<item id="87" text=""/>
+		<item id="88" text="Leggings"/>
+		<item id="89" text=""/>
+		<item id="90" text="Camo Cargo Pants"/>
+		<item id="91" text=""/>
+		<item id="92" text="Jeans"/>
+		<item id="93" text=""/>
+		<item id="94" text="Heart T-shirt"/>
+		<item id="95" text=""/>
+		<item id="96" text="Ground Hog T-shirt"/>
+		<item id="97" text=""/>
+		<item id="98" text="Huggable Heroes T-shirt"/>
+		<item id="99" text=""/>
+		<item id="100" text="Party Favor T-Shirt"/>
+		<item id="101" text=""/>
+		<item id="102" text="Long-Sleeve Print Shirt"/>
+		<item id="103" text=""/>
+		<item id="104" text="Short-Sleeve Print Shirt"/>
+		<item id="105" text=""/>
+		<item id="106" text="BABW Logo Polo"/>
+		<item id="107" text=""/>
+		<item id="108" text="Rolled-Sleeve Button-Down Shirt"/>
+		<item id="109" text=""/>
+		<item id="110" text="Jean Skirt"/>
+		<item id="111" text=""/>
+		<item id="112" text="Cargo Shorts"/>
+		<item id="113" text=""/>
+		<item id="114" text="Mary Jane Heels"/>
+		<item id="115" text=""/>
+		<item id="116" text="Animal-Print Ballet Flats"/>
+		<item id="117" text=""/>
+		<item id="118" text="Jewelled Ballet Flat"/>
+		<item id="119" text=""/>
+		<item id="120" text="Cotton Button-Down"/>
+		<item id="121" text=""/>
+		<item id="122" text="Flyaway Sweater"/>
+		<item id="123" text=""/>
+		<item id="124" text="Ribbon Tunic"/>
+		<item id="125" text=""/>
+		<item id="126" text="Tapered Button-Down Shirt"/>
+		<item id="127" text=""/>
+		<item id="128" text="Print Hoody"/>
+		<item id="129" text=""/>
+		<item id="130" text="Arctic Jacket"/>
+		<item id="131" text=""/>
+		<item id="132" text="Mama Bear Tee"/>
+		<item id="133" text=""/>
+		<item id="134" text="Leap Day T-shirt"/>
+		<item id="135" text=""/>
+		<item id="136" text="Hawaiian Top"/>
+		<item id="137" text=""/>
+		<item id="138" text="Lucky Ringer Tee"/>
+		<item id="139" text=""/>
+		<item id="140" text="Heart Print Tank"/>
+		<item id="141" text=""/>
+		<item id="142" text="Flower Power Sandals"/>
+		<item id="143" text=""/>
+		<item id="144" text="Tube Top"/>
+		<item id="145" text=""/>
+		<item id="146" text="Ruffle Skirt"/>
+		<item id="147" text=""/>
+		<item id="148" text="Tie Front Shorts"/>
+		<item id="149" text=""/>
+		<item id="150" text="Polka Dot Tankini"/>
+		<item id="151" text=""/>
+		<item id="152" text="Floral Print Tankini"/>
+		<item id="153" text=""/>
+		<item id="154" text="Heart Print Bathing Suit"/>
+		<item id="155" text=""/>
+		<item id="156" text="Polka Dot Sarong"/>
+		<item id="157" text=""/>
+		<item id="158" text="Floral Print Sarong"/>
+		<item id="159" text=""/>
+		<item id="160" text="Heart Print Sarong"/>
+		<item id="161" text=""/>
+		<item id="162" text="Striped Collared Shirt"/>
+		<item id="163" text=""/>
+		<item id="164" text="97 Polo"/>
+		<item id="165" text=""/>
+		<item id="166" text="Tank Top"/>
+		<item id="167" text=""/>
+		<item id="168" text="Luau Board Shorts"/>
+		<item id="169" text=""/>
+		<item id="170" text="Checked Board Shorts"/>
+		<item id="171" text=""/>
+		<item id="172" text="Stripe Board Shorts"/>
+		<item id="173" text=""/>
+		<item id="174" text="Plaid Board Shorts"/>
+		<item id="175" text=""/>
+		<item id="176" text="Leather Look Flip Flops"/>
+		<item id="177" text=""/>
+		<item id="178" text="#1 Fan Hand"/>
+		<item id="179" text=""/>
+		<item id="180" text="Plaid Babydoll Tank"/>
+		<item id="181" text=""/>
+		<item id="182" text="Henley Tunic"/>
+		<item id="183" text=""/>
+		<item id="184" text="Polka Dot Dress"/>
+		<item id="185" text=""/>
+		<item id="186" text="Colorblock Dress"/>
+		<item id="187" text=""/>
+		<item id="188" text="Center Stripes Top"/>
+		<item id="189" text=""/>
+		<item id="190" text="Tropical Polo Shirt"/>
+		<item id="191" text=""/>
+		<item id="192" text="Baseball Tee"/>
+		<item id="193" text=""/>
+		<item id="194" text="Camo Shorts"/>
+		<item id="195" text="Get noticed in camo cool."/>
+		<item id="196" text="Plaid Shorts"/>
+		<item id="197" text=""/>
+		<item id="198" text="Cuffed Capris"/>
+		<item id="199" text=""/>
+		<item id="200" text="Wedge Peep Toe Heels"/>
+		<item id="201" text=""/>
+		<item id="202" text="Earth Day Tee"/>
+		<item id="203" text=""/>
+		<item id="204" text="V-Neck Hoodie"/>
+		<item id="205" text=""/>
+		<item id="206" text="Layered Zipper Tee"/>
+		<item id="207" text=""/>
+		<item id="208" text="Layered V-Neck Tee"/>
+		<item id="209" text=""/>
+		<item id="210" text="Bold Stripe Dress"/>
+		<item id="211" text=""/>
+		<item id="212" text="Classic Polo Shirt"/>
+		<item id="213" text=""/>
+		<item id="214" text="Color Notch Sweater"/>
+		<item id="215" text=""/>
+		<item id="216" text="Classic Stripe Sweater"/>
+		<item id="217" text=""/>
+		<item id="218" text="Stripe V-Neck Sweater"/>
+		<item id="219" text=""/>
+		<item id="220" text="Canvas Slip On Shoes"/>
+		<item id="221" text=""/>
+		<item id="222" text="Blue Paw Tee"/>
+		<item id="223" text=""/>
+		<item id="224" text="Baseball Uniform Top"/>
+		<item id="225" text=""/>
+		<item id="226" text="Football Uniform Top"/>
+		<item id="227" text=""/>
+		<item id="228" text="Soccer Uniform Top"/>
+		<item id="229" text=""/>
+		<item id="230" text="Volleyball Uniform Top"/>
+		<item id="231" text=""/>
+		<item id="232" text="Floral Capri Top"/>
+		<item id="233" text=""/>
+		<item id="234" text="Butterfly Top"/>
+		<item id="235" text=""/>
+		<item id="236" text="Hula Outfit Top"/>
+		<item id="237" text=""/>
+		<item id="238" text="Adventure Tee"/>
+		<item id="239" text=""/>
+		<item id="240" text="Plaid Baseball Top"/>
+		<item id="241" text=""/>
+		<item id="242" text="Dream Pony Top"/>
+		<item id="243" text=""/>
+
+		<item id="244" text="Baseball Uniform Bottom"/>
+		<item id="245" text=""/>
+		<item id="246" text="Football Uniform Bottom"/>
+		<item id="247" text=""/>
+		<item id="248" text="Soccer Uniform Bottom"/>
+		<item id="249" text=""/>
+		<item id="250" text="Volleyball Uniform Bottom"/>
+		<item id="251" text=""/>
+		<item id="252" text="Gem Flip Flops"/>
+		<item id="253" text=""/>
+		<item id="254" text="Sport Sandals"/>
+		<item id="255" text=""/>
+		<item id="256" text="Sequin Sandals"/>
+		<item id="257" text=""/>
+		<item id="258" text="Ballet Flats"/>
+		<item id="259" text=""/>
+		<item id="260" text="Flower BearyJane® Shoes"/>
+		<item id="261" text=""/>
+		<item id="262" text="Beary Turf Shoe®"/>
+		<item id="263" text=""/>
+		<item id="264" text="Classic Tennis Shoes"/>
+		<item id="265" text=""/>
+		<item id="266" text="Glitter Heels"/>
+		<item id="267" text=""/>
+		
+		
+		<item id="268" text="Dress Pants"/>
+		<item id="269" text=""/>
+		<item id="270" text="Faded Denim Jeans"/>
+		<item id="271" text=""/>
+		<item id="272" text="Floral Capri Outfit Bottom"/>
+		<item id="273" text=""/>
+		<item id="274" text="Butterfly Outfit Bottom"/>
+		<item id="275" text=""/>
+		<item id="276" text="Hula Outfit Bottom"/>
+		<item id="277" text=""/>
+		<item id="278" text="Camo Shorts"/>
+		<item id="279" text=""/>
+		<item id="280" text="Plaid Baseball Outfit Bottom"/>
+		<item id="281" text=""/>
+		<item id="282" text="Dream Pony Outfit Bottom"/>
+		<item id="283" text=""/>
+		<item id="284" text="Gem Bubble Dress Bottom"/>
+		<item id="285" text=""/>
+		<item id="286" text="Hello Kitty® PJs Bottom"/>
+		<item id="287" text=""/>
+		<item id="288" text="Cheerleader Outfit Bottom"/>
+		<item id="289" text=""/>
+		<item id="290" text="Cheerleader Outfit Top"/>
+		<item id="291" text=""/>
+		<item id="292" text="Gem Bubble Dress Top"/>
+		<item id="293" text=""/>
+		<item id="294" text="Hello Kitty® PJs Top"/>
+		<item id="295" text=""/>
+		<item id="296" text="Ball T-shirt"/>
+		<item id="297" text=""/>
+		<item id="298" text="Running Shoes"/>
+		<item id="299" text=""/>
+		
+		<item id="300" text="Rainbow Tee"/>
+		<item id="301" text=""/>
+		<item id="302" text="Striped Tank"/>
+		<item id="303" text=""/>
+		<item id="304" text="Sporty Shorts"/>
+		<item id="305" text=""/>
+		<item id="306" text="Hearts Hoodie"/>
+		<item id="307" text=""/>
+		<item id="308" text="Layered Skirt"/>
+		<item id="309" text=""/>
+		<item id="310" text="Rainbow Tennis Shoe"/>
+		<item id="311" text=""/>
+		<item id="312" text="Sporty Tank"/>
+		<item id="313" text=""/>
+		<item id="314" text="Sporty Board Shorts"/>
+		<item id="315" text=""/>
+		<item id="316" text="Sporty Crewneck Tee"/>
+		<item id="317" text=""/>
+		<item id="318" text="Striped Sporty Shoes"/>
+		<item id="319" text=""/>
+		
+		<item id="320" text="Unused ID"/>
+		<item id="321" text=""/>
+		<item id="322" text="Karate Uniform Top"/>
+		<item id="323" text=""/>
+		<item id="324" text="Lacrosse Uniform Top"/>
+		<item id="325" text=""/>
+		<item id="326" text="Sunny Tiny Tee"/>
+		<item id="327" text=""/>
+		<item id="328" text="UK T-Shirt"/>
+		<item id="329" text=""/>
+		<item id="330" text="Hello Kitty® Hawaii Outfit Top"/>
+		<item id="331" text=""/>
+		<item id="332" text="Patriotic Princess Outfit Top"/>
+		<item id="333" text=""/>
+		<item id="334" text="Striped Denim Outfit"/>
+		<item id="335" text=""/>
+		<item id="336" text="USA Sequin Shirt"/>
+		<item id="337" text=""/>
+		<item id="338" text="Canada Sequin Shirt"/>
+		<item id="339" text=""/>
+		<item id="340" text="England Sequin Shirt"/>
+		<item id="341" text=""/>
+		<item id="342" text="Hello Kitty Tiny Tee"/>
+		<item id="343" text=""/>
+		
+		<item id="344" text="Karate Uniform Bottom"/>
+		<item id="345" text=""/>
+		<item id="346" text="Lacross Uniform Bottom"/>
+		<item id="347" text=""/>
+		<item id="348" text="Beach Towel"/>
+		<item id="349" text=""/>
+		<item id="350" text="Tropical Hello Kitty® Skirt"/>
+		<item id="351" text=""/>
+		<item id="352" text="Patriotic Girl"/>
+		<item id="353" text=""/>
+		<item id="354" text="Striped Denim Skirt"/>
+		<item id="355" text=""/>
+		
+		<item id="356" text="Roller Skates"/>
+		<item id="357" text=""/>
+		<item id="358" text="Striped Star Flip Flop"/>
+		<item id="359" text=""/>
+		
+		<item id="360" text="Panda Tee"/>
+		<item id="361" text=""/>
+		<item id="362" text="Red Summer Camp Tee"/>
+		<item id="363" text=""/>
+		<item id="364" text="Blue Summer Camp Tee"/>
+		<item id="365" text=""/>
+		<item id="366" text="Green Summer Camp Tee"/>
+		<item id="367" text=""/>
+		<item id="368" text="Yellow Summer Camp Tee"/>
+		<item id="369" text=""/>
+		<item id="370" text="Red And White Striped Vest"/>
+		<item id="371" text=""/>
+		
+		<item id="372" text="Disco Costumer Male"/>
+		<item id="373" text=""/>
+		<item id="374" text="Disco Costumer Female"/>
+		<item id="375" text=""/>
+		<item id="376" text="Striped Knit Dress"/>
+		<item id="377" text=""/>
+		<item id="378" text="Bow Tank"/>
+		<item id="379" text=""/>
+		<item id="380" text="Floral Ruffle Dress"/>
+		<item id="381" text=""/>
+		<item id="382" text="Butterfly Tee"/>
+		<item id="383" text=""/>
+		<item id="384" text="Stripes & Lace Top"/>
+		<item id="385" text=""/>
+		<item id="386" text="Muscle Tee"/>
+		<item id="387" text=""/>
+		<item id="388" text="Striped Polo"/>
+		<item id="389" text=""/>
+		<item id="390" text="Soccer Tee"/>
+		<item id="391" text=""/>
+		<item id="392" text="Camo Tee"/>
+		<item id="393" text=""/>
+		<item id="394" text="Star Gymnast Outfit Top"/>
+		<item id="395" text=""/>
+		<item id="396" text="Maple Leaf Gymnast Outfit Top"/>
+		<item id="397" text=""/>
+		<item id="398" text="USA Basketball Uniform Top"/>
+		<item id="399" text=""/>
+		<item id="400" text="Stars & Stripes Swimsuit Top"/>
+		<item id="401" text=""/>
+		<item id="402" text="USA Olympic Tee"/>
+		<item id="403" text=""/>
+		<item id="404" text="Striped Sporty Shorts"/>
+		<item id="405" text=""/>
+		<item id="406" text="Maple Leaf Gymnast Outfit Bottom"/>
+		<item id="407" text=""/>
+		<item id="408" text="Star Gymnast Outfit Bottom"/>
+		<item id="409" text=""/>
+		<item id="410" text="USA Basketball Uniform Bottom"/>
+		<item id="411" text=""/>
+		<item id="412" text="Stars & Stripes Swimsuit Bottom"/>
+		<item id="413" text=""/>
+		<item id="414" text="USA Shorts"/>
+		<item id="415" text=""/>
+		<item id="416" text="Canada Shorts"/>
+		<item id="417" text=""/>
+		<item id="418" text="Bear Head Flip Flops"/>
+		<item id="419" text=""/>
+		<item id="420" text="Baton Twirler Costume"/>
+		<item id="421" text=""/>
+		<item id="422" text="A Clown Costume"/>
+		<item id="423" text=""/>
+		<item id="424" text="Drum Major Uniform"/>
+		<item id="425" text=""/>
+		<item id="426" text="Clown Shoes"/>
+		<item id="427" text=""/>
+		<item id="428" text="Clown Pants"/>
+		<item id="429" text=""/>
+		<item id="430" text="I Heart BABW Shirt"/>
+		<item id="431" text=""/>
+		<item id="432" text="Color Block Tank"/>
+		<item id="433" text=""/>
+		<item id="434" text="Earth Tee"/>
+		<item id="435" text=""/>
+		<item id="436" text="Plaid Skirt"/>
+		<item id="437" text=""/>
+		<item id="438" text="Tiered Skirt"/>
+		<item id="439" text=""/>
+		<item id="440" text="Plaid Ballet Flats"/>
+		<item id="441" text=""/>
+		<item id="442" text="Skull Tee"/>
+		<item id="443" text=""/>
+		<item id="444" text="Guitar Tee"/>
+		<item id="445" text=""/>
+		<item id="446" text="Hawaiian Shorts"/>
+		<item id="447" text=""/>
+		<item id="448" text="Patterned Canvas Shoes"/>
+		<item id="449" text=""/>
+		<item id="450" text="Zebra Print Leggings"/>
+		<item id="451" text=""/>
+		<item id="452" text="Dance Star Pants"/>
+		<item id="453" text=""/>
+		<item id="454" text="Classic Pants"/>
+		<item id="455" text=""/>
+		<item id="456" text="Gem Top"/>
+		<item id="457" text=""/>
+		<item id="458" text="Dance Star Hoodie"/>
+		<item id="459" text=""/>
+		<item id="460" text="Polka Dot Belted Outfit"/>
+		<item id="461" text=""/>
+		<item id="462" text="Amethyst Fairy Outfit"/>
+		<item id="463" text=""/>
+		<item id="464" text="I'm Fabulous Tee"/>
+		<item id="465" text=""/>
+		<item id="466" text="Floral Gem Top"/>
+		<item id="467" text=""/>
+		<item id="468" text="Striped Collared Shirt"/>
+		<item id="469" text=""/>
+		<item id="470" text="Think Green Tee"/>
+		<item id="471" text=""/>
+		<item id="472" text="Polka Dot Leggings"/>
+		<item id="473" text=""/>
+		<item id="474" text="Bear Hugs Tee"/>
+		<item id="475" text=""/>
+		<item id="476" text="Megaphone Shirt"/>
+		<item id="477" text=""/>
+		<item id="478" text="Cheerleader Uniform Top"/>
+		<item id="479" text=""/>
+		<item id="480" text="Cheerleader Uniform Bottom"/>
+		<item id="481" text=""/>
+		<item id="482" text="8 Twist Sports Jersey"/>
+		<item id="483" text=""/>
+		<item id="484" text="Duck Feet"/>
+		<item id="485" text=""/>
+		<item id="486" text="Argyle Tee"/>
+		<item id="487" text=""/>
+		<item id="488" text="Football Tee"/>
+		<item id="489" text=""/>
+		<item id="490" text="Headphones Tee"/>
+		<item id="491" text=""/>
+		<item id="492" text="Sweater Vest Set"/>
+		<item id="493" text=""/>
+		<item id="494" text="Striped Floral Tee"/>
+		<item id="495" text=""/>
+		<item id="496" text="Peace Tee"/>
+		<item id="497" text=""/>
+		<item id="498" text="Vest & Shirt Set"/>
+		<item id="499" text=""/>
+		<item id="500" text="Tank Dress"/>
+		<item id="501" text=""/>
+		<item id="502" text="Ruffle Tie Dress"/>
+		<item id="503" text=""/>
+		<item id="504" text="Basketball Warm Up Top"/>
+		<item id="505" text=""/>
+		<item id="506" text="Floral Dot Dress"/>
+		<item id="507" text=""/>
+		<item id="508" text="Stripes & Denim Top"/>
+		<item id="509" text=""/>
+		<item id="510" text="Gold Embroidered Top"/>
+		<item id="511" text=""/>
+		<item id="512" text="Motocross Patches Top"/>
+		<item id="513" text=""/>
+		<item id="514" text="Pink Plad Dress"/>
+		<item id="515" text=""/>
+		<item id="516" text="Letterman Jacket"/>
+		<item id="517" text=""/>
+		<item id="518" text="Flower Power Tank Top"/>
+		<item id="519" text=""/>
+		<item id="520" text="Zebra Tee"/>
+		<item id="521" text=""/>
+		<item id="522" text="Basketball Warm Up Bottom"/>
+		<item id="523" text=""/>
+		<item id="524" text="Stripes & Denim Bottom"/>
+		<item id="525" text=""/>
+		<item id="526" text="Gold Embroidered Bottom"/>
+		<item id="527" text=""/>
+		<item id="528" text="Motocross Patches Bottom"/>
+		<item id="529" text=""/>
+		<item id="530" text="Letterman Jacket Bottom"/>
+		<item id="531" text=""/>
+		<item id="532" text="Cord Skirt"/>
+		<item id="533" text=""/>
+		<item id="534" text="Ruffle Skirt"/>
+		<item id="535" text=""/>
+		<item id="536" text="Pleated Cord Skirt"/>
+		<item id="537" text=""/>
+		<item id="538" text="Fuzzy Clogs"/>
+		<item id="539" text=""/>
+		<item id="540" text="Bow Ballet Flats"/>
+		<item id="541" text=""/>
+		<item id="542" text="Gem Ballet Flat"/>
+		<item id="543" text=""/>
+		<item id="544" text="Cake Tee"/>
+		<item id="545" text=""/>
+		<item id="546" text="Purple Leather Jacket"/>
+		<item id="547" text=""/>
+		<item id="548" text="Vote Tee"/>
+		<item id="549" text=""/>
+		<item id="550" text="NGK Zebra Jacket"/>
+		<item id="551" text=""/>
+		<item id="552" text="Puerto Rican Flag T-Shirt"/>
+		<item id="553" text=""/>
+		<item id="554" text="Halloween Kitty Top"/>
+		<item id="555" text=""/>
+		<item id="556" text="Halloween Kitty Bottom"/>
+		<item id="557" text=""/>
+		<item id="558" text="Halloween Kitty Shoes"/>
+		<item id="559" text=""/>
+		<item id="560" text="Green Diva Outfit Pants"/>
+		<item id="561" text=""/>
+		<item id="562" text="Purple Diva Outfit Skirt"/>
+		<item id="563" text=""/>
+		<item id="564" text="Green Diva Outfit Top"/>
+		<item id="565" text=""/>
+		<item id="566" text="Purple Diva Outfit Top"/>
+		<item id="567" text=""/>
+		<item id="568" text="Monster Slippers"/>
+		<item id="569" text=""/>
+		<item id="570" text="Diva Outfit Gloves"/>
+		<item id="571" text=""/>
+		<item id="572" text="Big Cartoon Gloves"/>
+		<item id="573" text=""/>
+		<item id="574" text="Jack-O-Lantern Tee"/>
+		<item id="575" text=""/>
+		<item id="576" text="Bear Head Tee"/>
+		<item id="577" text=""/>
+		<item id="578" text="Bear Hug Tee-Sep"/>
+		<item id="579" text=""/>
+		<item id="580" text="Pink Ribbon Tee"/>
+		<item id="581" text=""/>
+		<item id="582" text="Gorilla Feet"/>
+		<item id="583" text=""/>
+		<item id="584" text="Green Monster Feet"/>
+		<item id="585" text=""/>
+		<item id="586" text="MamaBear Outfit Top"/>
+		<item id="587" text=""/>
+		<item id="588" text="MamaBear Outfit Bottom"/>
+		<item id="589" text=""/>
+		<item id="590" text="MamaBear Outfit Shoes"/>
+		<item id="591" text=""/>
+		<item id="592" text="MamaBear Outfit Gloves"/>
+		<item id="593" text=""/>
+		<item id="594" text="Stripe Polo Tee"/>
+		<item id="595" text=""/>
+		<item id="596" text="Drummer Tee"/>
+		<item id="597" text=""/>
+		<item id="598" text="Jersey Tee"/>
+		<item id="599" text=""/>
+		<item id="600" text="Striped Henley Top"/>
+		<item id="601" text=""/>
+		<item id="602" text="Argyle Sweater"/>
+		<item id="603" text=""/>
+		<item id="604" text="Color Block Top"/>
+		<item id="605" text=""/>
+		<item id="606" text="Bow Top"/>
+		<item id="607" text=""/>
+		<item id="608" text="Button Up Dress"/>
+		<item id="609" text=""/>
+		<item id="610" text="Stripe Skirt"/>
+		<item id="611" text=""/>
+		<item id="612" text="Pumpkin Slippers"/>
+		<item id="613" text=""/>
+		<item id="614" text="Witch Costume Top"/>
+		<item id="615" text=""/>
+		<item id="616" text="Mummy Costume Top"/>
+		<item id="617" text=""/>
+		<item id="618" text="Ready To Rock Outfit Top"/>
+		<item id="619" text=""/>
+		<item id="620" text="Witch Costume Bottom"/>
+		<item id="621" text=""/>
+		<item id="622" text="Mummy Costume Bottom"/>
+		<item id="623" text=""/>
+		<item id="624" text="Ready To Rock Outfit Bottom"/>
+		<item id="625" text=""/>
+		<item id="626" text="Disco Top"/>
+		<item id="627" text=""/>
+		<item id="628" text="Disco Bottom"/>
+		<item id="629" text=""/>
+		<item id="630" text="Pointy Witch Costume Top"/>
+		<item id="631" text=""/>
+		<item id="632" text="Pirate Top"/>
+		<item id="633" text=""/>
+		<item id="634" text="Pirate Bottom"/>
+		<item id="635" text=""/>
+		<item id="636" text="Pirate Shoes"/>
+		<item id="637" text=""/>
+		<item id="638" text="Red&Black Pirate Top"/>
+		<item id="639" text=""/>
+		<item id="640" text="Red&Black Pirate Bottom"/>
+		<item id="641" text=""/>
+		<item id="642" text="Girl Pirate Top"/>
+		<item id="643" text=""/>
+		<item id="644" text="Grey Leopard Denim Top"/>
+		<item id="645" text=""/>
+		<item id="646" text="Sweet Candy Corn Bottom"/>
+		<item id="647" text=""/>
+		<item id="648" text="Sweet Candy Corn Bottom"/>
+		<item id="649" text=""/>
+		<item id="650" text="Hope Ribbon Tee"/>
+		<item id="651" text=""/>
+		<item id="652" text="Pudsey Tee"/>
+		<item id="653" text=""/>
+		<item id="654" text="Grey Leopard Ballet Flat"/>
+		<item id="655" text=""/>
+		<item id="656" text="White Strap Shoes"/>
+		<item id="657" text=""/>
+		<item id="658" text="Pink Glitter Heel"/>
+		<item id="659" text=""/>
+		<item id="660" text="Girl Pirate Skirtt"/>
+		<item id="661" text=""/>
+		<item id="662" text="Grey Leopard Denim Skirt"/>
+		<item id="663" text=""/>
+		<item id="664" text="Bumble Bee Top"/>
+		<item id="665" text=""/>
+		<item id="666" text="Bumble Bee Bottom"/>
+		<item id="667" text=""/>
+		<item id="668" text="Princess Robe"/>
+		<item id="669" text=""/>
+		<item id="670" text="Wizard Robe"/>
+		<item id="671" text=""/>
+		<item id="672" text="Super Hero Top"/>
+		<item id="673" text=""/>
+		<item id="674" text="Super Hero Top Bottom"/>
+		<item id="675" text=""/>
+		<item id="676" text="Jr.CyberGuide Tank"/>
+		<item id="677" text=""/>
+		<item id="678" text="Jr.CyberGuide Tee Shirt"/>
+		<item id="679" text=""/>
+		<item id="680" text="Halloween Wicked Shirt"/>
+		<item id="681" text=""/>
+		<item id="682" text="Jr.CyberGuide Shorts"/>
+		<item id="683" text=""/>
+		<item id="684" text="Jr.CyberGuide Shorts"/>
+		<item id="685" text=""/>
+		<item id="686" text="Jr.CyberGuide Flip Flop"/>
+		<item id="687" text=""/>
+		<item id="688" text="Turkey Feet"/>
+		<item id="689" text=""/>
+		<item id="690" text="Snow Boots"/>
+		<item id="691" text=""/>
+		<item id="692" text="Ghost Top"/>
+		<item id="693" text=""/>
+		<item id="694" text="Oven Mitt"/>
+		<item id="695" text=""/>
+		
+
+		
+	</clothing>
+
+	<accessories id="1">
+		<item id="0" text="Top Hat"/>		
+		<item id="1" text=""/>
+		<item id="2" text="Sun Hat"/>
+		<item id="3" text=""/>
+		<item id="4" text="Cowboy Hat"/>
+		<item id="5" text=""/>
+		<item id="6" text="Baseball Cap"/>
+		<item id="7" text=""/>
+		<item id="8" text="Aviator Sunglasses"/>
+		<item id="9" text=""/>
+		<item id="10" text="Night Vision Goggles"/>
+		<item id="11" text=""/>
+		<item id="12" text="Snowboarding Goggles"/>		
+		<item id="13" text=""/>
+		<item id="14" text="Round Gold Necklace"/>		
+		<item id="15" text=""/>
+		<item id="16" text="Triangle Silver Necklace"/>		
+		<item id="17" text=""/>
+		<item id="18" text="Jeweled Necklace"/>		
+		<item id="19" text=""/>
+		<item id="20" text="Skateboard"/>		
+		<item id="21" text=""/>
+		<item id="22" text="BABW® shopping bag"/>		
+		<item id="23" text=""/>
+		<item id="24" text="Fashion Sunglasses"/>		
+		<item id="25" text=""/>
+		<item id="26" text="Aviator Sunglasses"/>		
+		<item id="27" text=""/>
+		<item id="28" text="Newsboy Hat"/>
+		<item id="29" text=""/>
+		<item id="30" text="Pink Leopard Newsboy Hat"/>
+		<item id="31" text=""/>
+		<item id="32" text="Moose Antler Headband"/>
+		<item id="33" text=""/>
+		<item id="34" text="Elephant Ears Headband"/>
+		<item id="35" text=""/>
+		<item id="36" text="Sunglasses"/>
+		<item id="37" text=""/>
+		<item id="38" text="Maxine Red Scarf"/>
+		<item id="39" text=""/>
+		<item id="40" text="Bone And Heart Dog Tag"/>
+		<item id="41" text=""/>
+		<item id="42" text="Alligator tooth"/>
+		<item id="43" text=""/>
+		<item id="44" text="Wishbone Necklace"/>
+		<item id="45" text=""/>
+		<item id="46" text="Bear claw necklace"/>
+		<item id="47" text=""/>
+		<item id="48" text="Have A Lion's Mane"/>
+		<item id="49" text=""/>
+		<item id="50" text="Rolled Up Newspaper"/>
+		<item id="51" text=""/>
+		<item id="52" text="Suitcase"/>
+		<item id="53" text=""/>
+		<item id="54" text="Tiger Striped Bag"/>
+		<item id="55" text=""/>
+		<item id="56" text="Leprechaun Hat"/>
+		<item id="57" text=""/>
+		<item id="58" text="Explorer's Hat"/>
+		<item id="59" text=""/>
+		<item id="60" text="Bunny Ears"/>
+		<item id="61" text=""/>
+		<item id="62" text="Pink Bow In Hair"/>
+		<item id="63" text=""/>
+		<item id="64" text="Bearemy® Hat"/>
+		<item id="65" text=""/>
+		<item id="66" text="Triceratops Mask"/>
+		<item id="67" text=""/>
+		<item id="68" text="Funky Reading Glasses"/>
+		<item id="69" text=""/>
+		<item id="70" text="Heart Locket"/>
+		<item id="71" text=""/>
+		<item id="72" text="Blue Bowtie"/>
+		<item id="73" text=""/>
+		<item id="74" text="Trick Or Treat Pumkin"/>
+		<item id="75" text=""/>
+		<item id="76" text="Bunny Tail"/>
+		<item id="77" text=""/>
+		<item id="78" text="Turtle Hat"/>
+		<item id="79" text=""/>
+		<item id="80" text="Waggly Puppy Tuque"/>
+		<item id="81" text=""/>
+		<item id="82" text="Hat With Dog Ears"/>
+		<item id="83" text=""/>
+		<item id="84" text="Princess Crown"/>
+		<item id="85" text=""/>
+		<item id="86" text="Eskimo Hat With Flaps"/>
+		<item id="87" text=""/>
+		<item id="88" text="Eye Patch"/>
+		<item id="89" text=""/>
+		<item id="90" text="Kitty Mask"/>
+		<item id="91" text=""/>
+		<item id="92" text="Holly Leaf Collar"/>
+		<item id="93" text=""/>
+		<item id="94" text="Pink Dino Bag"/>
+		<item id="95" text=""/>
+		<item id="96" text="Blue Dino Bag"/>
+		<item id="97" text=""/>
+		<item id="98" text="Maxine Ski Hat"/>
+		<item id="99" text=""/>
+		<item id="100" text="Bone and Heart Dog Tag Necklace"/>
+		<item id="101" text=""/>
+		<item id="102" text="Christmas Hat"/>
+		<item id="103" text=""/>
+		<item id="104" text="2008 Glasses"/>
+		<item id="105" text=""/>
+		<item id="106" text="Knit Hat"/>
+		<item id="107" text=""/>
+		<item id="108" text="Tote"/>
+		<item id="109" text=""/>
+		<item id="110" text="Checked Scarf"/>
+		<item id="111" text=""/>
+		<item id="112" text="CyBearGuide hat"/>
+		<item id="113" text=""/>
+		<item id="114" text="Small Tiara"/>
+		<item id="115" text=""/>
+		<item id="116" text="Rainbow Bunny Ears"/>
+		<item id="117" text=""/>		
+		<item id="118" text="Neck Tie"/>
+		<item id="119" text=""/>
+		<item id="120" text="Small Purse"/>
+		<item id="121" text=""/>
+		<item id="122" text="Solid Knit Cap"/>
+		<item id="123" text=""/>
+		<item id="124" text="Heart Necklace"/>
+		<item id="125" text=""/>
+		<item id="126" text="Birthday party Hat"/>
+		<item id="127" text=""/>
+		<item id="128" text="Milk Carton"/>
+		<item id="129" text=""/>
+		<item id="130" text="Straw Hat"/>
+		<item id="131" text=""/>
+		<item id="132" text="Totally Furbulous Sunglasses"/>
+		<item id="133" text=""/>
+		<item id="134" text="So Stylin' Sunglasses"/>
+		<item id="135" text=""/>
+		<item id="136" text="Straw Tote"/>
+		<item id="137" text=""/>
+		<item id="138" text="Tiara with gems"/>
+		<item id="139" text=""/>
+		<item id="140" text="Jester Hat"/>
+		<item id="141" text=""/>
+		<item id="142" text="Recycling Logo Bag"/>
+		<item id="143" text=""/>
+		<item id="144" text="Guitar"/>
+		<item id="145" text=""/>
+		<item id="146" text="Pawlette Birthday Shopping Bag"/>
+		<item id="147" text=""/>
+		<item id="148" text="Pawlette Birthday Necklace"/>
+		<item id="149" text=""/>
+		<item id="150" text="Round Purse"/>
+		<item id="151" text=""/>
+		<item id="152" text="Shoulder Bag"/>
+		<item id="153" text=""/>
+		<item id="154" text="Sombrero"/>
+		<item id="155" text=""/>
+		<item id="156" text="Baseball Uniform Cap"/>
+		<item id="157" text=""/>
+		<item id="158" text="Football Uniform Helmet"/>
+		<item id="159" text=""/>
+		<item id="160" text="Straw Tote"/>
+		<item id="161" text=""/>
+		<item id="162" text="Gem Purse"/>
+		<item id="163" text=""/>
+		<item id="164" text="Hello Kitty® Metallic Purse"/>
+		<item id="165" text=""/>
+		<item id="166" text="Cheerleader Outfit Hairlocks"/>
+		<item id="167" text=""/>
+		<item id="168" text="Ball Cap"/>
+		<item id="169" text=""/>
+		<item id="170" text="Head Band"/>
+		<item id="171" text=""/>
+		<item id="172" text="Water Bottle"/>
+		<item id="173" text=""/>
+
+		<item id="174" text="Unused ID"/>
+		<item id="175" text=""/>
+		
+		<item id="176" text="Tie Dye Crazy Sunglasses"/>
+		<item id="177" text=""/>
+		
+		<item id="178" text="Pawtracks Player"/>
+		<item id="179" text=""/>
+		<item id="180" text="Gold Medal"/>
+		<item id="181" text=""/>
+		<item id="182" text="Head Shaped Tote"/>
+		<item id="183" text=""/>
+		<item id="184" text="Charmy Kitty Purse®"/>
+		<item id="185" text=""/>
+		
+		<item id="186" text="Lemonade for Giveaway"/>
+		<item id="187" text=""/>
+		<item id="188" text="Cell Phone"/>
+		<item id="189" text=""/>
+		<item id="190" text="Silver Cell Phone"/>
+		<item id="191" text=""/>
+		
+		<item id="192" text="Lacrosse Helm"/>
+		<item id="193" text=""/>
+		<item id="194" text="Graduate Hat"/>
+		<item id="195" text=""/>
+		<item id="196" text="Patriotic Princess Ribbon"/>
+		<item id="197" text=""/>
+		<item id="198" text="Swim Goggles"/>
+		<item id="199" text=""/>
+		<item id="200" text="Cotton Candy"/>
+		<item id="201" text=""/>
+		<item id="202" text="Inner Tube Inflatable"/>
+		<item id="203" text=""/>
+		<item id="204" text="Clown Hat"/>
+		<item id="205" text=""/>
+		<item id="206" text="Drum Major Hat"/>
+		<item id="207" text=""/>
+		<item id="208" text="Balloon Hat 1"/>
+		<item id="209" text=""/>
+		<item id="210" text="Balloon Hat 2"/>
+		<item id="211" text=""/>
+		<item id="212" text="Balloon Hat 3"/>
+		<item id="213" text=""/>
+		<item id="214" text="Lollipop"/>
+		<item id="215" text=""/>
+		<item id="216" text="Candy Apple"/>
+		<item id="217" text=""/>
+		<item id="218" text="Baton"/>
+		<item id="219" text=""/>
+		<item id="220" text="Fez"/>
+		<item id="221" text=""/>
+		<item id="222" text="Large Purple Tiara"/>
+		<item id="223" text=""/>
+		<item id="224" text="Fisherman's Hat"/>
+		<item id="225" text=""/>
+		<item id="226" text="Kaki Bandana"/>
+		<item id="227" text=""/>
+		<item id="228" text="Head Bopper"/>
+		<item id="229" text=""/>
+		<item id="230" text="Furry Hat"/>
+		<item id="231" text=""/>
+		<item id="232" text="Sun Visor"/>
+		<item id="233" text=""/>
+		<item id="234" text="Helicopter Hat"/>
+		<item id="235" text=""/>
+		<item id="236" text="Hot Dog Hat"/>
+		<item id="237" text=""/>
+		<item id="238" text="Black Polka Dot Tote"/>
+		<item id="239" text=""/>
+		<item id="240" text="Blue Polka Dot Tote"/>
+		<item id="241" text=""/>
+		<item id="242" text="Flower Tote"/>
+		<item id="243" text=""/>
+		<item id="244" text="Giant Pencil"/>
+		<item id="245" text=""/>
+		<item id="246" text="Magic Wand"/>
+		<item id="247" text=""/>
+		<item id="248" text="Candy Necklace"/>
+		<item id="249" text=""/>
+		<item id="250" text="Gem Necklace"/>
+		<item id="251" text=""/>
+		<item id="252" text="Funny Glasses"/>
+		<item id="253" text=""/>
+		<item id="254" text="Rubber Chicken"/>
+		<item id="255" text=""/>
+		<item id="256" text="Bling Necklace"/>
+		<item id="257" text=""/>
+		<item id="258" text="Balloon"/>
+		<item id="259" text=""/>
+		<item id="260" text="Candy Bracelet"/>
+		<item id="261" text=""/>
+		<item id="262" text="Slap Bracelet"/>
+		<item id="263" text=""/>
+		<item id="264" text="Animal Balloon"/>
+		<item id="265" text=""/>
+		<item id="266" text="Feather Hat"/>
+		<item id="267" text=""/>
+		<item id="268" text="Red Heart Sunglasses"/>
+		<item id="269" text=""/>
+		<item id="270" text="Pompoms"/>
+		<item id="271" text=""/>
+		<item id="272" text="Megaphone"/>
+		<item id="273" text=""/>
+		<item id="274" text="Apple"/>
+		<item id="275" text=""/>
+		<item id="276" text="Nerdy Glasses"/>
+		<item id="277" text=""/>
+		<item id="278" text="Football Ball"/>
+		<item id="279" text=""/>
+		<item id="280" text="Lunch Box"/>
+		<item id="281" text=""/>
+		<item id="282" text="Trick Or Treat Bag"/>
+		<item id="283" text=""/>
+		<item id="284" text="School Pennant"/>
+		<item id="285" text=""/>
+		<item id="286" text="Spotted Cowbell"/>
+		<item id="287" text=""/>
+		<item id="288" text="Zebra Print Purse"/>
+		<item id="289" text=""/>
+		<item id="290" text="Plaid Hat"/>
+		<item id="291" text=""/>
+		<item id="292" text="8 Twist Necklace"/>
+		<item id="293" text=""/>
+		<item id="294" text="8 Twist Bretzel"/>
+		<item id="295" text=""/>
+		<item id="296" text="8 Twist Baseball Helmet"/>
+		<item id="297" text=""/>
+		<item id="298" text="10 Gallon Hat"/>
+		<item id="299" text=""/>
+		<item id="300" text="Alpine Hat"/>
+		<item id="301" text=""/>
+		<item id="302" text="Napoleon Hat"/>
+		<item id="303" text=""/>
+		<item id="304" text="Bib"/>
+		<item id="305" text=""/>
+		<item id="306" text="Peridot Necklace"/>
+		<item id="307" text=""/>
+		<item id="308" text="Big Dog Biscuit"/>
+		<item id="309" text=""/>
+		<item id="310" text="Mustard Bottle"/>
+		<item id="311" text=""/>
+		<item id="312" text="Ketchup Bottle"/>
+		<item id="313" text=""/>
+		<item id="314" text="Picnic Basket"/>
+		<item id="315" text=""/>
+		<item id="316" text="Hall Pass"/>
+		<item id="317" text=""/>
+		<item id="318" text="Walkie Talkie"/>
+		<item id="319" text=""/>
+		<item id="320" text="Libeary Card"/>
+		<item id="321" text=""/>
+		<item id="322" text="Plaid Bag"/>
+		<item id="323" text=""/>
+		<item id="324" text="Book Strap"/>
+		<item id="325" text=""/>
+		<item id="326" text="Bear Head Watch"/>
+		<item id="327" text=""/>
+		<item id="328" text="Black Patent Ruffle"/>
+		<item id="329" text=""/>
+		<item id="330" text="Cupcake Hat"/>
+		<item id="331" text=""/>
+		<item id="332" text="Birthday Balloons"/>
+		<item id="333" text=""/>
+		<item id="334" text="Messenger Bag"/>
+		<item id="335" text=""/>
+		<item id="336" text="Scoot Sash"/>
+		<item id="337" text=""/>
+		<item id="338" text="Halloween Kitty Ears"/>
+		<item id="339" text=""/>
+		<item id="340" text="Bison Hat"/>
+		<item id="341" text=""/>
+		<item id="342" text="Green Diva Headset"/>
+		<item id="343" text=""/>
+		<item id="344" text="Green Diva Boa"/>
+		<item id="345" text=""/>
+		<item id="346" text="Purple Diva Headset"/>
+		<item id="347" text=""/>
+		<item id="348" text="Purple Diva Boa"/>
+		<item id="349" text=""/>
+		<item id="350" text="Cat Ears"/>
+		<item id="351" text=""/>
+		<item id="352" text="Racoon Hat"/>
+		<item id="353" text=""/>
+		<item id="354" text="Dog Nose"/>
+		<item id="355" text=""/>
+		<item id="356" text="Fake Mustache"/>
+		<item id="357" text=""/>
+		<item id="358" text="Fright Wig"/>
+		<item id="359" text=""/>
+		<item id="360" text="Sheriff Badge"/>
+		<item id="361" text=""/>
+		<item id="362" text="Detective Hat"/>
+		<item id="363" text=""/>
+		<item id="364" text="Keytar"/>
+		<item id="365" text=""/>
+		<item id="366" text="Martian Antenna"/>
+		<item id="367" text=""/>
+		<item id="368" text="Nightcap"/>
+		<item id="369" text=""/>
+		<item id="370" text="Sapphire Pendant"/>
+		<item id="371" text=""/>
+		<item id="372" text="Curlers Wig"/>
+		<item id="373" text=""/>
+		<item id="374" text="Buggle"/>
+		<item id="375" text=""/>
+		<item id="376" text="Jr. CyBearGuide Hat"/>
+		<item id="377" text=""/>
+		<item id="378" text="Bear Paw Visor"/>
+		<item id="379" text=""/>
+		<item id="380" text="Columbus Day Hat"/>
+		<item id="381" text=""/>
+		<item id="382" text="Virtual Picnic Basket"/>
+		<item id="383" text=""/>
+		<item id="384" text="Beret"/>
+		<item id="385" text=""/>
+		<item id="386" text="Candy Corn Hat"/>
+		<item id="387" text=""/>
+		<item id="388" text="Egyptian Headdress"/>
+		<item id="389" text=""/>
+		<item id="390" text="Jack O' Lantern Hat"/>
+		<item id="391" text=""/>
+		<item id="392" text="Pizza Hat"/>
+		<item id="393" text=""/>
+		<item id="394" text="Halloween Tie"/>
+		<item id="395" text=""/>
+		<item id="396" text="Opal Pendant"/>
+		<item id="397" text=""/>
+		<item id="398" text="Halloween Balloons"/>
+		<item id="399" text=""/>
+		<item id="400" text="Hannah Montana Bracelet"/>
+		<item id="401" text=""/>
+		<item id="402" text="Pouch Purse"/>
+		<item id="403" text=""/>
+		<item id="404" text="Dot Bandana"/>
+		<item id="405" text=""/>
+		<item id="406" text="Rake"/>
+		<item id="407" text=""/>
+		<item id="408" text="Candy Corn Tote"/>
+		<item id="409" text=""/>
+		<item id="410" text="Pumpkin Tote"/>
+		<item id="411" text=""/>
+		<item id="412" text="Witch Hat"/>
+		<item id="413" text=""/>
+		<item id="414" text="Mummy Hat"/>
+		<item id="415" text=""/>
+		<item id="416" text="Disco Head"/>
+		<item id="417" text=""/>
+		<item id="418" text="Pointy Witch Costume Hat"/>
+		<item id="419" text=""/>
+		<item id="420" text="Pirate Hat"/>
+		<item id="421" text=""/>
+		<item id="422" text="Red&Black Pirate Hat"/>
+		<item id="423" text=""/>
+		<item id="424" text="Girl Pirate Hat"/>
+		<item id="425" text=""/>
+		<item id="426" text="Small Witch Hat"/>
+		<item id="427" text=""/>
+		<item id="428" text="Bumble Bee Hat"/>
+		<item id="429" text=""/>
+		<item id="430" text="Princess Hat"/>
+		<item id="431" text=""/>
+		<item id="432" text="Wizard Hat"/>
+		<item id="433" text=""/>
+		<item id="434" text="Superhero Hat"/>
+		<item id="435" text=""/>
+		<item id="436" text="Domino Mask"/>
+		<item id="437" text=""/>
+		<item id="438" text="Lightbulb Hat"/>
+		<item id="439" text=""/>
+		<item id="440" text="Coaches Whistle"/>
+		<item id="441" text=""/>
+		<item id="442" text="Baker's Apron Set"/>
+		<item id="443" text=""/>
+		<item id="444" text="Heart Tote"/>
+		<item id="445" text=""/>
+		<item id="446" text="Christmas Tree Tote"/>
+		<item id="447" text=""/>
+		<item id="448" text="Briefcase"/>
+		<item id="449" text=""/>
+		<item id="450" text="Magic Wand"/>
+		<item id="451" text=""/>
+		<item id="452" text="Pumpkin Shaped Trick Or Treat bag"/>
+		<item id="453" text=""/>
+		<item id="454" text="Ghost Head"/>
+		<item id="455" text=""/>
+		<item id="456" text="Apple Hat"/>
+		<item id="457" text=""/>
+		<item id="458" text="Aviator Cap"/>
+		<item id="459" text=""/>
+		<item id="460" text="Derby Hat"/>
+		<item id="461" text=""/>
+		<item id="462" text="Train Engineer Cap"/>
+		<item id="463" text=""/>
+		<item id="464" text="Turkey Hat"/>
+		<item id="465" text=""/>
+		<item id="466" text="Citrine Pendant"/>
+		<item id="467" text=""/>
+		<item id="468" text="Snowflake Pendant"/>
+		<item id="469" text=""/>
+		<item id="470" text="Banjo"/>
+		<item id="471" text=""/>
+		<item id="472" text="Snow Shovel"/>
+		<item id="473" text=""/>
+		
+
+
+	</accessories>
+
+	<furnitures id="2">
+		<item id="0" text="Globe Floor Lamp"/>		
+		<item id="1" text=""/>
+		<item id="2" text="Striped Floor Lamp"/>
+		<item id="3" text=""/>
+		<item id="4" text="Modern Couch"/>
+		<item id="5" text=""/>
+		<item id="12" text="Rounded Modern Couch"/>
+		<item id="13" text=""/>
+		<item id="14" text="Paw Print Rug"/>
+		<item id="15" text=""/>
+		<item id="16" text="Bear Head Rug"/>
+		<item id="17" text=""/>
+		<item id="18" text="Classic Rug"/>
+		<item id="19" text=""/>
+		<item id="20" text="Modern Bed"/>
+		<item id="21" text=""/>
+		<item id="22" text="Antique Bed"/>
+		<item id="23" text=""/>
+		<item id="24" text="Race Car Bed"/>
+		<item id="25" text=""/>
+		<item id="26" text="Bear Head Bed"/>
+		<item id="27" text=""/>
+		<item id="28" text="Platform Bed"/>
+		<item id="29" text=""/>
+		<item id="30" text="Classic End Table"/>
+		<item id="31" text=""/>
+		<item id="32" text="Modern Chair"/>
+		<item id="33" text=""/>
+		<item id="34" text="Paw Print Fuzzy Chair"/>
+		<item id="35" text=""/>
+		<item id="36" text="Drawing Table"/>
+		<item id="37" text=""/>
+		<item id="38" text="Modern Coffee Table"/>
+		<item id="39" text=""/>
+		<item id="40" text="Office Desk"/>
+		<item id="41" text=""/>
+		<item id="42" text="Round End Table"/>
+		<item id="43" text=""/>
+		<item id="44" text="Juke Box"/>
+		<item id="45" text=""/>
+		<item id="46" text="Bunk Bed"/>
+		<item id="47" text=""/>
+		<item id="48" text="Classic Bed"/>
+		<item id="49" text=""/>
+		<item id="50" text="Brass Bed"/>
+		<item id="51" text=""/>
+		<item id="52" text="Sports Challenge Trophy"/>
+		<item id="53" text=""/>
+		<item id="54" text="Zebra-Print Couch"/>
+		<item id="55" text=""/>
+		<item id="56" text="Nikki's Bear Bed"/>
+		<item id="57" text=""/>
+		<item id="58" text="Furry Sofa"/>
+		<item id="59" text=""/>
+		<item id="60" text="Bananas"/>
+		<item id="61" text=""/>
+		<item id="62" text="Hot Chocolate Pot"/>
+		<item id="63" text=""/>
+		<item id="64" text="Hot Chocolate Machine"/>
+		<item id="65" text=""/>
+		<item id="66" text="Bamboo Mat"/>
+		<item id="67" text=""/>
+		<item id="68" text="Ficus Tree"/>
+		<item id="69" text=""/>
+		<item id="70" text="Hammock In A Banana Shape"/>
+		<item id="71" text=""/>
+		<item id="72" text="Chocolate Bed"/>
+		<item id="73" text=""/>
+		<item id="74" text="White Fluffy Rug"/>
+		<item id="75" text=""/>
+		<item id="76" text="Vanity With Mirror"/>
+		<item id="77" text=""/>
+		<item id="78" text="A Hole In The Ice"/>
+		<item id="79" text=""/>
+		<item id="80" text="Cowprint Bed"/>
+		<item id="81" text=""/>
+		<item id="82" text="Bowl Of Caramel Candy"/>
+		<item id="83" text=""/>
+		<item id="84" text="Eucalyptus Potted Plant"/>
+		<item id="85" text=""/>
+		<item id="86" text="Shaggy Carpet"/>
+		<item id="87" text=""/>
+		<item id="88" text="Bean Bag Chair"/>
+		<item id="89" text=""/>
+		<item id="90" text="Big Overstuffed Comfy Chair"/>
+		<item id="91" text=""/>
+		<item id="92" text="Jungle King Throne"/>
+		<item id="93" text=""/>
+		<item id="94" text="Shamrock Chair"/>
+		<item id="95" text=""/>
+		<item id="96" text="Holiday Vanity"/>
+		<item id="97" text=""/>
+		<item id="98" text="Holiday Rug"/>
+		<item id="99" text=""/>
+		<item id="100" text="Holiday Bed"/>
+		<item id="101" text=""/>
+		<item id="102" text="Holiday Sleigh Nightstand"/>
+		<item id="103" text=""/>
+		<item id="104" text="Holiday Tree"/>
+		<item id="105" text=""/>
+		<item id="106" text="Snowflake Nightstand"/>
+		<item id="107" text=""/>
+		<item id="108" text="Snowflake Bed"/>
+		<item id="109" text=""/>
+		<item id="110" text="Snowflake Rug"/>
+		<item id="111" text=""/>
+		<item id="112" text="Snowman Chair"/>
+		<item id="113" text=""/>
+		<item id="114" text="Snowflake Nook"/>
+		<item id="115" text=""/>
+		<item id="116" text="Snowflake Bureau"/>
+		<item id="117" text=""/>
+		<item id="118" text="Sleigh Bed"/>
+		<item id="119" text=""/>
+		<item id="120" text="Holiday Pillow"/>
+		<item id="121" text=""/>
+		<item id="122" text="Candy Cane Chair"/>
+		<item id="123" text=""/>
+		<item id="124" text="Candy Cane Bed"/>
+		<item id="125" text=""/>
+		<item id="126" text="Candy Cane Vanity"/>
+		<item id="127" text=""/>
+		<item id="128" text="Heart Table"/>
+		<item id="129" text=""/>
+		<item id="130" text="Yellow Feather Rug"/>
+		<item id="131" text=""/>
+		<item id="132" text="Pink Couch With Small Table"/>
+		<item id="133" text=""/>
+		<item id="134" text="Retro Chair"/>
+		<item id="135" text=""/>
+		<item id="136" text="Retro Floor Lamp"/>
+		<item id="137" text=""/>
+		<item id="138" text="Modern Stool"/>
+		<item id="139" text=""/>
+		<item id="140" text="Retro Portable TV"/>
+		<item id="141" text=""/>
+		<item id="142" text="Modern Shell Chair"/>
+		<item id="143" text=""/>
+		<item id="144" text="Milk Carton"/>
+		<item id="145" text=""/>
+		<item id="146" text="Bearrific Balloon Bouquet"/>
+		<item id="147" text=""/>
+		<item id="148" text="Beary Special Balloons"/>
+		<item id="149" text=""/>
+		<item id="150" text="Pawsome Party Balloons"/>
+		<item id="151" text=""/>
+		<item id="152" text="Inflatable Palm Tree"/>
+		<item id="153" text=""/>
+		<item id="154" text="Birthday Party Table"/>
+		<item id="155" text=""/>
+		<item id="156" text="Pizza Party Table"/>
+		<item id="157" text=""/>
+		<item id="158" text="Dance Diagram Rug"/>
+		<item id="159" text=""/>
+		<item id="160" text="Beach Ball"/>
+		<item id="161" text=""/>
+		<item id="162" text="Beach Chaise"/>
+		<item id="163" text=""/>
+		<item id="164" text="Umbrella Chair"/>
+		<item id="165" text=""/>
+		<item id="166" text="Lounge Chair"/>
+		<item id="167" text=""/>
+		<item id="168" text="Beach Umbrella"/>
+		<item id="169" text=""/>
+		<item id="170" text="Side Table"/>
+		<item id="171" text=""/>
+		<item id="172" text="Sandcastle"/>
+		<item id="173" text=""/>
+		<item id="174" text="Celebrity's Poster On Tripod"/>
+		<item id="175" text=""/>
+		<item id="176" text="Paw print dog bed"/>
+		<item id="177" text=""/>
+		<item id="178" text="Bear Head Vanity"/>
+		<item id="179" text=""/>
+		<item id="180" text="Bear Head Chair"/>
+		<item id="181" text=""/>
+		<item id="182" text="Heart Desk Chair"/>
+		<item id="183" text=""/>
+		<item id="184" text="Bear Head Dresser"/>
+		<item id="185" text=""/>
+		<item id="186" text="Bear Head End Table"/>
+		<item id="187" text=""/>
+		<item id="188" text="Bear Head Stool"/>
+		<item id="189" text=""/>
+		<item id="190" text="Bear Head Coat Rack"/>
+		<item id="191" text=""/>
+		<item id="192" text="Bear Head Camp Chair"/>
+		<item id="193" text=""/>
+		<item id="194" text="Bear Head Couch"/>
+		<item id="195" text=""/>
+		<item id="196" text="Hello Kitty® Camp Chair"/>
+		<item id="197" text=""/>
+		<item id="198" text="Hello Kitty® Chair"/>
+		<item id="199" text=""/>
+		<item id="200" text="Hello Kitty® End Table"/>
+		<item id="201" text=""/>
+		<item id="202" text="Victorian Canopy Bed"/>
+		<item id="203" text=""/>
+		<item id="204" text="Dollhouse"/>
+		<item id="205" text=""/>
+		<item id="206" text="Gumball Machine"/>
+		<item id="207" text=""/>
+		<item id="208" text="Lifeguard Chair"/>
+		<item id="209" text=""/>
+		<item id="210" text="Modern Recliner"/>
+		<item id="211" text=""/>
+		<item id="212" text="Overstuffed Couch"/>
+		<item id="213" text=""/>
+		<item id="214" text="Square Modern Couch"/>
+		<item id="215" text=""/>
+		<item id="216" text="Bamboo Torch"/>
+		<item id="217" text=""/>
+		<item id="218" text="Victorian Vanity"/>
+		<item id="219" text=""/>
+		<item id="220" text="Pencil Post Bed"/>
+		<item id="221" text=""/>
+		<item id="222" text="Diamond Dresser"/>
+		<item id="223" text=""/>
+		<item id="224" text="Wood Burning Stove"/>
+		<item id="225" text=""/>
+		<item id="226" text="Flat Screen TV"/>
+		<item id="227" text=""/>
+		<item id="228" text="Cabinet TV"/>
+		<item id="229" text=""/>
+		<item id="230" text="Grandfather Clock"/>
+		<item id="231" text=""/>
+		<item id="232" text="Checkerboard Coffee Table"/>
+		<item id="233" text=""/>
+		<item id="234" text="Victorian End Table"/>
+		<item id="235" text=""/>
+		<item id="236" text="Agave Plant"/>
+		<item id="237" text=""/>
+		<item id="238" text="Croton Plant"/>
+		<item id="239" text=""/>
+		<item id="240" text="Print Couch"/>
+		<item id="241" text=""/>
+		<item id="242" text="Modern Grandfather Clock"/>
+		<item id="243" text=""/>
+		<item id="244" text="Modern Fireplace"/>
+		<item id="245" text=""/>
+		<item id="246" text="Paw Beach Chaise"/>
+		<item id="247" text=""/>
+		<item id="248" text="Dog House"/>
+		<item id="249" text=""/>
+		<item id="250" text="Coffee Table With Bowl Of Fruit"/>
+		<item id="251" text=""/>
+		<item id="252" text="Book Shelves With Books"/>
+		<item id="253" text=""/>
+		<item id="254" text="Big Stereo System"/>
+		<item id="255" text=""/>
+		<item id="256" text="Flowering Potted Plant"/>
+		<item id="257" text=""/>
+		<item id="258" text="Water Cooler"/>
+		<item id="259" text=""/>
+		<item id="260" text="Welcome Mat"/>
+		<item id="261" text=""/>
+		<item id="262" text="Standing Punching Bag"/>
+		<item id="263" text=""/>
+		<item id="264" text="Barbells"/>
+		<item id="265" text=""/>
+		<item id="266" text="Treadmill"/>
+		<item id="267" text=""/>
+		<item id="268" text="Stationary Bike"/>
+		<item id="269" text=""/>
+		<item id="270" text="Basketball Hoop"/>
+		<item id="271" text=""/>
+		<item id="272" text="Music Studio With Simple Composition Tool"/>
+		<item id="273" text=""/>
+		<item id="274" text="Trophy"/>
+		<item id="275" text=""/>
+		<item id="276" text="Tent"/>
+		<item id="277" text=""/>
+		<item id="278" text="Sleeping Bag"/>
+		<item id="279" text=""/>
+		<item id="280" text="Picnic Table"/>
+		<item id="281" text=""/>
+		<item id="282" text="Canoe"/>
+		<item id="283" text=""/>
+		<item id="284" text="Trampoline"/>
+		<item id="285" text=""/>
+		<item id="286" text="Tree Branch"/>
+		<item id="287" text=""/>
+		<item id="288" text="Hello Kitty Stool"/>
+		<item id="289" text=""/>
+		<item id="290" text="Canada Flag"/>
+		<item id="291" text=""/>
+		<item id="292" text="US Flag"/>
+		<item id="293" text=""/>
+		<item id="294" text="Butcher Block Cart"/>
+		<item id="295" text=""/>
+		<item id="296" text="Bear Head China Cabinet"/>
+		<item id="297" text=""/>
+		<item id="298" text="Bear Head Oven"/>
+		<item id="299" text=""/>
+		<item id="300" text="Modern Fridge"/>
+		<item id="301" text=""/>
+		<item id="302" text="Vintage Fridge"/>
+		<item id="303" text=""/>
+		<item id="304" text="Kitchen Rack"/>
+		<item id="305" text=""/>
+		<item id="306" text="Round Checkered Table"/>
+		<item id="307" text=""/>
+		<item id="308" text="Mosaic Table"/>
+		<item id="309" text=""/>
+		<item id="310" text="Bear Head Chair"/>
+		<item id="311" text=""/>
+		<item id="312" text="Paw Print Chair"/>
+		<item id="313" text=""/>
+		<item id="314" text="Disco Poster"/>
+		<item id="315" text=""/>
+		<item id="316" text="Disco Room Party Table"/>
+		<item id="317" text=""/>
+		<item id="318" text="Composition Tool & Turntable"/>
+		<item id="319" text=""/>
+		<item id="320" text="Luau Room Party Table"/>
+		<item id="321" text=""/>
+		<item id="322" text="Beach Towel"/>
+		<item id="323" text=""/>
+		<item id="324" text="Sports Room Party Table"/>
+		<item id="325" text=""/>
+		<item id="326" text="Sport Net"/>
+		<item id="327" text=""/>
+		<item id="328" text="Carousel Horse"/>
+		<item id="329" text=""/>
+		<item id="330" text="Carousel Tiger"/>
+		<item id="331" text=""/>
+		<item id="332" text="Cotton Candy Machine"/>
+		<item id="333" text=""/>
+		<item id="334" text="Snow Cone Machine"/>
+		<item id="335" text=""/>
+		<item id="336" text="Duck Pond Game"/>
+		<item id="337" text=""/>
+		<item id="338" text="Bowling Pin Lamp"/>
+		<item id="339" text=""/>
+		<item id="340" text="Inflatable Couch"/>
+		<item id="341" text=""/>
+		<item id="342" text="Inflatable Chair"/>
+		<item id="343" text=""/>
+		<item id="344" text="Carnival Poster"/>
+		<item id="345" text=""/>
+		<item id="346" text="Roller Coaster Poster"/>
+		<item id="347" text=""/>
+		<item id="348" text="Piggy Bank"/>
+		<item id="349" text=""/>
+		<item id="350" text="Inflatable Fish"/>
+		<item id="351" text=""/>
+		<item id="352" text="Inflatable Giraffe"/>
+		<item id="353" text=""/>
+		<item id="354" text="Inflatable Animal Cat"/>
+		<item id="355" text=""/>
+		<item id="356" text="Inflatable Animal Turtle"/>
+		<item id="357" text=""/>
+		<item id="358" text="Coyote Tapis"/>
+		<item id="359" text=""/>
+		<item id="360" text="Puerto-Rico Flag"/>
+		<item id="361" text=""/>
+		<item id="362" text="Skeleton T-Rex"/>
+		<item id="363" text=""/>
+		<item id="364" text="Locker"/>
+		<item id="365" text=""/>
+		<item id="366" text="Corbin Bleu Poster"/>
+		<item id="367" text=""/>
+		<item id="368" text="Charcoal Grill"/>
+		<item id="369" text=""/>
+		<item id="370" text="Gas Grill"/>
+		<item id="371" text=""/>
+		<item id="372" text="Telescope"/>
+		<item id="373" text=""/>
+		<item id="374" text="Bird House"/>
+		<item id="375" text=""/>
+		<item id="376" text="Flower Box"/>
+		<item id="377" text=""/>
+		<item id="378" text="Drum Set"/>
+		<item id="379" text=""/>
+		<item id="380" text="Piano"/>
+		<item id="381" text=""/>
+		<item id="382" text="Slide"/>
+		<item id="383" text=""/>
+		<item id="384" text="Bird Bath"/>
+		<item id="385" text=""/>
+		<item id="386" text="Swing Set"/>
+		<item id="387" text=""/>
+		<item id="388" text="Mona Lisa Bear Painting"/>
+		<item id="389" text=""/>
+		<item id="390" text="Abearican Gothic Painting"/>
+		<item id="391" text=""/>
+		<item id="392" text="Blue Bear Painting"/>
+		<item id="393" text=""/>
+		<item id="394" text="Whistler's Bear Painting"/>
+		<item id="395" text=""/>
+		<item id="396" text="Pop Art Painting"/>
+		<item id="397" text=""/>
+		<item id="398" text="Bear Your Heart Figurine"/>
+		<item id="399" text=""/>
+		<item id="400" text="Flower Fairy Figurine"/>
+		<item id="401" text=""/>
+		<item id="402" text="Friendship Is Furever Figurine"/>
+		<item id="403" text=""/>
+		<item id="404" text="MVB Figurine"/>
+		<item id="405" text=""/>
+		<item id="406" text="Bear Ballet Figurine"/>
+		<item id="407" text=""/>
+		<item id="408" text="Happy Bearthday™ Figurine"/>
+		<item id="409" text=""/>
+		<item id="410" text="Bear Ballet Globe"/>
+		<item id="411" text=""/>
+		<item id="412" text="Bear Cheerleader Globe"/>
+		<item id="413" text=""/>
+		<item id="414" text="Bear Princess Globe"/>
+		<item id="415" text=""/>
+		<item id="416" text="Happy Bearthday™ Globe"/>
+		<item id="417" text=""/>
+		<item id="418" text="Bear Ballet Frame"/>
+		<item id="419" text=""/>
+		<item id="420" text="Bear Princess Frame"/>
+		<item id="421" text=""/>
+		<item id="422" text="Leaves Chair"/>
+		<item id="423" text=""/>
+		<item id="424" text="Tribal Drum Set"/>
+		<item id="425" text=""/>
+		<item id="426" text="Pond"/>
+		<item id="427" text=""/>
+		<item id="428" text="Prehistoric Art"/>
+		<item id="429" text=""/>
+		<item id="430" text="UK Flag"/>
+		<item id="431" text=""/>
+		<item id="432" text="France Flag"/>
+		<item id="433" text=""/>
+		<item id="434" text="Canada Flag"/>
+		<item id="435" text=""/>
+		<item id="436" text="USA Flag"/>
+		<item id="437" text=""/>
+		<item id="438" text="Scotland Flag"/>
+		<item id="439" text=""/>
+		<item id="440" text="Wales Flag"/>
+		<item id="441" text=""/>
+		<item id="442" text="England Flag"/>
+		<item id="443" text=""/>
+		<item id="444" text="Northern Ireland Flag"/>
+		<item id="445" text=""/>
+		<item id="446" text="Ireland Flag"/>
+		<item id="447" text=""/>
+		<item id="448" text="Netherlands Flag"/>
+		<item id="449" text=""/>
+		<item id="450" text="Belgium Flag"/>
+		<item id="451" text=""/>
+		<item id="452" text="Norway Flag"/>
+		<item id="453" text=""/>
+		<item id="454" text="Sweden Flag"/>
+		<item id="455" text=""/>
+		<item id="456" text="Denmark Flag"/>
+		<item id="457" text=""/>
+		<item id="458" text="Germany Flag"/>
+		<item id="459" text=""/>
+		<item id="460" text="Russia Flag"/>
+		<item id="461" text=""/>
+		<item id="462" text="Australia Flag"/>
+		<item id="463" text=""/>
+		<item id="464" text="South Africa Flag"/>
+		<item id="465" text=""/>
+		<item id="466" text="Japan Flag"/>
+		<item id="467" text=""/>
+		<item id="468" text="South Korea Flag"/>
+		<item id="469" text=""/>
+		<item id="470" text="Taiwan Flag"/>
+		<item id="471" text=""/>
+		<item id="472" text="Thailand Flag"/>
+		<item id="473" text=""/>
+		<item id="474" text="Singapore Flag"/>
+		<item id="475" text=""/>
+		<item id="476" text="Bahrain Flag"/>
+		<item id="477" text=""/>
+		<item id="478" text="Qatar Flag"/>
+		<item id="479" text=""/>
+		<item id="480" text="Kuwait Flag"/>
+		<item id="481" text=""/>
+		<item id="482" text="United Arab Emirate Flag"/>
+		<item id="483" text=""/>
+		<item id="484" text="Oman Flag"/>
+		<item id="485" text=""/>
+		<item id="486" text="Mexico Flag"/>
+		<item id="487" text=""/>
+		<item id="488" text="Puerto Rico Flag"/>
+		<item id="489" text=""/>
+		<item id="490" text="Flower Fairy Frame"/>
+		<item id="491" text=""/>
+		<item id="492" text="Happy Bearthday™ Frame"/>
+		<item id="493" text=""/>
+		<item id="494" text="High School Musical Poster"/>
+		<item id="495" text=""/>
+		<item id="496" text="Cool Chair"/>
+		<item id="497" text=""/>
+		<item id="498" text="Director's Chair"/>
+		<item id="499" text=""/>
+		<item id="500" text="Classic Stool"/>
+		<item id="501" text=""/>
+		<item id="502" text="Armchair Stool"/>
+		<item id="503" text=""/>
+		<item id="504" text="Dollhouse Bed"/>
+		<item id="505" text=""/>
+		<item id="506" text="Bear Ballet Figurine"/>
+		<item id="507" text=""/>
+		<item id="508" text="Happy Bearthday™ Figurine"/>
+		<item id="509" text=""/>
+		<item id="510" text="Paw Clock"/>
+		<item id="511" text=""/>
+		<item id="512" text="Bear Head Clock"/>
+		<item id="513" text=""/>
+		<item id="514" text="Cuckoo Clock"/>
+		<item id="515" text=""/>
+		<item id="516" text="Wall Clock"/>
+		<item id="517" text=""/>
+		<item id="518" text="Neon Bear Head"/>
+		<item id="519" text=""/>
+		<item id="520" text="Neon Paw"/>
+		<item id="521" text=""/>
+		<item id="522" text="Microwave"/>
+		<item id="523" text=""/>
+		<item id="524" text="8 Twist Neon"/>
+		<item id="525" text=""/>
+		<item id="526" text="8 Twist Lamp"/>
+		<item id="527" text=""/>
+		<item id="528" text="8 Twist Sculpture"/>
+		<item id="529" text=""/>
+		<item id="530" text="8 Twist Rug"/>
+		<item id="531" text=""/>
+		<item id="532" text="8 Ball Bean Bag"/>
+		<item id="533" text=""/>
+		<item id="534" text="Chalkboard"/>
+		<item id="535" text=""/>
+		<item id="536" text="Chemistry Set"/>
+		<item id="537" text=""/>
+		<item id="538" text="Computer"/>
+		<item id="539" text=""/>
+		<item id="540" text="Modern Desk Chair"/>
+		<item id="541" text=""/>
+		<item id="542" text="Desk Armchair"/>
+		<item id="543" text=""/>
+		<item id="544" text="Computer Work Station"/>
+		<item id="545" text=""/>
+		<item id="546" text="Computer Desk"/>
+		<item id="547" text=""/>
+		<item id="548" text="Office Desk"/>
+		<item id="549" text=""/>
+		<item id="550" text="Desk Lamp"/>
+		<item id="551" text=""/>
+		<item id="552" text="Modern Desk Lamp"/>
+		<item id="553" text=""/>
+		<item id="554" text="Globe"/>
+		<item id="555" text=""/>
+		<item id="556" text="High Tech Computer Chair"/>
+		<item id="557" text=""/>
+		<item id="558" text="School Desk"/>
+		<item id="559" text=""/>
+		<item id="560" text="Solar System Model"/>
+		<item id="561" text=""/>
+		<item id="562" text="World Map"/>
+		<item id="563" text=""/>
+		<item id="564" text="Photobooth Picture"/>
+		<item id="565" text=""/>
+		<item id="566" text="Poppy Painting"/>
+		<item id="567" text=""/>
+		<item id="568" text="Monkey Statue"/>
+		<item id="569" text=""/>
+		<item id="570" text="Pencil Holder"/>
+		<item id="571" text=""/>
+		<item id="572" text="Easter Island Statue"/>
+		<item id="573" text=""/>
+		<item id="574" text="Happy birthday Banner"/>
+		<item id="575" text=""/>
+		<item id="576" text="BABU Pennant"/>
+		<item id="577" text=""/>
+		<item id="578" text="Bear University Poster"/>
+		<item id="579" text=""/>
+		<item id="580" text="Bear University Rug"/>
+		<item id="581" text=""/>
+		<item id="582" text="Football Poster"/>
+		<item id="583" text=""/>
+		<item id="584" text="Baseball Poster"/>
+		<item id="585" text=""/>
+		<item id="586" text="Golf Poster"/>
+		<item id="587" text=""/>
+		<item id="588" text="Basketball Poster"/>
+		<item id="589" text=""/>
+		<item id="590" text="Ballet Poster"/>
+		<item id="591" text=""/>
+		<item id="592" text="Teddy Bear Cake"/>
+		<item id="593" text=""/>
+		
+		<!-- Build 13/08/08 -->
+		<item id="594" text="Laundry Basket"/>
+		<item id="595" text=""/>
+		<item id="596" text="Laundry Bag"/>
+		<item id="597" text=""/>
+		<item id="598" text="Alarm Clock"/>
+		<item id="599" text=""/>
+		<item id="600" text="Ironing Board"/>
+		<item id="601" text=""/>
+		<item id="602" text="Mini Fridge"/>
+		<item id="603" text=""/>
+		<item id="604" text="Wooden Nightstand"/>
+		<item id="605" text=""/>
+		<item id="606" text="Floral Rug"/>
+		<item id="607" text=""/>
+		<item id="608" text="Round Rug"/>
+		<item id="609" text=""/>
+		<item id="610" text="Fringe Rug"/>
+		<item id="611" text=""/>
+		<item id="612" text="HSM party - Upright piano"/>
+		<item id="613" text=""/>
+		<item id="614" text="Virtual Stuffing Machine"/>
+		<item id="615" text=""/>
+		<item id="616" text="Paws Fur Nature"/>
+		<item id="617" text=""/>
+		<item id="618" text="USA Olympic"/>
+		<item id="619" text=""/>
+		<item id="620" text="Central American Style Stone Carving"/>
+		<item id="621" text=""/>
+		<item id="622" text="Anchor"/>
+		<item id="623" text=""/>
+		<item id="624" text="Zebra Crossing Sign"/>
+		<item id="625" text=""/>
+		<item id="626" text="Log Chair"/>
+		<item id="627" text=""/>
+		<item id="628" text="Hannah Montana Stage"/>
+		<item id="629" text=""/>
+		<item id="630" text="Aster Painting"/>
+		<item id="631" text=""/>
+		<item id="632" text="Skyscraper"/>
+		<item id="633" text=""/>
+		<item id="634" text="Manhole Cover"/>
+		<item id="635" text=""/>
+		<item id="636" text="Maze Rug"/>
+		<item id="637" text=""/>
+		<item id="638" text="Trestle Table"/>
+		<item id="639" text=""/>
+		<item id="640" text="Argyle Chaise Longue"/>
+		<item id="641" text=""/>
+		<item id="642" text="Wooden Armoire"/>
+		<item id="643" text=""/>
+		<item id="644" text="Floral Poster"/>
+		<item id="645" text=""/>
+		<item id="646" text="Cornucopia"/>
+		<item id="647" text=""/>
+		<item id="648" text="Woven Dining Chair"/>
+		<item id="649" text=""/>
+		<item id="650" text="Boom Box"/>
+		<item id="651" text=""/>
+		<item id="652" text="Brass Sleigh Bed"/>
+		<item id="653" text=""/>
+		<item id="654" text="Futon Couch"/>
+		<item id="655" text=""/>
+		<item id="656" text="Modern Dresser"/>
+		<item id="657" text=""/>
+		<item id="658" text="Trundle Bed"/>
+		<item id="659" text=""/>
+		<item id="660" text="Classic Dining Chair"/>
+		<item id="661" text=""/>
+		<item id="662" text="Calendula Painting"/>
+		<item id="663" text=""/>
+		<item id="664" text="Autumn Leaves Wreath"/>
+		<item id="665" text=""/>
+		<item id="666" text="Autumn Flowers Wall Hanging"/>
+		<item id="667" text=""/>
+		<item id="668" text="Pumpkin Beanbag Chair"/>
+		<item id="669" text=""/>
+		<item id="670" text="Egyptian Sarcophagus"/>
+		<item id="671" text=""/>
+		<item id="672" text="Spider Rug"/>
+		<item id="673" text=""/>
+		<item id="674" text="Haunted House Poster"/>
+		<item id="675" text=""/>
+		<item id="676" text="Happy Halloween Banner"/>
+		<item id="677" text=""/>
+		<item id="678" text="Spider String Lights"/>
+		<item id="679" text=""/>		
+		<item id="680" text="Spider Web Wall Hanging"/>
+		<item id="681" text=""/>
+		<item id="682" text="Scarecrow"/>
+		<item id="683" text=""/>
+		<item id="684" text="Cauldron"/>
+		<item id="685" text=""/>
+		<item id="686" text="Halloween Candy Bowl"/>
+		<item id="687" text=""/>
+		<item id="688" text="Apple Bobbing Tub"/>
+		<item id="689" text=""/>
+		<item id="690" text="Spider Cake"/>
+		<item id="691" text=""/>
+		<item id="692" text="Kooky Spooky Cake"/>
+		<item id="693" text=""/>
+		<item id="694" text="Cornstalk"/>
+		<item id="695" text=""/>
+		<item id="696" text="Autumn Burst Bouquet"/>
+		<item id="697" text=""/>
+		<item id="698" text="Tall Autumn Bouquet"/>
+		<item id="699" text=""/>
+		<item id="700" text="Autumn Color Bouquet"/>
+		<item id="701" text=""/>
+		<item id="702" text="Bear Head Rocking Chair"/>
+		<item id="703" text=""/>
+		<item id="704" text="Ballerina Sculpture"/>
+		<item id="705" text=""/>
+		<item id="706" text="Pop Art Portrait"/>
+		<item id="707" text=""/>
+		<item id="708" text="Stone End Table"/>
+		<item id="709" text=""/>
+		<item id="710" text="Mission End Table"/>
+		<item id="711" text=""/>
+		<item id="712" text="Round End Table"/>
+		<item id="713" text=""/>
+		<item id="714" text="Batwing Chair"/>
+		<item id="715" text=""/>
+		<item id="716" text="Black Cat Statue"/>
+		<item id="717" text=""/>
+		<item id="718" text="Ghost Sculpture"/>
+		<item id="719" text=""/>
+		<item id="720" text="Kooky Spooky Rug"/>
+		<item id="721" text=""/>
+		<item id="722" text="Kooky Spooky Table"/>
+		<item id="723" text=""/>
+		<item id="724" text="Spider Back Chair"/>
+		<item id="725" text=""/>
+		<item id="726" text="Spider Web Bed"/>
+		<item id="727" text=""/>
+		<item id="728" text="Bear Head Stage"/>
+		<item id="729" text=""/>
+		<item id="730" text="Wall Mounted TV"/>
+		<item id="731" text=""/>
+		<item id="732" text="Bubble Bath Tub"/>
+		<item id="733" text=""/>
+		<item id="734" text="Doll House"/>
+		<item id="735" text=""/>
+		<item id="736" text="Sewing Machine & Cabinet"/>
+		<item id="737" text=""/>
+		<item id="738" text="Arch Sculpture"/>
+		<item id="739" text=""/>
+		<item id="740" text="Halloween Flag"/>
+		<item id="741" text=""/>
+		<item id="742" text="Tiger Stripe Flag"/>
+		<item id="743" text=""/>
+		<item id="744" text="Jr. Cyber Guide Flag"/>
+		<item id="745" text=""/>
+		<item id="746" text="Jr. Cyber Guide Rug"/>
+		<item id="747" text=""/>
+		<item id="748" text="Bonsai Tree"/>
+		<item id="749" text=""/>
+		<item id="750" text="Potted Poppy Plant"/>
+		<item id="751" text=""/>
+		<item id="752" text="BearShapped Cake On Table"/>
+		<item id="753" text=""/>
+		<item id="754" text="Vintage Lamp"/>
+		<item id="755" text=""/>
+		<item id="754" text="Box of Donuts"/>
+		<item id="755" text=""/>
+		<item id="754" text="Chrysanthemum Poster"/>
+		<item id="755" text=""/>
+		<item id="754" text="Fire Hydrant"/>
+		<item id="755" text=""/>
+		<item id="754" text="Milkshake Blender"/>
+		<item id="755" text=""/>
+		<item id="754" text="Model Plane"/>
+		<item id="755" text=""/>
+		<item id="754" text="Pumpkin Pie"/>
+		<item id="755" text=""/>
+	</furnitures>
+
+	<furryfriends id="3">
+		<item id="0" text="test0"/>		
+		<item id="1" text="test1"/>
+		<item id="2" text="test2"/>
+		<item id="3" text="test3"/>
+		<item id="4" text="test4"/>
+		<item id="5" text="test5"/>
+	</furryfriends>
+
+	<equipment id="4">
+		<item id="0" text="test0"/>		
+		<item id="1" text="test1"/>
+		<item id="2" text="test2"/>
+		<item id="3" text="test3"/>
+		<item id="4" text="test4"/>
+		<item id="5" text="test5"/>
+	</equipment>
+
+	<toys id="5">
+		<item id="0" text="Fishing Pole"/>		
+		<item id="1" text=""/>
+		<item id="2" text="Dragon Skateboard"/>
+		<item id="3" text=""/>
+		<item id="4" text="Flames Board"/>
+		<item id="5" text=""/>
+		<item id="6" text="Pink Paws Board"/>
+		<item id="7" text=""/>
+		<item id="8" text="Blue Paws Board"/>
+		<item id="9" text=""/>
+		<item id="10" text="Unicorn Board"/>
+		<item id="11" text=""/>
+		<item id="12" text="Shovel"/>
+		<item id="13" text=""/>
+	</toys>
+
+	<materials id="6">
+		<item id="0" text="test0"/>		
+		<item id="1" text="test1"/>
+		<item id="2" text="test2"/>
+		<item id="3" text="test3"/>
+		<item id="4" text="test4"/>
+		<item id="5" text="test5"/>
+		<item id="6" text="test6"/>
+		<item id="7" text="test7"/>
+		<item id="8" text="test8"/>
+		<item id="9" text="test9"/>
+		<item id="10" text="test10"/>
+		<item id="11" text="test11"/>
+	</materials>
+
+	<bear_clothing id="7">
+		<item id="0" text="BABW® tee"/>
+		<item id="1" text=""/>
+		<item id="2" text="Denim Jeans"/>
+		<item id="3" text=""/>
+		<item id="4" text="Hockey T-shirt"/>
+		<item id="5" text=""/>
+		<item id="6" text="Hockey Pants"/>
+		<item id="7" text=""/>
+		<item id="8" text="Classic Tennis Shoes"/>
+		<item id="9" text=""/>
+		<item id="10" text="Denim Skirt"/>
+		<item id="11" text=""/>
+		<item id="12" text="Ground Hog T-shirt"/>
+		<item id="13" text=""/>
+		<item id="14" text="Leap Day T-shirt"/>
+		<item id="15" text=""/>
+		<item id="16" text="Explorator Vest"/>
+		<item id="17" text=""/>
+		<item id="18" text="Explorator Pants"/>
+		<item id="19" text=""/>
+		<item id="20" text="Panda T-shirt"/>
+		<item id="21" text=""/>
+		<item id="22" text="Baseball Uniform Bottom"/>
+		<item id="23" text=""/>
+		<item id="24" text="Baseball Uniform Top"/>
+		<item id="25" text=""/>
+		<item id="26" text="Football Uniform Top"/>
+		<item id="27" text=""/>
+		<item id="28" text="Soccer Uniform Top"/>
+		<item id="29" text=""/>
+		<item id="30" text="Cutie Rhinestone Tee"/>
+		<item id="31" text=""/>
+		<item id="32" text="Gem Bubble Dress Top"/>
+		<item id="33" text=""/>
+		<item id="34" text="Leopard Print Bikini Top"/>
+		<item id="35" text=""/>
+		<item id="36" text="Topaz Fairy Top"/>
+		<item id="37" text=""/>
+		<item id="38" text="Plaid Baseball Top"/>
+		<item id="39" text=""/>
+		<item id="40" text="Big Surf Top"/>
+		<item id="41" text=""/>
+		<item id="42" text="Dream Pony Top"/>
+		<item id="43" text=""/>
+		<item id="44" text="Aloha Tank"/>
+		<item id="45" text=""/>
+		<item id="46" text="Floral Strappy Dress Top"/>
+		<item id="47" text=""/>
+		<item id="48" text="Hula Outfit Top"/>
+		<item id="49" text=""/>
+		<item id="50" text="Floral Capri Top"/>
+		<item id="51" text=""/>
+		<item id="52" text="Butterfly Top"/>
+		<item id="53" text=""/>
+		<item id="54" text="Adventure Tee"/>
+		<item id="55" text=""/>
+		<item id="56" text="Volleyball Uniform Top"/>
+		<item id="57" text=""/>
+		<item id="58" text="Purrfect PJs Top"/>
+		<item id="59" text=""/>
+		<item id="60" text="Hello Kitty® PJs Top"/>
+		<item id="61" text=""/>
+		<item id="62" text="Gem Tunic Top"/>
+		<item id="63" text=""/>
+		<item id="64" text="Football Uniform Bottom"/>
+		<item id="65" text=""/>
+		<item id="66" text="Soccer Uniform Bottom"/>
+		<item id="67" text=""/>
+		<item id="68" text="Dress Pants"/>
+		<item id="69" text=""/>
+		<item id="70" text="Carpenter Jeans"/>
+		<item id="71" text=""/>
+		<item id="72" text="Faded Denim Jeans"/>
+		<item id="73" text=""/>
+		<item id="74" text="Striped Swim Shorts"/>
+		<item id="75" text=""/>
+		<item id="76" text="Leopard Print Bikini Bottom"/>
+		<item id="77" text=""/>
+		<item id="78" text="Denim Bow Capris"/>
+		<item id="79" text=""/>
+		<item id="80" text="Camo Shorts"/>
+		<item id="81" text=""/>
+		<item id="82" text="Floral Capri Bottom"/>
+		<item id="83" text=""/>
+		<item id="84" text="Butterfly Bottom"/>
+		<item id="85" text=""/>
+		<item id="86" text="Volleyball Uniform Bottom"/>
+		<item id="87" text=""/>
+		<item id="88" text="Rhinestone Leggings"/>
+		<item id="89" text=""/>
+		<item id="90" text="Plaid Baseball Bottom"/>
+		<item id="91" text=""/>
+		<item id="92" text="Purrfect PJs Bottom"/>
+		<item id="93" text=""/>
+		<item id="94" text="Hello Kitty® PJs Bottom"/>
+		<item id="95" text=""/>
+		<item id="96" text="Cargo Shorts"/>
+		<item id="97" text=""/>
+		<item id="98" text="Flat Denim Skirt"/>
+		<item id="99" text=""/>
+		<item id="100" text="Gem Bubble Dress Bottom"/>
+		<item id="101" text=""/>
+		<item id="102" text="Topaz Fairy Bottom"/>
+		<item id="103" text=""/>
+		<item id="104" text="Dream Pony Bottom"/>
+		<item id="105" text=""/>
+		<item id="106" text="Bow Denim Skirt"/>
+		<item id="107" text=""/>
+		<item id="108" text="Floral Strappy Dress Bottom"/>
+		<item id="109" text=""/>
+		<item id="110" text="Hula Outfit Bottom"/>
+		<item id="111" text=""/>
+		<item id="112" text=""/><!-- This item isn't used anymore! -->
+		<item id="113" text=""/>
+		<item id="114" text="Drawstring Skort"/>
+		<item id="115" text=""/>
+		<item id="116" text="Ballet Flats"/>
+		<item id="117" text=""/>
+		<item id="118" text="Gem Flip Flops"/>
+		<item id="119" text=""/>
+		<item id="120" text="Sequin Flip Flops"/>
+		<item id="121" text=""/>
+		<item id="122" text="Butterfly Flip Flops"/>
+		<item id="123" text=""/>
+		<item id="124" text="Denim Glitter Sandals"/>
+		<item id="125" text=""/>
+		<item id="126" text="Faux Leather Sandals"/>
+		<item id="127" text=""/>
+		<item id="128" text="Sport Sandals"/>
+		<item id="129" text=""/>
+		<item id="130" text="Sequin Sandals"/>
+		<item id="131" text=""/>
+		<item id="132" text="Peep Toe Heels"/>
+		<item id="133" text=""/>
+		<item id="134" text="Flower BearyJane® Shoes"/>
+		<item id="135" text=""/>
+		<item id="136" text="Strappy Shoes"/>
+		<item id="137" text=""/>
+		<item id="138" text="Beary Turf Shoe®"/>
+		<item id="139" text=""/>
+		<item id="140" text="Distressed Sport Oxfords"/>
+		<item id="141" text=""/>
+		<item id="142" text="Glitter Heels"/>
+		<item id="143" text=""/>
+		<item id="144" text="Cheerleader Outfit Top"/>
+		<item id="145" text=""/>
+		<item id="146" text="Formal Dress Top"/>
+		<item id="147" text=""/>
+		<item id="148" text="Floral Dress Top"/>
+		<item id="149" text=""/>
+		<item id="150" text="Cheerleader Outfit Bottom"/>
+		<item id="151" text=""/>
+		<item id="152" text="Formal Dress Bottom"/>
+		<item id="153" text=""/>
+		<item id="154" text="Floral Dress Bottom"/>
+		<item id="155" text=""/>
+		
+		<item id="156" text="Unused ID"/>
+		<item id="157" text=""/>
+		
+		<item id="158" text="Tropical Hello Kitty® Top"/>
+		<item id="159" text=""/>
+		<item id="160" text="Karate Uniform Top"/>
+		<item id="161" text=""/>
+		<item id="162" text="Lacrosse Uniform Top"/>
+		<item id="163" text=""/>
+		<item id="164" text="Crewneck Tee"/>
+		<item id="165" text=""/>
+		<item id="166" text="Crewneck Tank"/>
+		<item id="167" text=""/>
+		<item id="168" text="Patriotic Princess Outfit Top"/>
+		<item id="169" text=""/>
+		<item id="170" text="Striped Denim Outfit Top"/>
+		<item id="171" text=""/>
+		<item id="172" text="USA Sequin Tee"/>
+		<item id="173" text=""/>
+		<item id="174" text="Canada Sequin Tee"/>
+		<item id="175" text=""/>
+		<item id="176" text="England Sequin Tee"/>
+		<item id="177" text=""/>
+		<item id="178" text="Car Tee"/>
+		<item id="179" text=""/>
+		
+		<item id="180" text="Karate Uniform Bottom"/>
+		<item id="181" text=""/>
+		<item id="182" text="Lacrosse Uniform Bottom"/>
+		<item id="183" text=""/>
+		
+		<item id="184" text="Paw Wheel Skaters"/>
+		<item id="185" text=""/>
+		<item id="186" text="Dressy Tie Loafers"/>
+		<item id="187" text=""/>
+		<item id="188" text="Saddle Shoes"/>
+		<item id="189" text=""/>
+		<item id="190" text="Striped Star Flip Flop"/>
+		<item id="191" text=""/>
+		
+		<item id="192" text="Hello Kitty® Hawaii Outfit"/>
+		<item id="193" text=""/>
+		<item id="194" text="Patriotic Princess Outfit"/>
+		<item id="195" text=""/>
+		<item id="196" text="Striped Denim Outfit Bottom"/>
+		<item id="197" text=""/>
+		<item id="198" text="Sequin Denim Skirt"/>
+		<item id="199" text=""/>
+		
+		<item id="200" text="Hello Kitty® Slippers"/>
+		<item id="201" text=""/>
+		
+		<item id="210" text="USA Basketball Uniform Top"/>
+		<item id="211" text=""/>
+		<item id="212" text="USA Basketball Uniform Bottom"/>
+		<item id="213" text=""/>
+		<item id="214" text="Stars & Stripes Swimsuit Top"/>
+		<item id="215" text=""/>
+		<item id="216" text="Stars & Stripes Swimsuit Bottom"/>
+		<item id="217" text=""/>
+		<item id="218" text="USA Shorts"/>
+		<item id="219" text=""/>
+		<item id="220" text="Canada Shorts"/>
+		<item id="221" text=""/>
+		<item id="222" text="Maple Leaf Gymnast Outfit Top"/>
+		<item id="223" text=""/>
+		<item id="224" text="Maple Leaf Gymnast Outfit Bottom"/>
+		<item id="225" text=""/>
+		<item id="226" text="Star Gymnast Outfit Top"/>
+		<item id="227" text=""/>
+		<item id="228" text="Star Gymnast Outfit Bottom"/>
+		<item id="229" text=""/>
+		<item id="230" text="USA Olympic Tee"/>
+		<item id="231" text=""/>
+		<item id="232" text=""/>
+		<item id="233" text=""/>
+		<item id="234" text="Sun Tiny Tee"/>
+		<item id="235" text=""/>
+		<item id="236" text="Zebra Gem Top"/>
+		<item id="237" text=""/>
+		<item id="238" text="Dance Star Hoodie"/>
+		<item id="239" text=""/>
+		<item id="240" text="Polka Dot Belted Tunic"/>
+		<item id="241" text=""/>
+		<item id="242" text="Amethyst Fairy Top"/>
+		<item id="243" text=""/>
+		<item id="244" text="I'm Fabulous Tee"/>
+		<item id="245" text=""/>
+		<item id="246" text="Floral Gem Top"/>
+		<item id="247" text=""/>
+		<item id="248" text="Striped Collared Shirt"/>
+		<item id="249" text=""/>
+		<item id="250" text="Think Green Tee"/>
+		<item id="251" text=""/>
+		<item id="252" text="Zebra Print Leggings"/>
+		<item id="253" text=""/>
+		<item id="254" text="Dance Star Pants"/>
+		<item id="255" text=""/>
+		<item id="256" text="Polka Dot Leggings"/>
+		<item id="257" text=""/>
+		<item id="258" text="Amethyst Fairy Skirt"/>
+		<item id="259" text=""/>
+		<item id="260" text="Straight Leg Pants"/>
+		<item id="261" text=""/>
+		<item id="262" text="Basketball Warm Up Top"/>
+		<item id="263" text=""/>
+		<item id="264" text="Floral Dot Dress"/>
+		<item id="265" text=""/>
+		<item id="266" text="Stripes & Denim Top"/>
+		<item id="267" text=""/>
+		<item id="268" text="Gold Embroidered Top"/>
+		<item id="269" text=""/>
+		<item id="270" text="Motocross Patches Top"/>
+		<item id="271" text=""/>
+		<item id="272" text="Pink Plad Dress"/>
+		<item id="273" text=""/>
+		<item id="274" text="Letterman Jacket"/>
+		<item id="275" text=""/>
+		<item id="276" text="Flower Power Tank Top"/>
+		<item id="277" text=""/>
+		<item id="278" text="Zebra Tee"/>
+		<item id="279" text=""/>
+		<item id="280" text="Basketball Warm Up Bottom"/>
+		<item id="281" text=""/>
+		<item id="282" text="Stripes & Denim Bottom"/>
+		<item id="283" text=""/>
+		<item id="284" text="Gold Embroidered Bottom"/>
+		<item id="285" text=""/>
+		<item id="286" text="Motocross Patches Bottom"/>
+		<item id="287" text=""/>
+		<item id="288" text="Fuzzy Clogs"/>
+		<item id="289" text=""/>
+		<item id="290" text="Bow Ballet Flats"/>
+		<item id="291" text=""/>
+		<item id="292" text="Gem Ballet Flat"/>
+		<item id="293" text=""/>
+		<item id="294" text="Cord Skirt"/>
+		<item id="295" text=""/>
+		<item id="296" text="Ruffle Skirt"/>
+		<item id="297" text=""/>
+		<item id="298" text="Pleated Cord Skirt"/>
+		<item id="299" text=""/>
+		<item id="300" text="Witch Top"/>
+		<item id="301" text=""/>
+		<item id="302" text="Mummy Top"/>
+		<item id="303" text=""/>
+		<item id="304" text="Ready To Rock Outfit Top"/>
+		<item id="305" text=""/>
+		<item id="306" text="Mummy Bottom"/>
+		<item id="307" text=""/>
+		<item id="308" text="Ready To Rock Outfit Bottom"/>
+		<item id="309" text=""/>
+		<item id="310" text="Pumpkin Slippers"/>
+		<item id="311" text=""/>
+		<item id="312" text="Witch-Bottom"/>
+		<item id="313" text=""/>
+		<item id="314" text="Pumpkin Top"/>
+		<item id="315" text=""/>
+		<item id="316" text="Red&Black Pirate Top"/>
+		<item id="317" text=""/>
+		<item id="318" text="Red&Black Pirate Bottom"/>
+		<item id="319" text=""/>
+		<item id="320" text="Girl Pirate Top"/>
+		<item id="321" text=""/>
+		<item id="322" text="Grey Leopard Denim Top"/>
+		<item id="323" text=""/>
+		<item id="324" text="Sweet Candy Corn Top"/>
+		<item id="325" text=""/>
+		<item id="326" text="Sweet Candy Corn Bottom"/>
+		<item id="327" text=""/>
+		<item id="328" text="Hope Ribbon Tee"/>
+		<item id="329" text=""/>
+		<item id="330" text="Pudsey Tee"/>
+		<item id="331" text=""/>
+		<item id="332" text="Grey Leopard Ballet Flat"/>
+		<item id="333" text=""/>
+		<item id="334" text="White Strap Shoes"/>
+		<item id="335" text=""/>
+		<item id="336" text="Small Witch Hat"/>
+		<item id="337" text=""/>
+
+		
+		
+		
+	</bear_clothing>
+
+	<bear_accessories id="8">
+		<item id="0" text="Explorator Hat"/>
+		<item id="1" text=""/>
+		<item id="2" text="Baseball Uniform Cap"/>
+		<item id="3" text=""/>
+		<item id="4" text="Football Uniform Helmet"/>
+		<item id="5" text=""/>
+		<item id="6" text="Straw Floppy Hat"/>
+		<item id="7" text=""/>
+		<item id="8" text="Bucket Hat"/>
+		<item id="9" text=""/>
+		<item id="10" text="Straw Cowbear Hat"/>
+		<item id="11" text=""/>
+		<item id="12" text="Topaz Fairy Wings"/>
+		<item id="13" text=""/>
+		<item id="14" text="Cheerleader Outfit Hairlocks"/>
+		<item id="15" text=""/>
+		<item id="16" text="Classic Baseball Hat"/>
+		<item id="17" text=""/>
+		<item id="18" text="Cowbear Hat"/>
+		<item id="19" text=""/>
+		<item id="20" text="Sport Sunglasses"/>
+		<item id="21" text=""/>
+		
+		<item id="22" text="Unused ID"/>
+		<item id="23" text=""/>
+		
+		<item id="24" text="Patriotic Girl Ribbon"/>
+		<item id="25" text=""/>
+		<item id="26" text="Lacrosse Helm"/>
+		<item id="27" text=""/>
+		<item id="28" text="Tortoise Shell Glasses"/>
+		<item id="29" text=""/>
+		<item id="30" text="Gradient Sunglasses"/>
+		<item id="31" text=""/>
+		<item id="32" text="Big Sunglasses"/>
+		<item id="33" text=""/>
+		
+		<item id="34" text="Swim Goggles"/>
+		<item id="35" text=""/>
+		<item id="36" text="Amethyst Fairy Wings"/>
+		<item id="37" text=""/>
+		<item id="38" text="Zebra Print Purse"/>
+		<item id="39" text=""/>
+		<item id="40" text="Witch Hat"/>
+		<item id="41" text=""/>
+		<item id="42" text="Mummy Head"/>
+		<item id="43" text=""/>
+		<item id="44" text="Pumpkin Head"/>
+		<item id="45" text=""/>
+		<item id="46" text="Red&Black Pirate Head"/>
+		<item id="47" text=""/>
+		<item id="48" text="Girl Pirate Head"/>
+		<item id="49" text=""/>
+		<item id="50" text="Small Witch Head"/>
+		<item id="51" text=""/>
+		
+	</bear_accessories>
+
+	<fish id="9">
+		<item id="0" text="Bass"/>		
+		<item id="1" text="Salmon"/>
+		<item id="2" text="Trout"/>
+		<item id="3" text="Perch"/>		
+		<item id="4" text="Eel"/>
+		<item id="5" text="Piranha"/>
+		<item id="6" text="Pike"/>		
+		<item id="7" text="Catfish"/>
+		<item id="8" text="Minnow"/>
+		<item id="9" text="Bluegill"/>
+	</fish>
+
+	<fishtrash id="10">
+		<item id="0" text="Tire"/>		
+		<item id="1" text="Rusty Trumper"/>
+		<item id="2" text="Old Boot"/>
+		<item id="3" text="Waterlogged Guitar"/>
+		<item id="4" text="Soggy Pie"/>
+		<item id="5" text="Yellow Duck"/>
+		<item id="6" text="Message in a Bottle"/>		
+		<item id="7" text="Bucket"/>
+		<item id="8" text="Wet Sock"/>
+	</fishtrash>
+	
+	<emoticons type_id="11">
+	</emoticons>
+
+	<moves id="13">
+		<item id="1" text="Wave"/>
+		<item id="2" text="Dance"/>
+		<item id="3" text="Waiting"/>
+		<item id="4" text="Valentine's Dance"/>
+		<item id="5" text="Leap Day Move"/>
+		<item id="6" text="Honey Shake"/>
+		<item id="7" text="Bunny Hop Move"/>
+		<item id="8" text="Jumping Jack"/>
+		<item id="9" text="Swim"/>
+		<item id="10" text="Sport Wave"/>
+		<item id="11" text="Cheerleader"/>
+		<item id="12" text="Juggling"/>
+		<item id="13" text="Disco Dance"/>
+		<item id="14" text="Hip Hop"/>
+		<item id="15" text="Cancel Move"/>
+		<item id="16" text="Confetti"/>
+		<item id="17" text="Groove"/>
+		<item id="18" text="Alyson's Move"/>
+	</moves>
+
+	<ecolotrash id="14">
+		<item id="0" text="food carton"/>
+		<item id="1" text=""/>
+		<item id="2" text="boot"/>
+		<item id="3" text=""/>
+		<item id="4" text="can"/>
+		<item id="5" text=""/>
+		<item id="6" text="newspaper"/>
+		<item id="7" text=""/>
+		<item id="8" text="glass"/>
+		<item id="9" text=""/>
+		<item id="10" text="paper bag"/>
+		<item id="11" text=""/>
+		<item id="12" text="plastic bottle"/>
+		<item id="13" text=""/>
+		<item id="14" text="magazine"/>
+		<item id="15" text=""/>
+		<item id="16" text="banana peel"/>
+		<item id="17" text=""/>
+	</ecolotrash>	
+	
+	<outfit id="15">
+		<!-- Bear -->
+		<item id="0" text="Football Uniform"/>
+		<item id="1" text=""/>
+		<item id="2" text="Baseball Uniform"/>
+		<item id="3" text=""/>
+		<item id="4" text="Soccer Uniform"/>
+		<item id="5" text=""/>
+		<item id="6" text="Volleyball Uniform"/>
+		<item id="7" text=""/>
+		
+		<item id="8" text="Plaid Baseball Outfit"/>
+		<item id="9" text=""/>
+		<item id="10" text="Dream Pony Outfit"/>
+		<item id="11" text=""/>
+		<item id="12" text="Gem Bubble Dress"/>
+		<item id="13" text=""/>
+		<item id="14" text="Leopard Print Bikini"/>
+		<item id="15" text=""/>
+		
+		<item id="16" text="Purrfect PJs"/>
+		<item id="17" text=""/>
+		<item id="18" text="Topaz Fairy Outfit"/>
+		<item id="19" text=""/>
+		<item id="20" text="Hello Kitty® PJs"/>
+		<item id="21" text=""/>
+		<item id="22" text="Floral Strappy Dress"/>
+		<item id="23" text=""/>
+		
+		<item id="24" text="Floral Capri Outfit"/>
+		<item id="25" text=""/>
+		<item id="26" text="Butterfly Outfit"/>
+		<item id="27" text=""/>
+		<item id="28" text="Hula Outfit"/>
+		<item id="29" text=""/>
+		<item id="30" text="Big Surf Outfit"/>
+		<item id="31" text=""/>
+		
+		<item id="32" text="Gem Tunic Outfit"/> <!-- no update yet -->
+		<item id="33" text=""/>
+		<item id="34" text="Cheerleader Outfit"/>
+		<item id="35" text=""/>
+		<item id="36" text="Formal Dress"/> <!-- no update yet -->
+		<item id="37" text=""/>
+		<item id="38" text="Floral Dress"/> <!-- no update yet -->
+		<item id="39" text=""/>
+		<!-- Human -->
+		<item id="40" text="Baseball Uniform"/>
+		<item id="41" text=""/>
+		<item id="42" text="Football Uniform"/>
+		<item id="43" text=""/>
+		<item id="44" text="Soccer Uniform"/>
+		<item id="45" text=""/>
+		<item id="46" text="Volleyball Uniform"/>
+		<item id="47" text=""/>
+		
+		<item id="48" text="Floral Capri Outfit"/>
+		<item id="49" text=""/>
+		<item id="50" text="Butterfly Outfit"/>
+		<item id="51" text=""/>
+		<item id="52" text="Hula Outfit"/>
+		<item id="53" text=""/>
+		<item id="54" text="Plaid Baseball Outfit"/>
+		<item id="55" text=""/>
+		
+		<item id="56" text="Dream Pony Outfit"/>
+		<item id="57" text=""/>
+		<item id="58" text="Gem Bubble Dress"/>
+		<item id="59" text=""/>
+		<item id="60" text="Hello Kitty® PJs"/>
+		<item id="61" text=""/>
+		<item id="62" text="Cheerleader Outfit"/>
+		<item id="63" text=""/>
+		
+		<item id="64" text="Hello Kitty® Hawaii Outfit"/>
+		<item id="65" text=""/>
+		<item id="66" text="Karate Uniform"/>
+		<item id="67" text=""/>
+		<item id="68" text="Lacrosse Uniform"/>
+		<item id="69" text=""/>
+		<item id="70" text="Patriotic Princess Outfit"/>
+		<item id="71" text=""/>
+		<item id="72" text="Striped Denim Outfit"/>
+		<item id="73" text=""/>
+		
+		<item id="74" text="Karate Uniform"/>
+		<item id="75" text=""/>
+		<item id="76" text="Lacrosse Uniform"/>
+		<item id="77" text=""/>
+		<item id="78" text="Hello Kitty® Hawaii Outfit"/>
+		<item id="79" text=""/>
+		<item id="80" text="Patriotic Princess Outfit"/>
+		<item id="81" text=""/>
+		<item id="82" text="Striped Denim Outfit"/>
+		<item id="83" text=""/>
+		
+		<item id="84" text="Basketball Uniform"/>
+		<item id="85" text=""/>
+		<item id="86" text="Stars and Stripes Swimsuit"/>
+		<item id="87" text=""/>
+		<item id="88" text="Mapleleaf Gymnast Outfit"/>
+		<item id="89" text=""/>
+		<item id="90" text="Star Gymnast Outfit"/>
+		<item id="91" text=""/>
+		
+		<item id="92" text="A Clown Costume"/>
+		<item id="93" text=""/>
+		<item id="94" text="Baton Twirler Costume"/>
+		<item id="95" text=""/>
+		<item id="96" text="Drum Major Uniform"/>
+		<item id="97" text=""/>
+		<item id="98" text="Star Gymnast Outfit"/>
+		<item id="99" text=""/>
+		<item id="100" text="Mapleleaf Gymnast Outfit"/>
+		<item id="101" text=""/>
+		<item id="102" text="Basketball Uniform"/>
+		<item id="103" text=""/>
+		<item id="104" text="Stars And Stripes Swimsuit"/>
+		<item id="105" text=""/>
+		<item id="106" text="Zebra Print Outfit"/>
+		<item id="107" text=""/>
+		<item id="108" text="Dance Star Jog Outfit"/>
+		<item id="109" text=""/>
+		<item id="110" text="Polka Dot Belted Outfit"/>
+		<item id="111" text=""/>
+		<item id="112" text="Amethyst Fairy Outfit"/>
+		<item id="113" text=""/>
+		
+		<item id="114" text="BTS Cheerleader Uniform"/>
+		<item id="115" text=""/>
+		<item id="116" text="Dance Star Jog Outfit"/>
+		<item id="117" text=""/>
+		<item id="118" text="Zebra Print Outfit"/>
+		<item id="119" text=""/>
+		<item id="120" text="Polka Dot Belted Outfit"/>
+		<item id="121" text=""/>
+		<item id="122" text="Amethyst Fairy Outfit"/>
+		<item id="123" text=""/>
+		
+		<item id="124" text="Basketball Warm Up"/>
+		<item id="125" text=""/>
+		<item id="126" text="Stripes & Denim Outfit"/>
+		<item id="127" text=""/>
+		<item id="128" text="Gold Embroidered Outfit"/>
+		<item id="129" text=""/>
+		<item id="130" text="Bear Motocross Patches Outfit"/>
+		<item id="131" text=""/>
+		
+		<item id="132" text="Basketball Warm Up"/>
+		<item id="133" text=""/>
+		<item id="134" text="Stripes & Denim Outfit"/>
+		<item id="135" text=""/>
+		<item id="136" text="Gold Embroidered Outfit"/>
+		<item id="137" text=""/>
+		<item id="138" text="Motocross Patches Outfit"/>
+		<item id="139" text=""/>
+		
+		<item id="140" text="Halloween Kitty Costume"/>
+		<item id="141" text=""/>
+		
+		<item id="142" text="Witch Costume"/>
+		<item id="143" text=""/>
+		<item id="144" text="Mummy Costume"/>
+		<item id="145" text=""/>
+		<item id="146" text="Ready To Rock Outfit"/>
+		<item id="147" text=""/>
+		
+		<item id="148" text="Witch Costume"/>
+		<item id="149" text=""/>
+		<item id="150" text="Mummy Costume"/>
+		<item id="151" text=""/>
+		<item id="152" text="Ready To Rock Outfit"/>
+		<item id="153" text=""/>
+		
+		<item id="154" text="Disco Costume"/>
+		<item id="155" text=""/>
+		<item id="156" text="Pointy Witch Costume"/>
+		<item id="157" text=""/>
+		<item id="158" text="Pirate Costume"/>
+		<item id="159" text=""/>
+		<item id="160" text="Red&Black Pirate Costume "/>
+		<item id="161" text=""/>
+		<item id="162" text="Girl Pirate Costume "/>
+		<item id="163" text=""/>
+		<item id="164" text="Grey Leopard Denim Set"/>
+		<item id="165" text=""/>
+		<item id="166" text="Sweet Candy Corn Set"/>
+		<item id="167" text=""/>
+		<item id="168" text="Pumpkin Costume"/>
+		<item id="169" text=""/>
+		<item id="170" text="Red&Black Pirate Costume"/>
+		<item id="171" text=""/>
+		<item id="172" text="Girl Pirate Costume"/>
+		<item id="173" text=""/>
+		<item id="174" text="Sweet Candy Corn Set"/>
+		<item id="175" text=""/>
+		<item id="176" text="Bumble Bee Costume"/>
+		<item id="177" text=""/>
+		<item id="178" text="Princess Costume"/>
+		<item id="179" text=""/>
+		<item id="180" text="Wizard Costume"/>
+		<item id="181" text=""/>
+		<item id="182" text="Super Hero Costume"/>
+		<item id="183" text=""/>
+		<item id="184" text="Ghost Costume"/>
+		<item id="185" text=""/>
+		
+	</outfit>
+	
+	<rooms id="16">
+		<item id="0" text="Exterior"/>
+		<item id="1" text="Interior"/>
+		<item id="2" text="Furry Friend Room"/>
+		<item id="3" text="Beachtime Room"/>
+		<item id="4" text="Sporty Fun Room"/>
+		<item id="5" text="Dance Party Room" />
+		<item id="6" text="Kitchen"/>
+		<item id="7" text="Bedroom"/>
+		<item id="8" text="Rooftop" />
+		<item id="9" text="Backyard" />
+		<item id="10" text="Patio" />
+		<item id="11" text="Dorm Room" />
+		<item id="12" text="Attic" />
+	</rooms>
+	
+	<transportdevice id="17">
+		<item id="0" text="HoverBoard"/>
+		<item id="1" text=""/>
+		<item id="2" text="Propeller Hat"/>
+		<item id="3" text=""/>
+		<item id="4" text="Motorized Vehicule"/>
+		<item id="5" text=""/>
+	</transportdevice>
+	
+	<serverselector id="97">
+		<m00 id="0" text="Dens" />
+		<m01 id="1" text="Friends" />
+		<m02 id="2" text="United States" />
+		<m03 id="3" text="Canada" />
+		<m04 id="4" text="UK/Ireland" />
+		<m05 id="5" text="For Europe, please select UK." />
+		<m06 id="6" text="Site currently available in American English" />
+		<m07 id="7" text="Select Your Region" />
+		<m08 id="8" text="Would you like to join the same server as ~0~?" /> <!-- 0 is buddy name -->
+		<m09 id="9" text="Select A Den" />
+		<m10 id="10" text="Random Game Name" />
+		<m11 id="11" text="South Africa" />
+	</serverselector>
+	
+	<hud id="98">
+		<m00 id="0" text="Shuffle" />
+		<m01 id="1" text="Friends" />
+		<m02 id="2" text="Ignored" />
+		<m03 id="3" text="Nearby" />
+		<m04 id="4" text="Sound effects" />
+		<m05 id="5" text="Music" />
+		<m06 id="6" text="Emoticons" />
+		<m07 id="7" text="Moves" />
+		<m08 id="8" text="TAG!" />
+		<m09 id="9" text="Friends" />
+		<m10 id="10" text="Nearby" />
+		<m11 id="11" text="Ignored" />
+		<m12 id="12" text="Menu" />
+		<m13 id="13" text="Messages" />
+		<m14 id="14" text="Quests" />
+		<m15 id="15" text="Furry Newsflash" />
+		<m16 id="16" text="High scores" />
+		<m17 id="17" text="Category" />
+		<m18 id="18" text="Rank" />
+		<m19 id="19" text="Nickname" />
+		<m20 id="20" text="Options" />
+		<m21 id="21" text="Graphics" />
+		<m22 id="22" text="Low" />
+		<m23 id="23" text="Medium" />
+		<m24 id="24" text="High" />
+		<m25 id="25" text="Restrictions" />
+		<m26 id="26" text="Block Trades" />
+		<m27 id="27" text="Block Whispers" />
+		<m28 id="28" text="Manage Account" />
+		<m29 id="29" text="Log off" />
+		<m30 id="30" text="Furry Friends" />
+		<m31 id="31" text="Add Friend" />
+		<m32 id="32" text="Remove Friend" />
+		<m33 id="33" text="Change name" />
+		<m34 id="34" text="Change chat" />
+		<m35 id="35" text="Change Email" />
+		<m36 id="36" text="Change password" />
+		<m37 id="37" text="You need to be 13 or over to use this option. Ask for the aproval of your parent." />
+		
+		<!-- Chat and Mail System Messages  -->
+		<m38 id="38" text="Your account is set up with Silent Chat. To change your chat, please ask your parents to help you change it in your PDA." />	
+		<m39 id="39" text="Your account is set up with Safe Menu Chat. Use the Menu Chat to talk to your friends in Build-a-Bearville. To change your chat, please ask your parents to help you change it in your PDA." />	
+		<m40 id="40" text="Beary sorry. This person has selected a chat type that can not receive bear mail or chat messages." />
+		<m41 id="41" text="Beary sorry. This person has selected a chat type that can only receive Chat Menu message. Use the Chat Menu to select a beary special message to send to them." />
+		<m42 id="42" text="A message with your chat request has been sent to your parent's email address. Ask them to click the link and update your chat options. If they do not receive this email within one hour, check the SPAM or Junk folders. If it's still not there, please email us at vwhelp@buildabear.com." />
+		<m43 id="43" text="A message with your email change request has been sent to your parent's email address. Ask them to click the link and update your email address. If they do not receive this email within one hours, check the SPAM or Junk folders. If it's still not there, please email us at vwhelp@buildabear.com." />
+		
+		<m100 id="100" text="Your friend is already here with you!" />
+		<m101 id="101" text="Your friend is playing a game. You'll see them when they finish." />
+		<m102 id="102" text="Your friend is in their Cub Condo house. Visit them by selecting it from the Neighborhood." />
+		<m103 id="103" text="Your friend is visiting a Cub Condo house. You can wait for them in the Neighborhood." />
+		<m104 id="104" text="Your friend is trading right now. You can wait for them here." />
+		<m105 id="105" text="Your friend is shopping for cool new stuff. You can wait for them here." />
+		<m106 id="106" text="Oops! Your friend has just left Build-A-Bearville." />
+		<m106 id="107" text="Oops! Your friend is now in a different location." />
+		<m106 id="108" text="doesn't wanna trade anymore." />
+		
+	</hud>
+	
+	<tooltip id="99">
+		<!-- Hud -->
+		<m01 id="0" text="News"/>
+		<m02 id="1" text="Map"/>
+		<m03 id="2" text="PDA"/>
+		<m04 id="3" text="Help"/>
+		<m05 id="4" text="Volume"/>
+		<m06 id="5" text="Moves"/>
+		<m07 id="6" text="Emoticons"/>
+		<m08 id="7" text="My Stuff"/>
+		<m09 id="8" text="Whisper log"/>
+		<m10 id="9" text="Furbulous Friends List"/>
+		<m11 id="10" text="Cub Condo® complex"/>		
+		<m12 id="11" text="Games"/>
+		<m13 id="12" text="Storage"/>
+		<!-- Shop -->
+		<m100 id="100" text="My Stuff"/>
+		<m101 id="101" text="View Cart"/>
+		<m102 id="102" text="Check Out"/>
+		<m103 id="103" text="View All"/>
+		<m104 id="104" text="Add to Cart"/>
+		<m105 id="105" text="Exit"/>
+		<m106 id="106" text="Hats"/>
+		<m107 id="107" text="Glasses"/>
+		<m108 id="108" text="Shirts"/>
+		<m109 id="109" text="Pants"/>
+		<m110 id="110" text="Shoes"/>
+		<m111 id="111" text="Accessories"/>
+		<m112 id="112" text="Clothing"/>
+		<m113 id="113" text="Glasses"/>
+		<m114 id="114" text="Furniture"/>
+		<m115 id="115" text="Other Stuff"/>
+		<m116 id="116" text="Furry Friends Items"/>
+		<m117 id="117" text="My Furniture"/>
+		<m118 id="118" text="Paintbrush"/>
+		<!-- Chat -->
+		<m200 id="200" text="Chat"/>
+		<m200 id="201" text="Chat log"/>
+	</tooltip>
+	
+	<buddy id="100">
+		<m01 id="0" text="Are you sure you want to remove ~0~ from your friends list?"/>	<!-- 0 is buddy name -->
+		<m02 id="1" text="~0~ is now your friend!"/>	<!-- 0 is buddy name -->
+		<m03 id="2" text="Waiting for ~0~ to accept."/>	<!-- 0 is buddy name you want to add to your list -->
+		<m04 id="3" text="~0~ wants to be your friend. Do you accept?"/> 	<!-- 0 is the name of the player that want to be your friend -->
+		<m05 id="4" text="~0~ is busy right now. Please try again soon."/>	<!-- 0 is the name of the player you want to add to your list  -->
+		<m06 id="5" text="~0~ wants to be your friend. Do you accept?"/> 	<!-- 0 is the name of the player that want to be your buddy -->
+		<m07 id="6" text="~0~ has cancelled their request to be your friend."/>	<!-- 0 is the name of the player that does not want to be your buddy anymore  -->
+		<m07 id="7" text="~0~ is currently ignoring you."/>	<!-- 0 is the name of the player that does not want to be your buddy anymore  -->
+	</buddy>
+
+	<capsule id="101">
+		<m01 id="0" text="The condo owner left the game! Please choose another condo to visit."/>
+		<m02 id="1" text="Your host has decided to move his furniture. Please come back and visit again soon!"/>
+		<m03 id="2" text="Beary sorry. You do not have enough space in your “My Stuff”. You must delete or sell some of your stuff at the Bear Stuff store or Pawlette Coufur boutique to make room." />
+		<m04 id="3" text="Welcome to the Cub Condo® complex, what do you want to do?" />
+		<m05 id="4" text="My Cub Condo®" />
+		<m06 id="5" text="Visit others" />
+		<m07 id="6" text="Options" />
+		<m08 id="7" text="Select the accessibility of your Cub Condo®:" />
+		<m09 id="8" text="Everyone can enter my Cub Condo®" />
+		<m10 id="9" text="Only my friends can enter my Cub Condo®" />
+		<m11 id="10" text="Only I can enter my Cub Condo®" />
+		<m12 id="11" text="Visit" />
+		<m13 id="12" text="Cub Condo® complex" />
+		<m14 id="13" text="Before you texture up your Cub Condo®, your visitor(s) will have to leave. Is that okay?" />
+		<m15 id="14" text="A visitor doesn't have a condo." />
+		<m16 id="15" text="You do not have any furniture in your &quot;My Stuff&quot;. Visit the Bear Stuff® store to buy pawsome d&#233;cor for your Cub Condo®." />
+		<m17 id="16" text="Before you redecorate your Cub Condo®, your Guest(s) will have to leave. Is that okay?" />
+		<m17 id="17" text="Beary sorry, this Cub Condo® is full. Please try again later." />
+		<m18 id="18" text="Beary sorry, you cannot access any room because you don't have any Furry Friend." />
+		<m19 id="19" text="You are already in that Party Room." />
+		<m20 id="20" text="Exterior" />
+		<m21 id="21" text="Interior" />
+		<m22 id="22" text="You are already in that room." />
+		<m23 id="23" text="You are already in that Furry Friend Room." />
+		<m24 id="24" text="Oops! You don't have a flag yet. Visit the Bear Stuff store to buy cool flags for the outside of your Cub Condo® house." />
+		<m25 id="25" text="Furniture" />
+		<m26 id="26" text="Floor Stuff" />
+		<m27 id="27" text="Wall Stuff" />
+		<m28 id="28" text="Flags" />
+		<m29 id="29" text="Clearing your room will remove all items. Is that okay?" />
+	</capsule>
+
+	<ignore id="102">
+		<m01 id="0" text="Are you sure you want to stop ignoring this Buildabearville citizen and become friends?"/>
+		<m02 id="1" text="You are now ignoring ~0~."/>	<!-- 0 is ignore name -->
+	</ignore>
+
+	<minigame id="103">
+		<m01 id="0" text="Unexpected software error! Could not load mini game lobby. You will be taken back where you were. Sorry for the inconvenience."/>
+		<m02 id="1" text="You need to have a skateboard to play this game."/>
+	</minigame>
+
+	<shop id="104">
+		<m01 id="0" text="Unexpected error: unable to retrieve shop data!"/>
+		
+		<m02 id="1" text="Hi, &lt;font color='#FFC800'&gt;~n~&lt;/font&gt;. My name is &lt;font color='#FFC800'&gt;~r~&lt;/font&gt; and I am the Bear Builder® associate. Welcome to our &lt;font color='#FFC800'&gt;Build-A-Bear Workshop store&lt;/font&gt; where you can bring your &lt;font color='#FFC800'&gt;furry friends&lt;/font&gt; to life online! "/> <!-- n is player name, r is release name -->
+		<m03 id="2" text="Hi, &lt;font color='#FFC800'&gt;~n~&lt;/font&gt;. My name is &lt;font color='#FFC800'&gt;~r~&lt;/font&gt; and I am the Bear Builder® associate. Welcome to our &lt;font color='#FFC800'&gt;Build-A-Bear Workshop store&lt;/font&gt;."/> <!-- n is user name, r is release name -->	
+		
+		<m04 id="3" text="Bring furry friends to life online?"/>
+		<m05 id="4" text="Enter a web code for your FREE gift?"/>
+		
+		<m06 id="5" text="Furry Friends"/>
+		<m07 id="6" text="Here you can register your &lt;font color='#FFC800'&gt;furry friend&lt;/font&gt; to become a citizen of &lt;font color='#FFC800'&gt;Build-A-Bearville&lt;/font&gt;. Was your friend made &lt;font color='#FFC800'&gt;before&lt;/font&gt; or &lt;font color='#FFC800'&gt;after October 2007&lt;/font&gt;? Choose one of the options below. "/>
+		<m08 id="7" text="I have a &lt;font color='#FFC800'&gt;Welcome Pass&lt;/font&gt; for my Furry Friend."/>
+		<m09 id="8" text="I have a &lt;font color='#FFC800'&gt;Birth Certificate&lt;/font&gt; that has an &lt;font color='#FFC800'&gt;Animal ID&lt;/font&gt; and &lt;font color='#FFC800'&gt;Key Code&lt;/font&gt; for my Furry Friend."/>
+		<m10 id="9" text="I don't have a &lt;font color='#FFC800'&gt;furry friend&lt;/font&gt; or a &lt;font color='#FFC800'&gt;Welcome Pass&lt;/font&gt;."/>
+		
+		<m11 id="10" text="Cubgratulations!"/>
+		<m12 id="11" text="Now that you have one or more &lt;font color='#FFC800'&gt;furry friends&lt;/font&gt;, how would you like to continue your &lt;font color='#FFC800'&gt;friendship adventure&lt;/font&gt;?"/>
+		<m13 id="12" text="Register another Build-A-Bear Workshop® furry friend"/>
+		<m14 id="13" text="Take a tour with Chloe Rocks"/>
+		<m15 id="14" text="Start in Town Square"/>
+		<m16 id="15" text="Visit the Condo Cub® complex"/>
+		
+		<m17 id="16" text="Redeem your &lt;font color='#FFC800'&gt;FREE gift&lt;/font&gt; here! Just enter the &lt;font color='#FFC800'&gt;web code&lt;/font&gt; and your gift will appear in your &lt;font color='#FFC800'&gt;&apos;My Stuff&apos;&lt;/font&gt;."/>
+		<m18 id="17" text="Please enter the &lt;font color='#FFC800'&gt;animal ID&lt;/font&gt; and &lt;font color='#FFC800'&gt;key code&lt;/font&gt;:"/>
+		<m19 id="18" text="Animal ID:"/>
+		<m20 id="19" text="Keycode:"/>
+		<m21 id="20" text="Your &lt;font color='#FFC800'&gt;birth certificate&lt;/font&gt; does not have an &lt;font color='#FFC800'&gt;Animal ID&lt;/font&gt; & &lt;font color='#FFC800'&gt;Keycode&lt;/font&gt;?"/>
+		<m22 id="21" text="Please enter the &lt;font color='#FFC800'&gt;Welcome Pass web code&lt;/font&gt;:"/>
+		
+		<m23 id="22" text="The &lt;font color='#FFC800'&gt;name&lt;/font&gt; that you gave to your &lt;font color='#FFC800'&gt;furry friend&lt;/font&gt; at the &lt;font color='#FFC800'&gt;store&lt;/font&gt; isn't allowed in &lt;font color='#FFC800'&gt;Build-A-Bearville&lt;/font&gt;. Please select an other one so you can add your &lt;font color='#FFC800'&gt;furry friend&lt;/font&gt; to your account."/>
+		<m24 id="23" text="Name:"/>
+		
+		<m25 id="24" text="For a &lt;font color='#FFC800'&gt;limited time&lt;/font&gt;, visit your local &lt;font color='#FFC800'&gt;Build-A-Bear Workshop store&lt;/font&gt; to get a &lt;font color='#FFC800'&gt;Welcome Pass&lt;/font&gt; with a &lt;font color='#FFC800'&gt;web code&lt;/font&gt; to bring up to 5 of your favorite &lt;font color='#FFC800'&gt;Build-A-Bear Workshop furry friends&lt;/font&gt; made before &lt;font color='#FFC800'&gt;October 2007&lt;/font&gt; to life online."/>
+		<m26 id="25" text="&lt;font color='#FFC800'&gt;Click here&lt;/font&gt; to find a &lt;font color='#FFC800'&gt;store&lt;/font&gt; near you"/>
+		<m27 id="26" text="http://www.buildabear.com/aboutUs/contactUs/findastore/default.aspx"/>
+		
+		<m28 id="27" text="If you wish to play with a furry friend here in &lt;font color='#FFC800'&gt;Build-A-Bearville&lt;/font&gt; later, simply talk with the virtual &lt;font color='#FFC800'&gt;Bear Builder&lt;/font&gt; associate in the &lt;font color='#FFC800'&gt;Build-A-Bear Workshop®&lt;/font&gt; store in &lt;font color='#FFC800'&gt;Town Square&lt;/font&gt;.&lt;br /&gt;&lt;br /&gt;While you're a visitor, you can:&lt;br /&gt;-   Customize your character&lt;br /&gt;-   Shop for cool fashions&lt;br /&gt;-   Play a selection of games & quests&lt;br /&gt;-   &lt;font color='#FFC800'&gt;Use Safe Chat&lt;/font&gt; to communicate&lt;br /&gt;-   Explore &lt;font color='#FFC800'&gt;Build-A-Bearville&lt;/font&gt;&lt;br /&gt;&lt;br /&gt;Once you have a furry friend here in &lt;font color='#FFC800'&gt;Build-A-Bearville&lt;/font&gt;, you'll be able to:&lt;br /&gt;-  Decorate your own &lt;font color='#FFC800'&gt;Cub Condo®&lt;/font&gt;&lt;br /&gt;-  Play all &lt;font color='#FFC800'&gt;Build-A-Bearville&lt;/font&gt; games & quests&lt;br /&gt;-  Use &lt;font color='#FFC800'&gt;Open Filtered Chat&lt;/font&gt; to communicate*&lt;br /&gt;-  Go on animal adventures&lt;font color='#FFC800'&gt;**&lt;/font&gt;"/>
+		<m29 id="28" text="&lt;font color='#FFC800'&gt;* Open Filtered Chat&lt;/font&gt; requires parental approval for &lt;font color='#FFC800'&gt;Guests&lt;/font&gt; 12 years & under.&lt;br /&gt;&lt;font color='#FFC800'&gt;** Animal adventures&lt;/font&gt; available to &lt;font color='#FFC800'&gt;Guests&lt;/font&gt; with &lt;font color='#FFC800'&gt;furry friends&lt;/font&gt; purchased after &lt;font color='#FFC800'&gt;October 1, 2007&lt;/font&gt;."/>
+		<m30 id="29" text="Beary sorry, this web code can only be used to add a furry friend. Please click the BACK button and select /bWould you like to bring furry friend to life online?/b."/>
+		<m31 id="30" text="Beary sorry, this web code can't be used to add a furry friend. Please click the BACK button and select /bDo you have a web code/b."/>
+		<m32 id="31" text="Cubgratulation! By bringing your furry friend to life online, you have earned a reward. Check your /bMy Stuff/b to use it."/>
+		<m33 id="32" text="Cubgratulation! You have received cool virtual stuff. Check you /bMy Stuff/b to use it."/>
+		<m34 id="33" text="Transaction error. Please try again later."/>
+		<m35 id="34" text="Your furry friend is not available in Build-A-Bearville. Please select a different furry friend."/>
+		
+		<m36 id="35" text="Stuff Fur Stuff club members! To add Bear Bills to your account, enter your Stuff Fur Stuff number and Receipt Code found on your receipt in the space below. Your Bear Bills will automatically appear in your ''My Stuff'' and you'll also get your Bear Boutique store credit!"/>
+		<m37 id="36" text="Stuff fur stuff number"/>
+		<m38 id="37" text="Receipt Code"/>
+		
+		<m39 id="38" text="Please fill in all the web code field(s) correctly!" />
+		<m40 id="39" text="ERROR during user info loading..." />
+		<m41 id="40" text="There was a problem while loading the prohibed bear name list. Please try again later." />
+		<m42 id="41" text="Please enter a name for your furry friend." />
+		<m43 id="42" text="Please select a furry friend." />
+		<m44 id="43" text="This name is not allowed in Build-A-Bearville fur your furry friend. Please enter an other  one." />
+		<m45 id="44" text="Are you sure?" />
+		<m46 id="45" text="&lt;font color='#FFC800'&gt;~b~&lt;/font&gt; is waiting for you in your &lt;font color='#FFC800'&gt;&apos;My Stuff&apos;&lt;/font&gt; section." /> <!-- b is the bear name -->
+		<m47 id="46" text="Your &lt;font color='#FFC800'&gt;furry friends&lt;/font&gt; are waiting for you in your &lt;font color='#FFC800'&gt;&apos;My Stuff&apos;&lt;/font&gt; section." />
+		<m48 id="47" text="Your &lt;font color='#FFC800'&gt;furry friend&lt;/font&gt; is waiting for you in your &lt;font color='#FFC800'&gt;&apos;My Stuff&apos;&lt;/font&gt; section." />
+		<m49 id="48" text="Please fill in the Stuff Fur Stuff number and all the receipt code fields correctly!" />
+		
+		<m50 id="49" text="Would you like to..." />
+		<m51 id="50" text="Enter your Stuff Fur Stuff® number and Receipt Code to redeem your Bear Bills?" />
+		<m52 id="51" text="Beary sorry, the codes entered are not valid. Please try again." />
+		<m53 id="52" text="Are you sure?" />
+		<m54 id="53" text="Cubgratulations! You just received a pawsome gift. Check your &quot;My Stuff&quot;!" />
+		<m55 id="54" text="Cubgratulations! You just received Bear Bills. Check your &quot;My Stuff&quot;!" />
+		<m56 id="55" text="Cubgratulations! You just received a pawsome gift fur your Cub Condo®." />
+		<m57 id="56" text="Cubgratulations! You just received an emoticon. Check your &quot;Emoticons&quot; and show other citizens how you feel! " />
+		<m58 id="57" text="Cubgratulations! You just received a pawsome new move. Check your &quot;Moves&quot; and start dancin'!" />
+		<m59 id="58" text="Champ" />
+		<m60 id="59" text="Enter a Receipt Code to get FREE virtual stuff?" />
+		<m61 id="60" text="Enter your Receipt Code to get Store Credit at the Bear Boutique?" />
+		<m62 id="61" text="Enter the Receipt Code found on the bottom of your receipt in the space above." />
+		<m63 id="62" text="Pawsome" />
+		<m64 id="63" text="You earned ~r~ store credit(s)" />
+		<m65 id="64" text="To spend in the Bear Boutique! You can go there now - It's just on the other side of Town Square" />
+		<m66 id="65" text="Since you don't have a furry friend yet, Bearemy will be your model for furry friend clothing.\n\nYou'll need to bring a furry friend to life online before you can use any of the furry friend items." />
+		<m67 id="66" text="Oops! You don't have enough store credit to buy this item." />
+		<m68 id="67" text="What would you like to do?" />
+		<m69 id="68" text="Enter a receipt code" />
+		<m70 id="69" text="Learn how to get store credit" />
+		<m71 id="70" text="Continue to shop" />
+		<m72 id="71" text="To get Bear Boutique store credit, enter a receipt code from any purchase made at a Build-A-Bear Workshop store or online at www.buildabear.com." />
+		<m73 id="72" text="Oops! Please fill in your receipt code beary carefully." />
+		<m74 id="73" text="The receipt code you entered is invalid." />
+		<m75 id="74" text="Store Credits:" />
+		<m76 id="75" text="Add Credits" />
+		<m77 id="76" text="Select a Party Room" />
+		<m78 id="77" text="Redeem a virtual party room" />
+		<m79 id="78" text="Thanks for partying with us! Which party room would you like?" />
+		<m80 id="79" text="Enter your party confirmation number, party date and time from your party confirmation letter and your new room will appear in your Cub Condo house." />
+		<m81 id="80" text="Party Confirmation Number" />
+		<m82 id="81" text="Party date and time" />
+		<m83 id="82" text="Cubgratulations! You just received a ~r~ for your Cub Condo! Check your Bear Mail for details." />		
+		<m84 id="83" text="Beary sorry, the party information you entered was invalid, please try again." />
+		<m85 id="84" text="Oops! The party room for this party has already been redeemed. Please try again." />
+		<m86 id="85" text="Which party room would you like to visit?" />
+		<m87 id="86" text="Please enter your Party Confirmation Number." />
+		<m88 id="87" text="Please select a proper date." />	
+		<m89 id="88" text="Beary sorry, you need a Cub Condo house before you can buy rooms. Bring your furry friends to life online to get a Cub Condo." />
+		<m90 id="89" text="Oops! You don’t have enough Bear Bills to buy this item!" />
+		<m91 id="90" text="Oops! You already own this room!" />
+		<m92 id="91" text="Oops! You already own this wallpaper!" />
+		<m93 id="92" text="Oops! You already own this carpet!" />
+		<m94 id="93" text="You previously registered new Furry Friends. Do you want to acquire them right now?" />
+		<m95 id="94" text="CyBear™ Store" />
+	</shop>
+
+	<transact id="105">
+		<m01 id="0" text="Waiting for ~0~ to accept."/>	<!-- 0 is the name of the player you want to trade with -->
+		<m02 id="1" text="~0~ wants to trade with you. Do you accept?"/>	<!-- 0 is the name of the player that want to trade with you -->
+		<m03 id="2" text="A server error has occured, transaction aborted!"/>
+		<m04 id="3" text="~0~ isn't available for trading right now."/>	<!-- 0 is the name of the player you want to trade with -->
+		<m05 id="4" text="~0~ is too busy to trade right now."/>	<!-- 0 is the name of the player you want to trade with -->
+		
+		<m06 id="5" text="Trade"/>
+		<m07 id="6" text="fair"/>
+		<m08 id="7" text="ERROR during trade loading. Try again later!"/>
+		
+		<m09 id="8" text="Other player is making an offer"/>
+		<m10 id="9" text="~0~ is taking too long to decide! Try again later."/> <!-- 0 is the name of the player you want to trade with -->
+		<m11 id="10" text="You can't keep ~0~ waiting all day! Try again when you've made up your mind."/> <!-- 0 is the name of the player you want to trade with -->
+		
+		<m12 id="11" text="~0~ doesn't have room for your stuff! You have to review your offer."/> <!-- 0 is the name of the player you want to trade with -->
+		<m13 id="12" text="You don't have room for ~0~'s stuff! You have to review your offer."/> <!-- 0 is the name of the player you want to trade with -->
+		<m14 id="13" text="You can't trade more than 3 items at a time. Remove an item or complete a transaction to continue."/>
+		<m15 id="14" text="ERROR during trade... Trade has been cancelled.\n\n~0~"/> <!-- 0 is the returned error -->
+		
+		<m16 id="15" text="Your trade is complete!"/>
+		<m17 id="16" text="~0~ has accepted your trade!"/> <!-- 0 is the name of the player you want to trade with -->
+		
+		<m18 id="17" text="ERROR during inventory loading...\n\nStoredProc call failed!"/>
+		<m19 id="18" text="Beary sorry, you can't trade more Bear Bills than you have."/>
+		<m20 id="19" text="Beary sorry, you can't ask for more Bear Bills than ~0~ has."/> <!-- 0 is the name of the player you are trading with -->
+		<m21 id="20" text="The current trade offer is not fair to you because it includes a lot of extra Bear Bills.\nWould you still like to accept it?"/>
+	</transact>
+	
+	<personnalizer id="106">
+		<m01 id="0" text="Customize" />		<!-- This is the title of the Personnalizer. -->
+		<m02 id="1" text="Firstname" />		<!-- This is the text that is inserted in the firstname textfield when empty. -->
+		<m03 id="2" text="Lastname" />		<!-- This is the text that is inserted in the lastname textfield when empty. -->
+		<m04 id="3" text="Randomize" />		<!-- This is the label on the randomizer button. -->
+	</personnalizer>
+	
+	<inventory id="107">
+		<m01 id="0" text="My Stuff" />		<!-- This is the title of the Inventory. -->
+		<m02 id="1" text="Avatar" />		<!-- This is the label on the avatar button. -->
+		<m03 id="2" text="Furry friend" />	<!-- This is the label on the sidekick button. -->
+
+		<!-- Error messages : -->
+		<m101 id="100" text="You can't delete one of your furry friend!" />
+		<m102 id="101" text="You can't remove this item!" />
+		<m103 id="102" text="You can't trash this item while it is currently in use!" />
+		<m104 id="103" text="You can't equip this item." />
+
+		<!-- Confirm messages : -->
+		<m201 id="200" text="Are you sure you want to discard this item forever? You CANNOT undo this action!" />
+	</inventory>
+	
+	<clothing_shop id="108">
+		<m01 id="0" text="Clothing shop" />	<!-- This is the title of the Clothing shop. -->
+		<m02 id="1" text="Total" />		<!-- This is the text that indicates the total cost of the cart. -->
+		<m03 id="2" text="Sell" />		<!-- This is the first part of the label on the sell button. -->
+		<m04 id="3" text="Your stuff" />	<!-- This is the last part of the label on the sell button. -->
+		<m05 id="4" text="View cart" />		<!-- This is the title of the shoping cart. -->
+		<m06 id="5" text="Preview" />		<!-- This is the title of the preview column in the cart. -->
+		<m07 id="6" text="Name/Price" />	<!-- This is the title of the name/price column in the cart. -->
+		<m08 id="7" text="Remove" />		<!-- This is the title of the remove column in the cart. -->
+		<m09 id="8" text="Total" />		<!-- This is the text that indicates the total cost of the cart. -->
+		<m10 id="9" text="Your money" />	<!-- This is the text that indicates the amount of money you have. -->
+		<m11 id="10" text="Total :" />		<!-- This is the text that indicates the total value of the sell. -->
+		<m12 id="11" text="Check out" />	<!-- This is the title of the shoping bill. -->
+		<m13 id="12" text="View all" />		<!-- This is the title of the view all pannel. -->
+		
+		<!-- Error messages : -->
+		<m101 id="100" text="The Clothing Shop is not available right now... Please come back later." />
+		<m102 id="101" text="Oops! You can't afford this stuff. Come back when you have more Bear Bills!" />
+		<m103 id="102" text="Beary sorry. You do not have enough space in your “My Stuff”. You must delete or sell some of your stuff at the Bear Stuff store or Pawlette Coufur boutique to make room." />
+		<m104 id="103" text="ERROR during user stuff loading..." />
+		<m105 id="104" text="ERROR during shop loading..." />
+		<m106 id="105" text="You can't sell this item because it is currently in use." />
+		
+		<!-- Confirm messages : -->
+		<m201 id="200" text="Are you sure you want to buy " />
+		<m202 id="201" text="Are you sure you want to sell " />
+		<m203 id="202" text="this item " />
+		<m204 id="203" text="these items " />
+		<m205 id="204" text="for " />
+		<m206 id="205" text=" Bear Bills?" />
+	</clothing_shop>
+	
+	<general_store id="109">
+		<m01 id="0" text="General store" />	<!-- This is the title of the General store. -->
+		<m02 id="1" text="Total" />		<!-- This is the text that indicates the total cost of the cart. -->
+		<m03 id="2" text="Sell" />		<!-- This is the first part of the label on the sell button. -->
+		<m04 id="3" text="Your stuff" />	<!-- This is the last part of the label on the sell button. -->
+		<m05 id="4" text="View cart" />		<!-- This is the title of the shoping cart. -->
+		<m06 id="5" text="Preview" />		<!-- This is the title of the preview column in the cart. -->
+		<m07 id="6" text="Name/Price" />	<!-- This is the title of the name/price column in the cart. -->
+		<m08 id="7" text="Remove" />		<!-- This is the title of the remove column in the cart. -->
+		<m09 id="8" text="Total" />		<!-- This is the text that indicates the total cost of the cart. -->
+		<m10 id="9" text="Your money" />	<!-- This is the text that indicates the amount of money you have. -->
+		<m11 id="10" text="Total :" />		<!-- This is the text that indicates the total value of the sell. -->
+		<m12 id="11" text="Check out" />	<!-- This is the title of the shoping bill. -->
+		<m13 id="12" text="View all" />		<!-- This is the title of the view all pannel. -->
+		
+		<!-- Error messages : -->
+		<m101 id="100" text="The General Store is not available right now... Please come back later." />
+		<m102 id="101" text="Oops! You can't afford this stuff. Come back when you have more Bear Bills!" />
+		<m103 id="102" text="Beary sorry. You do not have enough space in your “My Stuff”. You must delete or sell some of your stuff at the Bear Stuff store or Pawlette Coufur boutique to make room." />
+		<m104 id="103" text="ERROR during user stuff loading..." />
+		<m105 id="104" text="ERROR during shop loading..." />
+		<m106 id="105" text="You can't sell this item because it is currently in use." />
+		
+		<m107 id="106" text="Oops! You don’t have enough Bear Bills to buy this item." />
+		
+		<!-- Confirm messages : -->
+		<m201 id="200" text="Are you sure you want to buy " />
+		<m202 id="201" text="Are you sure you want to sell " />
+		<m203 id="202" text="this item " />
+		<m204 id="203" text="these items " />
+		<m205 id="204" text="for " />
+		<m206 id="205" text=" Bear Bills?" />
+	</general_store>
+	
+	<badges id="110">
+		<!-- Title -->
+		<m00 id="0" text="Badges" />
+		
+		<!-- Skill names -->
+		<m01 id="1" text="Visual arts" />
+		<m01 id="2" text="Performing arts" />
+		<m01 id="3" text="Fashion" />
+		<m01 id="4" text="Recreation" />
+		<m01 id="5" text="Community" />
+		
+		<!-- Skill level titles -->
+		<m100 id="100" text="Pawtist Wannabe" />
+		<m101 id="101" text="Novice Pawtist" />
+		<m102 id="102" text="Creative Bear" />
+		<m103 id="103" text="Furperienced Pawtist" />
+		<m104 id="104" text="Pawcasso Bear" />
+		
+		<m105 id="105" text="Perfurmer Wannabe" />
+		<m106 id="106" text="Novice Perfurmer" />
+		<m107 id="107" text="Active Cub" />
+		<m108 id="108" text="Furperienced Perfurmer" />
+		<m109 id="109" text="Master Perfurmer" />
+		
+		<m110 id="110" text="Old Pawshioned Bear" />
+		<m111 id="111" text="Straight Pawshioned Bear" />
+		<m112 id="112" text="Styled Cub" />
+		<m113 id="113" text="Pawshion Model" />
+		<m114 id="114" text="Pawshion Designer" />
+		
+		<m115 id="115" text="Pawful Bear" />
+		<m116 id="116" text="Light-hearted Bear" />
+		<m117 id="117" text="Breezy Pawful Cub" />
+		<m118 id="118" text="Enfurtainement Accustom" />
+		<m119 id="119" text="Playground Freak" />
+		
+		<m120 id="120" text="Good Intention Bear" />
+		<m121 id="121" text="Good Will Bear" />
+		<m122 id="122" text="Reliable Cub" />
+		<m123 id="123" text="Leader Bear" />
+		<m124 id="124" text="Icon Cub" />
+	</badges>
+
+	<general id="111">
+		<m000 id="0" text="Are you sure you want to leave      Build-A-Bearville?" />
+		<m001 id="1" text="Accept" />
+		<m002 id="2" text="Continue" />
+		<m003 id="3" text="I'm Done" />
+		<m004 id="4" text="Back" />
+		<m005 id="5" text="Register me" />
+		<m006 id="6" text="OK" />
+		<m007 id="7" text="Yes" />
+		<m008 id="8" text="No" />
+		<m009 id="9" text="Click Here" />
+		<m010 id="10" text="Next" />
+		<m011 id="11" text="Done" />
+		<m012 id="12" text="Join" />
+		<m013 id="13" text="Leave" />
+		<m014 id="14" text="Play" />
+		<m015 id="15" text="Leave game" />
+		<m016 id="16" text="Quit" />
+		<m017 id="17" text="You are &lt;br /&gt;&lt;font size='12'&gt;here&lt;/font&gt;" /> 
+		<m018 id="18" text="Map" /> 
+		<m019 id="19" text="Quit quest" />
+		<m020 id="20" text="Beta feedback" />
+		<m021 id="21" text="Change den" />
+		<m022 id="22" text="Learn more" />
+		<m023 id="23" text="Refuse" />
+		<m024 id="24" text="New!" />
+		<m025 id="25" text="Please make a selection first!" />
+		<m026 id="26"	text="Lost connection to server. Press Ok to try again."/>
+	</general>
+
+	<haircut_store id="112">
+		<m01 id="0" text="Buy This" /> <!-- This is the label on the buy button. -->
+		
+		<!-- Error messages : -->
+		<m101 id="100" text="The Bee Stylin' Salon is not available right now... Please come back later." />
+		<m102 id="101" text="Oops! You can't afford this stuff. Come back when you have more Bear Bills!" />
+		<m105 id="102" text="ERROR during shop loading...\n\nStoredProc call failed!" />
+		
+		<!-- Confirm messages : -->
+		<m201 id="200" text="Are you sure you want to buy this item?" />
+		<m202 id="201" text="Your Bearbill$" />
+		<m203 id="202" text="This hairstyle will replace\nyour current hairstyle!" />
+		<m204 id="203" text="Accept" />
+	</haircut_store>
+
+	<help id="113">
+		<m00 id="0" text="BEARY IMPORTANT! Only report this player if they have done something wrong. This helps us keep Build-A-Bearville a safe place for everyone. Select an action from the menu and CyBearPatrol will look into your report." />
+	</help>
+	
+	<events id="114">
+		<!-- Spring Break Party : -->
+		<m000 id="0" text="Hi, ~n~.  Welcome to the EXCLUSIVE Celebrity Spring Break Party!  Do you have a web code to get EXCLUSIVE access to the beach?" />
+		<m001 id="1" text="Enter the web code found on your VIP Boarding Pass below:" />
+		<m002 id="2" text="You can get EXCLUSIVE access to the beach party with Lucas Grabeel from High School Musical FREE with a purchase at your local Build-A-Bear Workshop store now through Sunday, March 30 only!" />
+		<m003 id="3" text="Hi, ~n~.  Welcome to the beach! I'm Lucas Grabeel from High School Musical. Click here to get a cool prize!" />
+		<m004 id="4" text="You just received a poster for you Cub Condo. Check your &quot;My Stuff&quot;!" />
+		<m005 id="5" text="Thanks for hanging with me today. Now head to the beach to party! Just follow the path." />
+		<m006 id="6" text="Hi, ~n~.  Welcome back to the beach! I am Lucas Grabeel from High School Musical. (Click on me to continue.)" />
+		<m007 id="7" text="Hi, ~n~.  Welcome back to the party! It's an awesome day to hang at the beach. (Click on me to continue.)" />
+		<m008 id="8" text="Hi, ~n~.  Welcome back to the beach party! Check out the totally rad new games. (Click on me to continue.)" />
+		<m009 id="9" text="Hi, ~n~.  Welcome back to the beach! Play the sand castle game today - it's awesome! (Click on me to continue.)" />
+		<m010 id="10" text="Hi, ~n~.  Welcome back to the beach party! Find a friend and clean up the beach to earn lots of points! (Click on me to continue.)" />
+		<!-- Ted The Tailor : -->
+		<m011 id="11" text="Click here to get a beary special gift all the way from the UK!" />
+		<m012 id="12" text="You've just received a Union Jack tee from Ted the Tailor! Check your &quot;My Stuff&quot;. " />
+		<m013 id="13" text="Hi! I'm Ted The Tailor, tailor and friend to Pawlette Coufur and all the furry famous!" />
+		<m014 id="14" text="That outfit fits you smashingly!" />
+		<m015 id="15" text="What a bearilliant choice! That shirt looks pawsitively furbulous on you!" />
+		<m016 id="16" text="There are SO many fashion choices – and you made the pawfect one!" />
+		<m017 id="17" text="My home is in London, but I love it here in Build-A-Bearville!" />
+		<m018 id="18" text="A tailor's work is never done!" />
+		<m019 id="19" text="Snip a thread here, add a ribbon there, shine up those buttons and you have the pawfect outfit!" />
+		<m020 id="20" text="Looking for an all new wardrobe? You've come to the right place!" />
+		<m021 id="21" text="Add the finishing touch to any outfit with the pawfect accessory!" />
+		<m022 id="22" text="A smile makes any outfit look furbulous!" />
+		<!-- Plane message promotion : -->
+		<m023 id="23" text="Catch the exciting holiday adventures of Hal & Holly Moose, now playing in the Theater! " />
+		<!-- Cloe Rocks Gift : -->
+		<m024 id="24" text="Enjoy this pawsome Bunny Hop Move!" />
+		<!-- MamaBear June Gift : -->
+		<m025 id="25" text="You've just recieved a Bear Head Tote from Maxine, Chief Executive Bear! Check your &quot;My Stuff&quot;. " />
+		<!-- Beach Towel Memorial Day : -->
+		<m026 id="26" text="Click here to get a FREE summertime gift!" />
+		<m027 id="27" text="Hi, ~n~. Thanks for visiting Sunshine Shores! You just received lemonade! Check your &quot;My Stuff.&quot; " />
+		<!-- Bear Hugged event ( 8-ball bean bag chair) : -->
+		<m028 id="28" text="You've been bear hugged! You just received a 8-ball bean bag chair! Check your &quot;My Stuff.&quot;. " />
+		<!-- Summer Camp : -->
+		<m029 id="29" text="Happy Heart" />
+		<m030 id="30" text="Welcome to Camp ~c~! Would you like to register?" />
+		<m031 id="31" text="Pawsome! You're on the ~t~ and you've just received your team shirt. Check your &quot;My Stuff.&quot;/nNow when you play games you'll earn Bear Bills for yourself AND for your team. The team with the most Bear Bills at the end of the month will get a cool prize! Scores are updated daily, so check back to see your team's standings." />
+		<m032 id="32" text="That's ok! Come back later if you change your mind." />
+		<m033 id="33" text="Click to check your team's Camp ~c~ score!" />
+		<m034 id="34" text="WOW! Look at those scores!" />
+		<m035 id="35" text="Scoreboard" />
+		<m036 id="36" text="Team" />
+		<m037 id="37" text="Score" />
+		<m038 id="38" text="Scores are updated daily. Keep playing games to help boost your team's score! " />
+		<!-- Bearyme summer solstice free gift : -->
+		<m039 id="39" text="Hi, ~n~. You just received a Sunshine Tee! Check your &quot;My Stuff.&quot; and celeBEARate summer in style!" />
+		<!-- Cloe Rocks Gift : -->
+		<m040 id="40" text="You’ve just received a fireworks emoticon from ChloeRocks! Check your &quot;Emoticons.&quot; " />
+		<m041 id="41" text="Click to sign up for Camp ~c~." />
+		<m042 id="42" text="You've just recieved a Bear Head Flip Flops from Maxine, Chief Executive Bear! Check your &quot;My Stuff&quot;. " />
+		<m043 id="43" text="Cubgratulations!. You just recieved a Juggling Move! Check your &quot;Moves&quot;." />
+		<m044 id="44" text="Cubgratulations!. You just recieved Cotton Candy! Check your &quot;My Stuff&quot;." />
+		<!-- Bear Hugged event ( Carnival event) : -->
+		<m045 id="45" text="You've been bear hugged! You just received a Balloon! Check your &quot;My Stuff.&quot;! " />
+		<!-- MamaBear June Gift : -->
+		<m046 id="46" text="You've just recieved a Red Heart Sunglasses from Maxine, Chief Executive Bear! Check your &quot;My Stuff&quot;. " />
+		<!-- Cloe Rocks Gift : -->
+		<m047 id="47" text="You've just received a Bear University Pennant from ChloeRocks! Check your &quot;Emoticons.&quot; " />
+		<m048 id="48" text="You've just received a Book Strap from ChloeRocks! Check your &quot;My Stuff&quot;. " />
+		<m049 id="49" text="You've just received a Bear Head Watch from Maxine, Chief Executive Bear! Check your &quot;My Stuff&quot;. " />
+		<!-- Bearemy's Birthday : -->
+		<m050 id="50" text="Hi, ~n~. Thanks for celeBEARating my bearthday with me. You just received a Cupcake Hat. Check your &quot;My Stuff.&quot; Don’t furget to come back tomorrow!" />
+		<m051 id="51" text="Hi, ~n~. Thanks for celeBEARating my bearthday with me. You just received Birthday Balloons. Check your &quot;My Stuff.&quot; Don’t furget to come back tomorrow!" />
+		<m052 id="52" text="Hi, ~n~. Thanks for celeBEARating my bearthday with me. You just received a Happy Birthday Emoticon. Don’t furget to come back tomorrow!" />
+		<m053 id="53" text="Hi, ~n~. Thanks for celeBEARating my bearthday with me. You just received a Birthday Cake. Check your &quot;My Stuff.&quot; Don’t furget to come back tomorrow!" />
+		<m054 id="54" text="Hi, ~n~. Thanks for celeBEARating my bearthday with me. You just received a Cake Tee. Check your &quot;My Stuff.&quot; Don’t furget to come back tomorrow!" />
+		<m055 id="55" text="Hi, ~n~. Thanks for celeBEARating my bearthday with me. You just received a Happy Birthday Banner. Check your &quot;My Stuff.&quot; Don’t furget to come back tomorrow!" />
+		<m056 id="56" text="Hi, ~n~. Thanks for celeBEARating my bearthday with me. You just received a Happy Birthday Move." />
+		<!-- NGK Magazine : -->
+		<m057 id="57" text="Great job! You just received a special gift. Check your “My Stuff. Don't furget to read the next issue of Paws Fur Nature next month." />
+		<m058 id="58" text="Cubgratulations! You just received Paws Fur Nature magazine! You can keep it in your “My Stuff” or your Cub Condo house and just click to read it." />
+		<!-- Diva Event : -->
+		<m059 id="59" text="You rock!" />
+		<m060 id="60" text="Dancing is pawsome!" />
+		<m061 id="61" text="What a great dance!" />
+		<m062 id="62" text="You’re a furbulous dancer!" />
+		<m063 id="63" text="You rock! Check back next week for a cool new gift!" />
+		<m064 id="64" text="Dancing is so much fun! " />
+		<m065 id="65" text="You’ve just received a Rockin’ Dance Move! Check your &quot;Moves.&quot; " />
+		<m066 id="66" text="You’ve just received a Feather Boa! Check your &quot;My Stuff.&quot;" />
+		<m067 id="67" text="You’ve just received a Microphone Headset! Check your &quot;My Stuff.&quot;" />
+		<m068 id="68" text="You’ve just received a Rockin’ Outfit! Check your &quot;My Stuff.&quot; " />
+		<!-- Cloe Rocks Ocotober Gift : -->
+		<m069 id="69" text="You’ve just received a Hallowe'en themed flag from ChloeRocks! Check your &quot;Emoticons.&quot; " />
+		<!-- MamaBear October Gift : -->
+		<m070 id="70" text="You've just recieved a Bear Paw Visor from Maxine, Chief Executive Bear! Check your &quot;My Stuff&quot;. " />
+		<!-- Bearemy's gift - Columbus day : -->
+		<m071 id="71" text="Hi, ~n~. Happy Columbus Day! You just received a Columbus Hat. Check your &quot;My Stuff.&quot;" />
+		<m072 id="72" text="You’ve just received a Jack O'Lantern Tee! Check your &quot;My Stuff.&quot;" />
+		<!-- Hopeful Wishes Event -->
+		<m073 id="73" text="Click here to get a pawsome FREE gift!" />
+		<m074 id="74" text="Hi, ~n~. You just received a Pink Ribbon Tee. Check your &quot;My Stuff&quot; and show your support for breast cancer awareness." />
+		<m075 id="75" text="You can make me, Hopeful Wishes Teddy® II at your local Build-A-Bear Workshop store starting October 1. Check the Bearville Times for details." />
+		<m076 id="76" text="You've just recieved a Heart Shaped Tote from Maxine, Chief Executive Bear! Check your &quot;My Stuff&quot;. " />
+		<m077 id="77" text="You've just received a Turkey Hat from ChloeRocks! Check your &quot;My Stuff&quot;. " />
+		<m078 id="78" text="You've been bear hugged! You just received a potted poppy plant! Check your &quot;My Stuff&quot;. " />
+		<m079 id="79" text="Hi, ~n~. You just received Turkey Feet Shoes. Check your &quot;My Stuff.&quot; " />
+		<m080 id="80" text="You can make me, Turkey, at your local Build-A-Bear Workshop store. Check the Bearville Times for details. " />
+		
+	</events>
+	
+	<condo_rooms id="116">
+		<m01 id="0" text="Kitchen"/>
+		<m02 id="1" text="Bedroom"/>
+		<m03 id="2" text="Rooftop" />
+		<m04 id="3" text="Backyard" />
+		<m05 id="4" text="Patio" />
+		<m06 id="5" text="Dorm Room" />
+	</condo_rooms>
+	
+	<planet id="200">
+		<m01 id="1" text="This game feature requires a furry friend to access it. Please visit the virtual Build-A-Bear Workshop store in Town Square to find out how to bring a furry friend along to play with you." />
+	</planet>
+	
+	<planetName id="210">
+		<m01 id="1" text="Bear University®" />
+		<m02 id="2" text="Sportsplex" />
+		<m03 id="3" text="Neighborhood" />
+		<m04 id="4" text="Pawforming Arts Center" />
+		<m05 id="5" text="Town Square" />
+		<m06 id="6" text="Build-A-Bear Workshop®" />
+		<m07 id="7" text="Bear Stuff® store" />
+		<m08 id="8" text="Paw Park" />
+		<m09 id="9" text="Furbulous Fashion District" />
+		<m10 id="10" text="Pawlette Coufur® boutique" />
+		<m11 id="11" text="Skate Park" />
+		<m12 id="12" text="Friendship Forest Park" />
+		<m13 id="13" text="Libeary®" />
+		<m14 id="14" text="Classroom" />
+		<m15 id="15" text="Entrance" />
+		<m16 id="16" text="Sportsplex" />
+		<m17 id="17" text="Sportsplex" />
+		<m18 id="18" text="Coffee Shop" />
+		<m19 id="19" text="Path" />
+		<m20 id="20" text="Farm" />
+		<m21 id="21" text="Cave" />
+		<m22 id="22" text="Meadow" />
+		<m23 id="23" text="Pawforming Arts Center" />
+		<m24 id="24" text="Great Pyramid" />
+		<m25 id="25" text="Great Pyramid interior" />
+		<m26 id="26" text="Jungle Ruins" />
+		<m27 id="27" text="Cave of the Wonders" />
+		<m28 id="28" text="Great Pyramid" />
+		<m29 id="29" text="Great Pyramid interior" />
+		<m30 id="30" text="Bee Stylin' Salon" />
+		<m31 id="31" text="Friendship Forest" />
+		<m32 id="32" text="Sunshine Shores Cave" />
+		<m33 id="33" text="Sunshine Shores" />
+		<m34 id="34" text="Pawsitively Green &#8482; Center" />
+		<m35 id="35" text="Bear Boutique" />
+		<m36 id="36" text="Market Place" />
+		<m37 id="37" text="The Chloe Show" />
+		<m38 id="38" text="Top Secret Coffee Shop" />
+		<m38 id="39" text="Tree House Forest" />
+		<m39 id="40" text="Barn" />
+		<m40 id="41" text="Kooky Spooky Photo Album" />
+		<m40 id="42" text="Theater" />
+	</planetName>
+	
+	<photoBooth id="220">	
+		<m0 id="0" text="None" />
+		<m1 id="1" text="Beary cool!" />
+		<m2 id="2" text="Best Friends" />
+		<m3 id="3" text="Furry Friends Furever!" />
+		<m4 id="4" text="Furshionista" />
+		<m5 id="5" text="Furbulous!" />
+		<m6 id="6" text="Fun in Build-A-Bearville" />
+		<m6 id="7" text="Pawsome style!" />
+	</photoBooth>
+	
+	
+	<clans id="250">		
+		<m000 id="0" text="Rockin’ Red Team" />
+		<m001 id="1" text="Beary Blue Team" />
+		<m002 id="2" text="Groovy Green Team" />
+		<m003 id="3" text="Yummy Yellow Team" />
+	</clans>
+	
+	<minigames id="300">
+		<!-- Hud parameters -->
+		<m000 id="0" text="Attempts" />
+		<m001 id="1" text="Power" />
+		<m002 id="2" text="Points" />
+		<m003 id="3" text="Mph" />
+		<m004 id="4" text="Goals" />
+		<m005 id="5" text="Score" />
+		<m006 id="6" text="Time" />
+		<m007 id="7" text="Quick-o-meter" />
+		<m008 id="8" text="Sequence #" />
+		<m009 id="9" text="Target" />
+		<m010 id="10" text="Groovy" />
+		<m011 id="11" text="Apples" />
+		<m012 id="12" text="Level" />
+		<m013 id="13" text="Well-being" />
+		<m014 id="14" text="Vocals" />
+		<m015 id="15" text="Organ" />
+		<m016 id="16" text="Piano" />
+		<m017 id="17" text="Guitar" />
+		<m018 id="18" text="Bass" />
+		<m019 id="19" text="Drums" />
+		<m020 id="20" text="Remove" />
+		<m021 id="21" text="Print" />
+		<m022 id="22" text="Preview" />
+		<m023 id="23" text="Restart" />
+		<m024 id="24" text="Hugs" />
+		<m025 id="25" text="Bounces" />
+		<m026 id="26" text="Box" />
+		<m027 id="27" text="Items" />
+		<m028 id="28" text="Skates" />
+		<m029 id="29" text="Glue" />
+		<m030 id="30" text="Pictures" />
+		<m031 id="31" text="Pie" />
+		<m032 id="32" text="Pies eaten" />
+		<m033 id="33" text="Opponent" />
+		<m034 id="34" text="Equations left" />
+		<m035 id="35" text="Ok" />
+		<m036 id="36" text="Health" />
+		<m037 id="37" text="Ball left" />
+		
+		<!-- Popup messages -->
+		<m100 id="100" text="High Scores" />
+		<m101 id="101" text="Rank" />
+		<m102 id="102" text="Nickname" />
+		<m103 id="103" text="Score" />
+		<m104 id="104" text="Instructions" />
+		<m105 id="105" text="Hooray!" />
+		<m106 id="106" text="Absolutely Furbulous!" />
+		<m107 id="107" text="Oh well" />
+		<m108 id="108" text="That wasn't so bad!" />
+		<m109 id="109" text="You did pretty well but you can try again to get a better score!" />
+		<m110 id="110" text="Back" />
+		<m111 id="111" text="Quit" />
+		<m112 id="112" text="Play!" />
+		<m113 id="113" text="Play again" />
+		<m114 id="114" text="Challenge yourself with a harder Mode" />
+		<m115 id="115" text="Easy" />
+		<m116 id="116" text="Normal" />
+		<m117 id="117" text="Hard" />
+		<m118 id="118" text="Objective reached!!" />
+		<m119 id="119" text="Go on to" />
+		<m120 id="120" text="level" />
+		<m121 id="121" text="Minigame" />
+		<m122 id="122" text="Kick-It-Quick" />
+		<m123 id="123" text="Find out how quick you are in this pawsome challenge." />
+		<m124 id="124" text="Bearrific Drummers" />
+		<m125 id="125" text="Bears got the beat!" />
+		<m126 id="126" text="Shake Your Honey" />
+		<m127 id="127" text="Get your groove on by pressing the arrow keys on your keyboard to match the arrows moving up your screen." />
+		<m128 id="128" text="Bobbing Fur Apples" />
+		<m129 id="129" text="Have good ol' fashioned fun with this classic game." />
+		<m130 id="130" text="Canine Care" />
+		<m131 id="131" text="Give Waggly Puppy some tender loving care by clicking on the different “Care Keys”: feeding, grooming and playing." />
+		<m132 id="132" text="DJ Furbulous" />
+		<m133 id="133" text="Spin hits like a furbulous DJ!" />
+		<m134 id="134" text="Pawsome Painting" />
+		<m135 id="135" text="This is the pawfect activity for a beary creative bear!" />
+		<m136 id="136" text="Furshionista Dress Up" />
+		<m137 id="137" text="Your furry friend will be a furshionista trying on the latest Build-A-Bear Workshop® fashions!" />
+		<m138 id="138" text="Bear Hugs" />
+		<m139 id="139" text="Click on the bears bouncing in and out of stuffing to earn points." />
+		<m140 id="140" text="Fast Paw" />
+		<m141 id="141" text="Using your mouse, move the paw to juggle the soccer ball in the air." />
+		<m142 id="142" text="Bears and Pairs" />
+		<m143 id="143" text="Test your memory by matching each pair of items on the board." />
+		<m144 id="144" text="Run Fur the Stuffing" />
+		<m145 id="145" text="Use your arrow keys to catch the falling stuff with your bin." />
+		<m146 id="146" text="Friendship Forest Photo Safari" />
+		<m147 id="147" text="Are you quick with a camera?" />
+		<m148 id="148" text="Pie Eating Contest" />
+		<m149 id="149" text="Is your furry friend feeling hungry?" />
+		<m150 id="150" text="Fast & Furbulous Shapes" />
+		<m151 id="151" text="Just when you thought math couldn't be fun - equations took on a new shape!" />
+		<m152 id="152" text="Dive Beary Deep" />
+		<m153 id="153" text="Splash into an underwater adventure!" />
+		<m154 id="154" text="Words Fur the Birds" />
+		<m155 id="155" text="Your furry friend needs your help to stay dry!" />
+		<m156 id="156" text="Bear-2-Bear Racing" />
+		<m157 id="157" text="Hop into a speeding race car and drive to be the first one to cross the finish line!" />
+		<m158 id="158" text="Bear-2-Bear Baseball" />
+		<m159 id="159" text="Take aim and time your hit carefully to score a double, triple, or even a home run!" />
+		<m160 id="160" text="Bear-2-Bear Soccer" />
+		<m161 id="161" text="It's striker vs. goalie in this one-on-one soccer match-up!" />
+		<m162 id="162" text="Furbulous Flyer Golf" />
+		<m163 id="163" text="Honey Zone Skateboarding" />
+		<m164 id="164" text="Get some air and earn some Bear Bills in this gnarly skateboarding game!" />
+		<m165 id="165" text="Trick Chart" />
+		<m166 id="166" text="Bear-2-Bear Balloon Toss" />
+		<m167 id="167" text="Beach Comber" />
+		<m168 id="168" text="Comb the beach and be the first to find all 10 seashells hidden in the sand! ~n~nClick a square and use your shovel to dig in the sand. When you find a seashell, click on it with your mouse and drag it into your cart. If you're the first to collect all 10 seashells, you win!~n~nTip: Try different search patterns to locate the seashells faster." />
+		<m169 id="169" text="Pawsitively Green &#8482; Recycling Game" />
+		<m170 id="170" text="Recycling is fun! Help sort recyclable items into the right bins before time runs out." />
+		<m171 id="171" text="Make Your Own Mother's Day Card" />		
+		<m172 id="172" text="Make the pawfect card for Mom!" />
+		<m173 id="173" text="Bear-2-Bear Tug-A-Hug" />
+		<m174 id="174" text="Beary Good Aim" />
+		<m175 id="175" text="Can you hit the moving targets?" />
+		<m176 id="176" text="Rockin’ Ring Toss" />
+		<m177 id="177" text="Use the pawfect amount of power in this pawsome ring toss game!" />
+		<m178 id="178" text="Bottle Towers" />
+		<m179 id="179" text="Throw beary carefully to knock down the most bottles!" />
+		<m180 id="180" text="Furtastic Fountain" />
+		<m181 id="181" text="Toss coins into the fountain and get a special prize!" />
+		
+	
+		<!-- Instructions -->
+		<m200 id="200" text="Batter up! Take aim to score points. First, click to aim where you'd like to hit. Then, hold down the mouse button and simply release to set the power of your swing.\nTip: pay attention to the wind direction and speed and use it to your advantage." />
+		<m201 id="201" text="It's striker vs. goalie in this Bear-2-Bear soccer match-up! When it's your turn to play goalie, try to anticipate where your opponent will kick the ball. As a striker, try to place the ball where the goalie will least expect it!\nTip: be beary patient and keep the goalie guessing." />
+		<m202 id="202" text="Find out how quick you are in this pawsome challenge. Use your arrow keys and space bar to keep the sack in the air as long as possible.\n\nDown: Middle Kick\nUp: Head Interception\nRight/Left: Knee Kick\nDown + Left/Right: Long Kick\nSpace + Left/Right: Backwards Kick\n\nTip: see how many combinations you can put together to earn bonus points!" />
+		<m203 id="203" text="Bears got the beat! These musical friends will challenge you to follow their drumming patterns. Listen beary carefully and then repeat the pattern by clicking on each animal in the correct order." />
+		<m204 id="204" text="Get your groove on by pressing the arrow keys on your keyboard to match the arrows moving up your screen. Try to time each key press when the arrow reaches the top of the screen. Some dance moves require combinations of keys to be pressed at the same time. Earn more points by dancing on cue to the moving arrows - the more accurate you are in matching the arrows, the more points you'll earn!" />
+		<m205 id="205" text="Have good ol' fashioned fun with this classic game. Use your mouse to “bite” the red apples. Watch out for brown apples with worms, bite them and lose points!\nTip: earn BONUS points by eating the golden apples." />
+		<m206 id="206" text="Give Waggly Puppy some tender loving care by clicking on the different ''Care Keys'': feeding, grooming and playing. Click as many Care Keys you can within the time limit to keep Waggly Puppy beary happy and healthy.\nTip: mix it up! The best way to keep Waggly Puppy happy is to give him a balance of each type of care." />
+		<m207 id="207" text="Spin hits like a furbulous DJ! First, click a record to choose a song. Next, use the sliders to adjust the vocals, organ, guitar, bass and drums. Kick back, listen and enjoy your pawsome song!" />
+		<m208 id="208" text="This is the pawfect activity for a beary creative bear! First, choose a background to paint. Next, create a unique picture by dragging images onto the coloring canvas. Finally, paint your pawsome picture by using the color palette and paint brush.\nTip: you can print your pictures to share with family & friends!" />
+		<m209 id="209" text="Your furry friend will be a furshionista trying on the latest Build-A-Bear Workshop® fashions!\nDress your real furry friend in these styles available at your local Build-A-Bear Workshop® store or www.buildabear.com.\n(product availability may vary by store)" />
+		<m210 id="210" text="Click on the bears bouncing in and out of stuffing to earn points. If you earn enough points within the time limit you will go to the next level.\nTip: in level 2 and above, click on bears wearing crowns to earn bonus points, but watch out for bears wearing masks– you'll lose points if you click on them!" />
+		<m211 id="211" text="Using your mouse, move the paw to juggle the soccer ball in the air.  The longer you go, the more points you'll earn!\nTip: try to keep the soccer ball in control, centered above the paw." />
+		<m212 id="212" text="Test your memory by matching each pair of items on the board. Every turn counts, so the less turns you need, the more points you'll earn!" />
+		<m213 id="213" text="Use your arrow keys to catch the falling stuff with your bin.  As soon as your bin fills up, run to the Cub Condo® to empty it. Try to collect as many things as you can within the time limit to go to the next level.\n\nTo catch or not to catch?" />
+		<m214 id="214" text="Are you quick with a camera? There are some beary fast creatures in the Friendship Forest and you only have 12 photos to take. Be beary patient and make each photo count!\nTip: smaller and faster animals are worth more points." />
+		<m215 id="215" text="Step right up for this pie eating challenge to see who can eat 5 pies the fastest! To eat each pie, rapidly tap the keys on your key board that match the letters shown on the screen.\nTip: the keys for each pie are usually different." />
+		<m216 id="216" text="Just when you thought math couldn't be fun –- equations took on a new shape! Drag and drop the shapes to complete the equation. Look out – you might just get hooked!\nTip: focus on each part of the equation." />
+		<m217 id="217" text="Splash into an underwater adventure! Use the arrow keys to guide your furry friend on a deep sea dive to collect the green bear heads and take on many other exciting challenges along the way.\nBe beary careful and watch out for:" />
+		<m218 id="218" text="Your furry friend needs your help to stay dry! Select the letters from the bottom of the screen to try to solve each word puzzle. Each time you select a letter that is not in the puzzle, a bird will fly away, lowering the see saw closer to the water. Solve the puzzle before all of the birds fly away and your furry friend gets wet!\nTip: try the vowels first." />
+		<m219 id="219" text="Do you feel the need for speed? Find a friend, hop into your race cars and use the arrow keys to be the beary first to speed across the finish line! Use the UP arrow to accelerate, the DOWN arrow to reverse. Imagine you're in the driver's seat and use the LEFT & RIGHT arrows to turn. \nTip: look for shortcuts on the track."/>
+		<m220 id="220" text="Power" />
+		<m221 id="221" text="Aim" />
+		<m222 id="222" text="Kick" />
+		<m223 id="223" text="Hit" />
+		<m224 id="224" text="Grab a flyer and play a round of Furbulous Flyer Golf!\n\nFirst, head to the starting point in town: you can always open your map to see where it is.\n\nOnce you're at the start, click to aim your flyer in the direction of the target. Then, click to set the power of your throw. Try to hit the center of the target. The closer you are, the more points you will score!\n\n\nTip: Use only as much power as you need to hit the target - don't overthrow your flyer!" />
+		<m225 id="225" text="Once this game starts, run and hide! It sounds simple, and it is – BUT, don't be fooled! Everyone in this game is trying to tag YOU before you can tag THEM. Friendship forest provides a wealth of hiding places, but staying in one place for too long may cause you to miss most of the action. Try to mix it up with some hiding AND some #ing!" />
+		<m226 id="226" text="Slow down, take a break and enjoy some fishing. You never know what you'll catch!\n\nHow to Play:\nFirst, make sure you've purchased a fishing pole from the Bear Stuff store. Stand near the pond and click the CAST button. Watch the bobber carefully. When a fish takes the hook, it will pull the bobber left or right. Quickly click on the bobber before the fish gets away!\n\nOnce you've caught a fish (or maybe something else!), you can put it in your fishing bag. You can view the contents of your fishing bag by clicking the BAG button. You can also sell the contents of your fishing bag by clicking on the Gone Fishing kiosk (near the pond). Remember to sell your fish before you leave the pond area.\n\nTip:\nSome fish rarer (and worth more Bear Bills) than others." />
+		<m227 id="227" text="Match wits with your computer! Can you find more matching pairs than the computer?" />
+		<m228 id="228" text="Take turns with another player to see who can find the most pairs. Watch your opponent's moves carefully to find matches with tiles you've already seen." />
+		<m229 id="229" text="Go beary fast and try to do as many tricks as you can within the time limit to maximize your Trick Meter.\n\nPress the spacebar to begin. To gain extra speed, press the spacebar when your furry friend is in the &quot;honey zone&quot;. To perform a trick, check out the trick chart for totally pawsome combinations. You will gain extra points for each trick you do, plus, it will increase your Trick Meter.\n\nTip: Practice makes pawfect! You can test your skills in freestyle mode before you try the timed challenge mode." />
+		<m230 id="230" text="Kick grab: Up arrow\nJammin' air: Left arrow\nTailgrab: Down arrow\nCannonball: Right arrow\nBackflip + 360º: Up + left arrows\nTriple kick flip: Up + right arrows\nRocket air: Down + left arrows\nAirwalk: Down + right arrows" />
+		<m231 id="231" text="Turn" />
+		<m232 id="232" text="To launch a water balloon, follow these easy steps:\n1.Click and drag on your water balloon launcher to aim higher or lower.\n2.Click 1, 2 or 3 times on the foot pump to fill your balloon with water. Each click makes a bigger balloon, but also uses up your supply of water faster.\n3.Click once on your furry friend to start the power meter, and then click one more time to stop it when the power meter reaches the arrows.\nAim for your friend's sand castle. Each time you launch a balloon, you can adjust the aim of your launcher to get the perfect trajectory." />
+		<m233 id="233" text="Tip: Use smaller balloons at first to get your aim just right. Then switch to bigger balloons for maximum effect! But remember, bigger balloons use up your water supply faster." />
+		<m234 id="234" text="Drag the recyclable items from the conveyor belt into the right bins as quickly as you can. There is a bin for each type of item: plastic, paper, metal or glass. The conveyor belt will gradually pick up speed, so try to stay ahead!" />
+		<m235 id="235" text="Make the pawfect card for Mom! First, choose a background. Next, create your unique card by dragging images & messages onto the card. Finally, paint it using the color wheel and paint brush. Print your card & give it to Mom as a beary special Mother's Day surprise! Tip: don't furget to sign your card!" />
+		<m236 id="236" text="Click on the bear paws above your team of furry friends to help them pull on the rope. Don't let the paws fade away or you might end up in the water!" />
+		<m237 id="237" text="You need to pay 5 Bear Bills to play this game. Would you like to play?" />
+		<m238 id="238" text="Can you hit the moving targets?\n\nUse your mouse to aim and click to fire a ball. You have 10 balls to fire, so try to knock down as many targets as you can!\n\nTip: Aim a little bit ahead of the targets - to improve your timing." />
+		<m239 id="239" text="Use the pawfect amount of power in this pawsome ring toss game!\n\nWatch the arrow as it moves back and forth at the bottom of your screen. When it’s in the pawfect place, click and hold your mouse button. Release it to set the power of your throw. You have 3 rings to toss - try to get them all!\n\nTip: Practice makes pawfect! Try different power levels to get rings around the different poles." />
+		<m240 id="240" text="Throw beary carefully to knock down the most bottles!\n\nWatch the arrow as it moves back and forth at the bottom of your screen. When it’s pointed towards the bottles, click and hold your mouse button. Release it to set the power of your throw. You have 3 balls to toss so try to knock down as many bottles as you can!\n\nTip: Try to use the right amount of power to hit the bottles in the center of the stack. You might knock all three down in one throw!" />
+		<m241 id="241" text="Move your mouse to aim then click to toss a coin. Try to hit the targets to get a pawsome prize. You have 3 coins to throw each day.~n~~n~Tip: Visit everyday - you never know what prize you'll get!" />
+		<m242 id="242" text="Cubgratulations! You won a pawsome prize! Don't forget to play again tomorrow!" />
+		<m243 id="243" text="Cubgratulations! You won a pawsome prize! Don't forget to play again tomorrow!" />
+		<m244 id="244" text="You've already played this game today! Come back tomorrow to play again." />
+		
+		<!-- Custom messages -->
+		<m300 id="300" text="Points!" />
+		<m301 id="301" text="Please wait while the other player bats." />
+		<m302 id="302" text="Your turn" />
+		<m303 id="303" text="Waiting for the kicker to be ready" />
+		<m304 id="304" text="Waiting for the goalie to be ready" />
+		<m305 id="305" text="You didn't shoot hard enough !" />
+		<m306 id="306" text="The opponent didn't shoot hard enough !" />
+		<m307 id="307" text="Select a tune" />
+		<m308 id="308" text="to start dancing!" />
+		<m309 id="309" text="Loading song" />
+		<m310 id="310" text="Perfect" />
+		<m311 id="311" text="Great" />
+		<m312 id="312" text="Good" />
+		<m313 id="313" text="Okay" />
+		<m314 id="314" text="Boo" />
+		<m315 id="315" text="Miss" />
+		<m316 id="316" text="Background" />
+		<m317 id="317" text="Choose the background you want to draw on." />
+		<m318 id="318" text="Loading animals" />
+		<m319 id="319" text="Pick a picture" />
+		<m320 id="320" text="Rewards" />
+		<m321 id="321" text="Slow" />
+		<m322 id="322" text="Fast" />
+		<m323 id="323" text="Good job!" />
+		<m324 id="324" text="Wrong answer" />
+		<m325 id="325" text="A bear can turn a frown upside down" />
+		<m326 id="326" text="A bear hug is understood in any language" />
+		<m327 id="327" text="A bear hug is worth a thousand words" />
+		<m328 id="328" text="A day without a hug would be hard to bear" />
+		<m329 id="329" text="A smile is meant for sharing - pass it on" />
+		<m330 id="330" text="A stitch in time saves patches" />
+		<m331 id="331" text="A teddy is a present you give yourself" />
+		<m332 id="332" text="Always BEARlieve in yourself! You can do it!" />
+		<m333 id="333" text="Be kind. Be true. Bee honey." />
+		<m334 id="334" text="Be pawsitive" />
+		<m335 id="335" text="Be the bearer of good news" />
+		<m336 id="336" text="Bear friendship is always in style" />
+		<m337 id="337" text="Bear hugs" />
+		<m338 id="338" text="Bear in mind: always be kind" />
+		<m339 id="339" text="Bear your heart" />
+		<m340 id="340" text="Bears around the world" />
+		<m341 id="341" text="Bears make the world go round" />
+		<m342 id="342" text="Bears teach you to love one hug at a time" />
+		<m343 id="343" text="Beauty is in the eye of the bearholder" />
+		<m344 id="344" text="Don't judge a bee by its buzz" />
+		<m345 id="345" text="Don't worry - be furry" />
+		<m346 id="346" text="Every bear smiles in the same language" />
+		<m347 id="347" text="Friendship is a gift fur all seasons" />
+		<m348 id="348" text="Friendship is like honey - it's golden" />
+		<m349 id="349" text="Furbulous" />
+		<m350 id="350" text="Furry friend" />
+		<m351 id="351" text="Honey is meant to be gulped, not sipped" />
+		<m352 id="352" text="Honey tastes sweeter when you share it with a friend" />
+		<m353 id="353" text="Hugs are beary essential" />
+		<m354 id="354" text="Hugs from the heart make a good friendship start" />
+		<m355 id="355" text="I never met a teddy I didn't like" />
+		<m356 id="356" text="It takes a village to raise a bear" />
+		<m357 id="357" text="It's never too late to have a happy childhood" />
+		<m358 id="358" text="It's okay to let your stuffing show" />
+		<m359 id="359" text="Just hug" />
+		<m360 id="360" text="Lend a paw to a friend in need" />
+		<m361 id="361" text="Like honey, bears and friends stick together" />
+		<m362 id="362" text="Magic bear world" />
+		<m363 id="363" text="Never bear a grudge" />
+		<m364 id="364" text="Never leave home without your honey" />
+		<m365 id="365" text="No buddy is better than a bear buddy" />
+		<m366 id="366" text="Nothing tops a bear hug - it's the bees knees" />
+		<m367 id="367" text="One bear can change the world" />
+		<m368 id="368" text="One bear is fun, two bears are a pawty" />
+		<m369 id="369" text="Paws to remembear your true friends" />
+		<m370 id="370" text="Pawsome" />
+		<m371 id="371" text="Reach fur the stars" />
+		<m372 id="372" text="Remember your first teddy" />
+		<m373 id="373" text="Share the good stuff" />
+		<m374 id="374" text="Take time to paws" />
+		<m375 id="375" text="Take time to taste the honey" />
+		<m376 id="376" text="Teddy bear heart" />
+		<m377 id="377" text="The beary best part of a hug is you" />
+		<m378 id="378" text="The fur may fade but friendship lasts furever" />
+		<m379 id="379" text="There is no friend like an old friend" />
+		<m380 id="380" text="True friends always paws to listen" />
+		<m381 id="381" text="True friends share stuff" />
+		<m382 id="382" text="When friends hug, hearts warm" />
+		<m383 id="383" text="When some teddy loves you, you're someone special" />
+		<m384 id="384" text="You aren't born a bear, you become a bear" />
+		<m385 id="385" text="Homerun!" />
+		<m386 id="386" text="Foul ball!" />
+		<m387 id="387" text="Time up!" />
+		<m388 id="388" text="Are you sure you want to delete your drawing?" />
+		<m389 id="389" text="Challenge yourself! Try starting the game at a higher level." />
+		<m390 id="390" text="Choose a Border for your card" />
+		<m391 id="391" text="Teddy Bear" />
+		<m392 id="392" text="Cub Condo" />
+		<m393 id="393" text="Cheerleader" />
+		<m394 id="394" text="Bearemy" />
+		<m395 id="395" text="Town Square" />
+		<m396 id="396" text="Friendship Forest" />
+		<m397 id="397" text="Bear Boutique" />
+		<m398 id="398" text="Bear University" />
+		<m399 id="399" text="Sportsplex" />
+		<m3100 id="3100" text="Neighborhood" />
+		<m3101 id="3101" text="Paw Park" />
+		<m3102 id="3102" text="Sunshine Shores" />
+		<m3103 id="3103" text="Farm" />
+		<m3104 id="3104" text="Bearville Times" />
+		<m3105 id="3105" text="ChloeRocks" />
+		<m3106 id="3106" text="Classroom" />
+		<m3107 id="3107" text="Bear Stuff Store" />
+		<m3108 id="3108" text="Coffee Shop" />
+		<m3109 id="3109" text="Furry Funnies" />
+		<m3110 id="3110" text="The Chloe Show" />
+		<m3111 id="3111" text="Pawlette Coufur Boutique" />
+		<m3112 id="3112" text="Pawforming Arts Center" />
+		<m3113 id="3113" text="Build-a-bear Workshop" />
+		<m3114 id="3114" text="Build-a-bearville" />
+		<m3115 id="3115" text="Friends are furever" />
+		<m3116 id="3116" text="Where best friends are made" />
+		<m3117 id="3117" text="Jr. Cybearguides Headquarters" />
+		<m3118 id="3118" text="Bearville News Network" />
+		<m3119 id="3119" text="Bee Stylin' Salon" />
+		<m3120 id="3120" text="Ted The Tailor" />
+		<m3121 id="3121" text="A world stuffed with fun" />
+		<m3122 id="3122" text="Chief Executive Bear" />
+		<m3123 id="3123" text="Practice makes perfect" />
+		<m3124 id="3124" text="Let your heart sing" />
+		<m3125 id="3125" text="Stuffed with hugs" />
+		<m3126 id="3126" text="Imagination is a terrible thing to waste" />
+		<m3127 id="3127" text="A smile is worth a thousand words" />
+		<m3128 id="3128" text="The best things in life are furry" />
+		<m3129 id="3129" text="One good turn deserves another" />
+		<m3130 id="3130" text="Laughter is the best medicine" />
+		<m3131 id="3131" text="Time flies when you're having furry fun" />
+		<m3132 id="3132" text="Pawsitively Green Recycling Center" />
+
+		<!-- End messages -->
+		<m500 id="500" text="Pawsome Job!" />
+		<m501 id="501" text="You're Bearrific®!" />
+		<m502 id="502" text="Cubgratulations™! You reached a new level." />
+		<m503 id="503" text="Furbulous!" />
+		<m504 id="504" text="Pawsitively great!" />
+		<m505 id="505" text="Bearilliant!" />
+		<m510 id="510" text="Beary sorry, you didn't earn enough points to go to the next level." />
+		<m511 id="511" text="Good try!" />
+		<m512 id="512" text="Try again!" />
+		<m513 id="513" text="Beary good try. Play again!" />
+		<m514 id="514" text="Beary sorry, you didn't earn enough points to go to the next level. Try again!" />
+		<m515 id="515" text="Beary sorry, you didn't earn enough points. Try again!" />
+		
+		<!-- Hide and Seek -->
+		<m600 id="600" text="Game ~g~ joined!" /> <!-- g is the game joined -->
+		<m601 id="601" text="No game joined!" />
+		<m602 id="602" text="Starting in" />
+		<m603 id="603" text="Players" />
+		<m604 id="604" text="Instructions" />
+		<m605 id="605" text="Summary" />
+		<m606 id="606" text="Rank" />
+		<m607 id="607" text="Nickname" />
+		<m608 id="608" text="Tagged" />
+		<m609 id="609" text="Score" />
+		<m610 id="610" text="Are you sure you want to stop playing ?" />
+		<m611 id="611" text="The game is now over.\nIf you want to play again,\nhead back to the Hide And Seek kiosk." />
+		<m612 id="612" text="You are now signed up to \n play Hide n' Seek!\n\n\n\n\nRun away as fast as you can. When the game starts, check your Targets List and start Tagging other players!" />
+		<m613 id="613" text="This game starts in:" />
+		<m614 id="614" text="The game you joined cannot start because you are the only player registred.\n\nTry to join another game!" />
+		<m615 id="615" text="Oops! The game you chose is already full.\n\nPlease join a different game." />
+		<m616 id="616" text="Tag" />
+		<m617 id="617" text="Hide & Seek is a pawsome multi-player game. Once you enter the game, run and hide. A buzzer will sound meaning it's time to seek and tag! The goal is to be the first player to tag everyone before time runs out. Every player is trying to tag YOU before you can tag THEM.\n\nClick Bearemy® to see how much time is remaining in the game and to view your “Tag” list, which will show all active players." />
+		<m618 id="618" text="If you find someone on your “Tag” list, double click him or her and select the “Tag” button! You'll get more points for tagging players early in the game.\n\nBe careful! If you tag a player who is not on your “Tag” list, you'll lose points.\n\nIf you get tagged, you're automatically out of the game. But, don't worry. You can go back and play again." />
+		<m619 id="619" text="The game ends when time runs out or when there's only one player remaining. If you're that player, you'll earn bonus points.\n\nTip: the Friendship Forest is a great spot to hide, but if you stay in one place for too long you miss the action." />
+		<m620 id="620" text="Game Starting in :" />
+		<m621 id="621" text="Game Ending in :" />
+		<m622 id="622" text="This player was already tagged by" />
+		<m623 id="623" text="Keep looking, you might find other friends to tag!" />
+		<m624 id="624" text="Congratulations! You tagged" />
+		<m625 id="625" text="This player was not one of your hide and seek targets!" />
+		<m626 id="626" text="Target List" />
+		<m627 id="627" text="~p~ Left" /> <!-- p is the remaining players in the hide and seek -->
+		<m628 id="628" text="Cubgratulations!" />
+		
+		<m629 id="629" text="You are the winner of \n&lt;font face=&apos;FunhouseBABW&apos; size=&apos;16px&apos; color=&apos;#FFC800&apos;&gt;hide and seek!&lt;/font&gt;" />
+		<m630 id="630" text="You earned &lt;font color=&apos;#FFC800&apos;&gt;~p~&lt;/font&gt; points!" /> <!-- p is the earned points -->
+		<m631 id="631" text="Total : &lt;font color=&apos;#FFC800&apos;&gt;~p~&lt;/font&gt; points!" /> <!-- p is the total points -->
+		
+		<m632 id="632" text="Time's up!" />
+		<m633 id="633" text="This game is over!" />
+		
+		<m634 id="634" text="&lt;font face=&apos;FunhouseBABW&apos; size=&apos;16px&apos; color=&apos;#FFC800&apos;&gt;OH NO!&lt;/font&gt;\nYou got tagged by" />
+		<m635 id="635" text="Game's running." />
+		<m636 id="636" text="Finishing in:" />
+		
+	</minigames>
+	
+	<activities id="301">
+		<m000 id="0" text="Furbulous Flyer Golf" />
+		<m001 id="1" text="Gone Fishing" />
+		<m002 id="2" text="Hide-and-Seek" />
+		<m003 id="3" text="Scavenger Sweep" />
+		
+		<!-- fishing activity texts -->
+		<m004 id="4" text="You must finish your Hide and Seek game before you can sign up to the Fishing activity." />
+		<m005 id="5" text="You must finish your Frisbee run before you can sign up to the Fishing activity." />
+		<m006 id="6" text="Are you ready to stop fishing for now? Click YES to automatically sell all of your fish and recycle your trash. Click NO to continue fishing.?" />
+		<m007 id="7" text="You need to quit fishing before starting playing this game. Do you want to give up your fishing activity?" />
+		<m008 id="8" text="Oops! Please stand closer to the pond to cast your line." />
+		
+		<!-- ecolohunt activity texts -->
+		<m009 id="9" text="Cubgratulations! You found all 10 trash items. Thanks for helping clean up the community! You are a pawsome citizen. Head back to the Scavenger Sweep kiosk on the beach to recycle the trash you found." />
+		<m010 id="10" text="Are you pawsitive that you want to stop playing the Scavenger Sweep game?" />
+		<m011 id="11" text="Pawsome job! You found " />
+		<m012 id="12" text="Time is up! You didn't find any trash to recycle." />
+		<m013 id="13" text="What do you want to do?" />
+		<m014 id="14" text="Thanks for helping clean up the community! Here's a reward for doing such a pawsome job!" />
+		<m015 id="15" text=" Bear Bills for all of your hard work!" />
+		<m016 id="16" text="Be a pawsome citizen and help give the community a clean sweep!~~There are 10 trash items hidden all over Build-A-Bearville for you to find. Look carefully (some of them are well hidden), but be quick – you've only got 3 minutes! Once you have found all 10 pieces of trash, come back to get a beary special reward!" />
+		<m017 id="17" text="Collected Trash" />
+		<m018 id="18" text="You must finish your Hide and Seek game before you can join the Scavenger Sweep game." />
+		<m019 id="19" text="You must finish your Furbulous Flyer match before you can join the Scavenger Sweep game." />
+		<m020 id="20" text=" trash items. Head back to the Scavenger Sweep kiosk on the beach to recycle the trash you found." />
+		<m021 id="21" text="Cubgratulations! You found a " />
+		
+		<!--  Error messages : -->
+		<m022 id="22" text="You need to finish your shot before you can select a new game." />
+		<m023 id="23" text="If you quit this zone, you will stop your fishing activity and all your item(s) in your fish bag will be sold to the kiosk automatically. Are you sure you want to stop it?" />
+		<m024 id="24" text="You need to finish your shot before you can change zone." />
+		<m025 id="25" text="If you go to Cub Condo® complex, you will stop your fishing activity and all your item(s) in your fish bag will be sold to the kiosk automatically. Are you sure you want to stop it?" />
+		<m026 id="26" text="You need to finish your shot before you can go to Cub Condo® complex." />
+		
+		<!-- Pawsom Panda Clipboard : -->
+		<m027 id="27" text="Hello " />
+		<m028 id="28" text="You can be a 100% Pawsome kid and have fun with fitness & nutrition. Visit me everyday, check the activities you've completed and earn Bear Bills!" />
+		<m029 id="29" text="Would you like to check your activities?" />
+		<m030 id="30" text="Be 100% Pawsome Fitness & Nutrition Challenge" />
+		<m031 id="31" text="Check the activities you've done today " />
+		<m033 id="32" text="Eat breakfast - start your day off right with a healthy breakfast." />
+		<m034 id="33" text="Get moving - turn off the TV and do something active." />
+		<m035 id="34" text="Try something new - be creative and try a new healthy food. " />
+		<m036 id="35" text="Share the fun - plan an activity for your friends or family." />
+		<m037 id="36" text="Walk with friends - take your dog or even your furry friend for a walk." />
+		<m037 id="37" text="Play outside - play an outdoor game or go on a hike." />
+		<m038 id="38" text="Start dancing - dance to your favorite song." />
+		<m039 id="39" text="Make a snack - make a healthy snack and share it with friends." />
+		<m040 id="40" text="Exercise your mind - learn more about a sport that interests you." />
+		<m041 id="41" text="Eat with your family - help plan and prepare a healthy meal." />
+		<m042 id="42" text="Thanks for being 100% Pawsome with Fitness & Nutrition! You've earned ~r~ Bear Bills today. Don't furget to come back tomorrow!" />
+		
+		<!--  Error messages 2 : -->
+		<m043 id="43" text="You need to finish your Scavenger Sweep game before you can select a new game." />	
+	</activities>
+	
+	<mail id="302">
+		<m000 id="0" text="Your mail has been sent!" />
+		<m001 id="1" text="If you exit now your message will be lost!" />
+		<m002 id="2" text="Select the friend to whom you wich to send this message." />
+		<m003 id="3" text="Please add a subject line." />
+		<m004 id="4" text="Beary sorry, some of the words in your message are not in the Build-A-Bearville dictionary. Please try again." />
+		<m005 id="5" text="Please enter the name of the friend you want to send your message to." />
+		<m006 id="6" text="gift~s~ left" />
+		<m007 id="7" text="Hi!~n~I just got a new party room for my Cub Condo house and you have got to come see it! Do not furget to wear your new party outfit attached to this Bear Mail.~n~See you soon!" />
+		<m008 id="8" text="Please select the friends you wish to invite to your party." />
+		<m009 id="9" text="From" />
+		<m010 id="10" text="Subject" />
+		<m011 id="11" text="Reply" />
+		<m012 id="12" text="Delete" />
+		<m013 id="13" text="Send" />
+		<m014 id="14" text="You can't use this feature with silent chat enabled!" />
+		<m015 id="15" text="You can't use this feature with safe chat enabled!" />
+		<m016 id="16" text="New Message" />
+		<m017 id="17" text="Back to List" />
+		<m018 id="18" text="Party Messages" />
+	</mail>
+	
+	<client id ="303">
+		<m000 id="0" text="An update has occured on Build-A-Bearville. You have 5 minutes before the game restarts." />
+	</client>
+
+	<cybearguide id ="304">
+		<m000 id="0" text="You must be a Jr. CyBearGuide to enter the Guide Headquarters.  Please visit the classroom to take the test." />
+		<m001 id="1" text="You must be a Junior Cybearguide to enter this room! Please visit the classroom to take the test." /> <!--  1_1_1.fla : -->
+		<m002 id="2" text="You don't have access to the Junior Cybearguide room. You have been kicked out." /> <!--  1_1_1_3.fla : -->
+		<m003 id="3" text="You must be a Junior Cybearguide to access the forum. If you just passed the test try to read the Cybear Guide Handbook first." /> <!--  1_1_1_3.fla : -->
+		<m004 id="4" text="You must be a Junior Cybearguide to access the Cybearguide Handbook." /> <!--  1_1_1_3.fla : -->
+		
+		<m005 id="5" text="Cubgratulations! You just received your official Jr. Cybear Guide Hat!" /> <!--  CybearguideHandbook.fla : -->
+		<m006 id="6" text="To get your Jr. CyBearGuide hat you must finish reading the handbook. Are you sure you want to exit?" /> <!--  CybearguideHandbook.fla : -->
+		<m007 id="7" text="Jr. CyBearGuide Headquarters" />
+	</cybearguide>
+</lang>

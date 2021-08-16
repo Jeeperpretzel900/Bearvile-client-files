@@ -1,0 +1,756 @@
+avatar_sidekick>	
+	
+	<default_sidekick type_id="0">		<!-- Type the new bear name, it's id (increasing) and all parts id. -->
+		<!--
+		Parameters :
+			id : unic identifier of the sidekick
+			legs : type of sidekick (1 : dinosaurus sidekick, 2 : standard 2 legged sidekick, 4 : standard 4 legged sidekick)
+			hat_id : indicates if the sidekick can wear headgear (-1 : can wear headgear, 0 : can't wear headgear,  1: can wear headgear but the ears are not hidden,  otherwise : can't wear headgear but have a skull part)
+			backpack_id : indicates if the sidekick can wear back item (-1 : can wear back item, 0 : can't wear back item, otherwise : can't wear back item but have a dorsal part)
+			default_color : indicastes the default color of it's skin or fur ("red,green,blue" as decimal values)
+					available : date of availability (yyyy-mm-dd)
+			releaseName : official name of the sidekick
+		-->
+		<a	id="1" 	 	available="2007-12-17"	releaseName="Floppy Cow"/>
+		<a	id="2"	 	available="2007-12-17"	releaseName="Bearemy&#174;"/>
+		<a	id="3"	 	available="2007-12-17"	releaseName="Dimples Teddy"/>
+		<a	id="4" 	 	available="2007-12-17"	releaseName="Toffee Teddy"/>
+		<a	id="5" 	 	available="2007-12-17"	releaseName="Husky"/>
+		<a	id="6" 	 	available="2007-12-17"	releaseName="Curly Teddy"/>
+		<a	id="7" 	 	available="2007-12-17"	releaseName="asthma friendly&#174; Velvet Bear"/>
+		<a	id="8" 	 	available="2007-12-17"	releaseName="Kuddly Koala&#174;"/>
+		<a	id="9" 	 	available="2007-12-17"	releaseName="Playful Puppy"/>
+		<a	id="10"  	available="2007-12-17"	releaseName="Tabby Kitty"/>
+		<a	id="11"  	available="2007-12-17"	releaseName="Pink Cuddles Teddy"/>
+		<a	id="12"  	available="2007-12-17"	releaseName="Blue Cuddles Teddy"/>
+		<a	id="13"  	available="2007-12-17"	releaseName="Lil' Vanilla Cub"/>
+		<a	id="14"  	available="2007-12-17"	releaseName="Brown Sugar Puppy"/>
+		<a	id="15"  	available="2007-12-17"	releaseName="Hip Hippo"/>
+		<a	id="16"  	available="2007-12-17"	releaseName="Pink Kisses Fur You&#174; Teddy"/>
+		<a	id="17" 	available="2007-12-17"	releaseName="Bunny Big Ears"/>
+		<a	id="18" 	available="2007-12-17"	releaseName="asthma friendly&#174; Velvet Puppy"/>
+		<a	id="19" 	available="2007-12-17"	releaseName="Big Hugs Bear"/>
+		<a	id="20" 	available="2007-12-17"	releaseName="Hello Kitty"/>
+		<a	id="21" 	available="2007-12-17"	releaseName="Purrincess Kitty"/>
+		<a	id="23" 	available="2007-12-17"	releaseName="World Wildlife Fund Snow Leopard"/>
+		<a	id="24" 	available="2007-12-17"	releaseName="Champ - A Champion Fur Kids"/>
+		<a	id="25" 	available="2007-12-17"	releaseName="Magnificent Monkey"/>
+		<a	id="27" 	available="2007-12-17"	releaseName="White Fluffy Puppy"/>
+		<a	id="29" 	available="2007-12-17"	releaseName="Lil' Milk Chocolate Cub"/>
+		<a	id="30" 	available="2007-12-17"	releaseName="Sweet Hugs &#38; Kisses Teddy"/>
+		<a	id="31" 	available="2007-12-17"	releaseName="Tan Swirl Bunny"/>
+		<a	id="32" 	available="2007-12-17"	releaseName="Spring Bear 2007"/>
+		<a	id="33" 	available="2007-12-17"	releaseName="Lots O'Luck Teddy"/>
+		<a	id="34" 	available="2007-12-17"	releaseName="Cuddly Lamb"/>
+		<a	id="36" 	available="2007-12-17"	releaseName="Trekkin' Turtle"/>
+		<a	id="37" 	available="2007-12-17"	releaseName="Summer Bear 2007"/>
+		<a	id="38" 	available="2007-12-17"	releaseName="Pretty Poodle"/>
+		<a	id="39" 	available="2007-12-17"	releaseName="Read Teddy&#174;"/>
+		<a	id="41" 	available="2007-12-17"	releaseName="Autumn Bear 2007"/>
+		<a	id="43" 	available="2007-12-17"	releaseName="World Wildlife Fund Cheetah"/>
+		<a	id="44" 	available="2007-12-17"	releaseName="Triceratops"/>
+		<a	id="45" 	available="2007-12-17"	releaseName="Boorrific Ghost"/>
+		<a	id="46" 	available="2007-12-17"	releaseName="Winter Bear 2007"/>
+		<a	id="47" 	available="2007-12-17"	releaseName="Waggly Puppy"/>
+		<a	id="48" 	available="2007-12-17"	releaseName="Playful Polar Bear"/>
+		<a	id="51" 	available="2007-12-17"	releaseName="Floppy Moose"/>
+		<a	id="52" 	available="2007-12-17"	releaseName="Hopeful Wishes Teddy"/>
+		<a	id="53" 	available="2007-12-17"	releaseName="Black Labrador"/>
+		<a	id="54" 	available="2007-12-17"	releaseName="Golden Retriever"/>
+		<a	id="55" 	available="2007-12-17"	releaseName="World Wildlife Fund Cheetah"/>
+		<a	id="56" 	available="2007-12-17"	releaseName="Westie"/>
+		<a	id="57" 	available="2007-12-17"	releaseName="Shaggy Teddy"/>
+		<a	id="58" 	available="2007-12-17"	releaseName="Beagle"/>
+		<a	id="59" 	available="2007-12-17"	releaseName="Happy Cub"/>
+		<a	id="60" 	available="2007-12-17"	releaseName="Unicorn"/>
+		<a	id="61" 	available="2007-12-17"	releaseName="Lil' Caramel Cub"/>
+		<a	id="62" 	available="2007-12-17"	releaseName="Hearts a Plenty"/>
+		<a	id="63" 	available="2007-12-17"	releaseName="Mocha Bunny"/>
+		<a	id="64" 	available="2007-12-17"	releaseName="Border Collie"/>
+		<a	id="65" 	available="2007-12-17"	releaseName="Friendly Frog"/>
+		<a	id="66" 	available="2007-12-17"	releaseName="Maple Teddy"/>
+		<a	id="67" 	available="2007-12-17"	releaseName="Nikki's Bear II"/>
+		<a	id="68" 	available="2007-12-17"	releaseName="Yellow Labrador"/>
+		<a	id="69" 	available="2007-12-17"	releaseName="Sassy Kitty"/>
+		<a	id="70" 	available="2007-12-17"	releaseName="Boxer"/>
+		<a	id="71" 	available="2007-12-17"	releaseName="Nikki's Bear III"/>
+		<a	id="72" 	available="2007-12-17"	releaseName="Springtime Fun Bunny"/>
+		<a	id="73" 	available="2007-12-17"	releaseName="Floppy Tiger"/>
+		<a	id="74" 	available="2007-12-17"	releaseName="Tree Frog"/>
+		<a	id="75" 	available="2007-12-17"	releaseName="Ringtail Lemur"/>
+		<a	id="76" 	available="2007-12-17"	releaseName="Chimpanzee"/>
+		<a	id="77" 	available="2007-12-17"	releaseName="Asian Elephant"/>
+		<a	id="78" 	available="2007-12-17"	releaseName="Grevy's Zebra"/>
+		<a	id="80" 	available="2007-12-17"	releaseName="Traveling Teddy&#174;"/>
+		<a	id="81" 	available="2007-12-17"	releaseName="Prairie Dog"/>
+		<a	id="82" 	available="2007-12-17"	releaseName="Black Bear"/>
+		<a	id="83" 	available="2007-12-17"	releaseName="Panda Bear"/>
+		<a	id="84" 	available="2007-12-17"	releaseName="Brown Pony"/>
+		<a	id="85" 	available="2007-12-17"	releaseName="World Wildlife Fund Lion"/>
+		<a	id="86" 	available="2007-12-17"	releaseName="Pug"/>
+		<a	id="87" 	available="2007-12-17"	releaseName="Hippopotamus"/>
+		<a	id="88" 	available="2007-12-17"	releaseName="Alligator"/>
+		<a	id="89" 	available="2007-12-17"	releaseName="White Tiger"/>
+		<a	id="90" 	available="2007-12-17"	releaseName="Tyrannosaurus Rex (Purple)"/>
+		<a	id="91" 	available="2007-12-17"	releaseName="Apatosaurus Pink"/>
+		<a	id="92" 	available="2007-12-17"	releaseName="Apatosaurus Blue"/>
+		<a	id="93" 	available="2007-12-17"	releaseName="Brachiosaurus"/>
+		<a	id="94" 	available="2007-12-17"	releaseName="Stegosaurus"/>
+		<a	id="95" 	available="2007-12-17"	releaseName="Ankylosaurus"/>
+		<a	id="96" 	available="2007-12-17"	releaseName="Tyrannosaurus Rex (Gold)"/>
+		<a	id="97" 	available="2007-12-17"	releaseName="Pachycephalosaurus"/>
+		<a	id="98" 	available="2007-12-17"	releaseName="Parasaurolophus"/>
+		<a	id="99" 	available="2007-12-17"	releaseName="Velociraptor"/>
+		<a	id="100" 	available="2007-12-17"	releaseName="Dilophosaurus"/>
+		<a	id="101" 	available="2007-12-17"	releaseName="Holiday Reindeer (Male)"/>
+		<a	id="102" 	available="2007-12-17"	releaseName="Holiday Reindeer (Female)"/>
+		<a	id="103" 	available="2007-12-17"	releaseName="Pawfect Pink Leopard"/>
+		<a	id="104" 	available="2007-12-19"	releaseName="Hearts Fur You Puppy"/>
+		<a	id="105" 	available="2008-02-01"	releaseName="Big Hearts Fur You Puppy"/>
+		<a	id="106" 	available="2008-01-11"	releaseName="Precious Pink Teddy"/>
+		<a	id="107" 	available="2008-01-18"	releaseName="Groundhog"/>
+		<a	id="108" 	available="2008-02-01"	releaseName="Lucky Fur You Teddy"/>
+		<a	id="109" 	available="2008-02-08"	releaseName="Pawsome Pink Bunny"/>
+		<a	id="110" 	available="2008-02-15"	releaseName="Fuzzy Chick"/>
+		<a	id="111" 	available="2008-03-18"	releaseName="Pink Hearts Teddy"/>
+		<a	id="112" 	available="2012-07-01"	releaseName="Sea Lion"/>
+		<a	id="115" 	available="2008-07-01"	releaseName="Orangutan"/>
+		<a	id="116" 	available="2008-07-01"	releaseName="Spinosaurus"/>
+		<a	id="117" 	available="2008-07-01"	releaseName="Lil' Honey Cub"/>
+		<a	id="118" 	available="2008-07-01"	releaseName="Gorilla"/>
+		<a	id="119" 	available="2008-03-07"	releaseName="Adorable Elephant"/>
+		<a	id="120" 	available="2008-04-11"	releaseName="Treasure Topaz Teddy"/>
+		<a	id="121" 	available="2008-05-09"	releaseName="Pawsome Panda"/>
+		<a	id="122" 	available="2008-04-25"	releaseName="Black Labrador"/>
+		<a	id="123" 	available="2008-03-27"	releaseName="Ball Park Dug Out Dog"/>
+		<a	id="124" 	available="2009-03-12"	releaseName="Ball Park Clysdale"/>
+		<a	id="125" 	available="2008-03-27"	releaseName="Ball Park Generic Brown Bear"/>
+		<a	id="126" 	available="2009-03-12"	releaseName="Ball Park Colorable Bear"/>
+		<a	id="127" 	available="2008-03-27"	releaseName="Ball Park MVP Monkey"/>
+		<a	id="128" 	available="2008-03-27"	releaseName="Ball Park Panda Bear"/>
+		<a	id="129" 	available="2008-03-27"	releaseName="Red Kangaroo"/>
+		<a	id="130" 	available="2008-06-12"	releaseName="USA Spirit Teddy"/>
+		<a	id="131" 	available="2008-06-12"	releaseName="Canada Spirit Teddy"/>
+		<a	id="132" 	available="2008-05-22"	releaseName="Ted the Tailor"/>
+		<a	id="133" 	available="2008-05-30"	releaseName="Tropical Hello Kitty"/>
+		<a	id="134" 	available="2008-06-27"	releaseName="Bactrian Camel"/>
+		<a	id="135" 	available="2008-05-30"	releaseName="Ostrich"/>
+		<a	id="136" 	available="2008-05-30"	releaseName="North American River Otter"/>
+		<a	id="137" 	available="2012-05-30"	releaseName="Green Tracks Teddy"/>
+		<a	id="138" 	available="2008-07-11"	releaseName="Green T-Rex"/>
+		<a	id="139" 	available="2008-07-03"	releaseName="Adorable Amethyst Teddy"/>
+		<a	id="140" 	available="2012-05-30"	releaseName="Grizzly"/>
+		<a	id="141" 	available="2012-05-30"	releaseName="European Rabbit"/>
+		<a	id="142" 	available="2008-07-15"	releaseName="Coyote"/>
+		<a	id="143" 	available="2007-12-25"	releaseName="Lil'Buttercream"/>
+		<a	id="144" 	available="2008-07-31"	releaseName="Longhorn"/>
+		<a	id="145" 	available="2008-07-31"	releaseName="HSM Bear"/>
+		<a	id="146" 	available="2008-08-29"	releaseName="Beaver"/>
+		<a	id="147" 	available="2008-08-19"	releaseName="CoquiFrog"/>
+		<a	id="148" 	available="2008-09-01"	releaseName="Buffalo"/>
+		<a	id="149" 	available="2008-08-29"	releaseName="Black Jaguar"/>
+		<a	id="150" 	available="2008-09-02"	releaseName="Halloween Kitty"/>
+		<a	id="151" 	available="2008-05-30"	releaseName="Lobster"/>
+		<a	id="152" 	available="2008-09-12"	releaseName="Hannah Montanna Bear"/>
+		<a	id="153" 	available="2008-08-22"	releaseName="Zebra"/>
+		<a	id="154" 	available="2008-08-19"	releaseName="Amur Tiger"/>
+		<a	id="155" 	available="2008-08-22"	releaseName="Champ_A_Champion_Fur_Kids"/>
+		<a	id="156" 	available="2008-10-17"	releaseName="Bearillant Blue Teddy"/>
+		<a	id="157" 	available="2008-10-01"	releaseName="Pudsey"/>
+		<a	id="158" 	available="2008-11-06"	releaseName="Female Moose"/>
+		<a	id="159" 	available="2008-08-19"	releaseName="Brown Sugar Puppy 2"/>
+		<a	id="160" 	available="2008-11-01"	releaseName="Penguin"/>
+		<a	id="161" 	available="2008-10-20"	releaseName="Turkey"/>
+		<a	id="162" 	available="2008-10-01"	releaseName="Hopeful Wishes"/>
+		<a	id="163" 	available="2008-11-06"	releaseName="Hal Moose"/>
+		<a	id="164" 	available="2008-10-18"	releaseName="Manager's Meeting Bear"/>
+		<a	id="165" 	available="2008-10-17"	releaseName="Dachshund"/>
+		<a	id="166" 	available="2008-12-01"	releaseName="Lil'Sweet Cream Cub"/>
+		<a	id="167" 	available="2008-12-01"	releaseName="Snazzy Kitty"/>
+		<a	id="168" 	available="2008-12-01"	releaseName="Mini Bearemy&#174;"/>
+		<a	id="169" 	available="2008-12-01"	releaseName="Pink Cuddles Teddy"/>
+		<a	id="170" 	available="2008-12-01"	releaseName="Blue Cuddles Teddy"/>
+		<a	id="171" 	available="2008-12-01"	releaseName="Bunny Big Ears"/>
+		<a	id="172" 	available="2008-12-05"	releaseName="Hello Kitty"/>
+		<a	id="173" 	available="2008-12-26"	releaseName="Hugs Fur You Monkey"/>
+		<a	id="174" 	available="2009-01-09"	releaseName="Jack Russell Terrier"/>
+		<a	id="175" 	available="2009-01-02"	releaseName="Lil Chocolate Cub"/>
+		<a	id="176" 	available="2009-01-23"	releaseName="Season of Hugs Bear"/>
+		<a	id="177" 	available="2009-02-12"	releaseName="Happy Go Lucky Frog"/>
+		<a	id="178" 	available="2009-05-01"	releaseName="Summer Hugs Bear"/>
+		<a	id="179" 	available="2009-01-02"	releaseName="Ox"/>
+		<a	id="180" 	available="2009-02-20"	releaseName="Cinnamon Swirl Bunny"/>
+		<a	id="181" 	available="2009-02-27"	releaseName="Curly Lamb"/>
+		<a	id="182" 	available="2009-02-20"	releaseName="Velvet Puppy"/>
+		<a	id="183" 	available="2009-02-20"	releaseName="Camo Bear"/>
+		<a	id="184" 	available="2009-03-12"	releaseName="Lion"/>
+		<a	id="185" 	available="2009-02-20"	releaseName="Macaw Parrot"/>
+		<a	id="186" 	available="2009-03-12"	releaseName="Amur Leopard"/>
+		<a	id="187" 	available="2009-03-06"	releaseName="Tortoise"/>
+		<a	id="188" 	available="2009-03-12"	releaseName="Baseball Bunny"/>
+		<a	id="189" 	available="2009-03-12"	releaseName="Play by Play Puppy"/>
+		<a	id="190" 	available="2009-03-20"	releaseName="Shooting Stars Unicorn"/>
+		<a	id="191" 	available="2009-02-20"	releaseName="King Penguin"/>
+		<a	id="192" 	available="2009-02-20"	releaseName="Humbolt Penguin"/>
+		<a	id="193" 	available="2009-02-20"	releaseName="Furbulous Flamingo"/>
+		<a	id="194" 	available="2009-02-20"	releaseName="Pteranodon"/>
+		<a	id="195" 	available="2009-03-12"	releaseName="Ball Park Colorable Bear"/>
+		<a	id="196" 	available="2009-03-12"	releaseName="Ball Park Generic Brown Bear"/>
+		<a	id="197" 	available="2009-03-12"	releaseName="Ball Park Pink Bear"/>
+		<a	id="198" 	available="2009-03-12"	releaseName="Ball Park Clysdale"/>
+		<a	id="199" 	available="2009-04-17"	releaseName="Furever Bear"/>
+		<a	id="200" 	available="2009-05-01"	releaseName="Bulldog"/>
+		<a	id="201" 	available="2009-04-01"	releaseName="Scottie Dog"/>
+		<a	id="202" 	available="2009-05-21"	releaseName="Awesome Alien"/>
+		<a	id="203" 	available="2009-05-15"	releaseName="Endless Hugs Teddy"/>
+		<a	id="204" 	available="2009-05-22"	releaseName="Andean Bear"/>
+		<a	id="205" 	available="2009-05-29"	releaseName="Sparkly Snow Leopard"/>
+		<a	id="206" 	available="2009-05-29"	releaseName="Ray"/>
+		<a	id="207" 	available="2009-06-05"	releaseName="Peace Bear"/>
+		<a	id="208" 	available="2009-06-10"	releaseName="I Love NY Bear"/>
+		<a	id="209" 	available="2009-06-12"	releaseName="Black Rhino"/>
+		<a	id="210" 	available="2009-06-12"	releaseName="Patriotic Pup"/>
+		<a	id="211" 	available="2009-06-12"	releaseName="Maple Leaf Pup"/>
+		<a	id="212" 	available="2009-07-10"	releaseName="Owl"/>
+		<a	id="213" 	available="2009-07-10"	releaseName="Good Housekeeping Seal"/>
+		<a	id="214" 	available="2009-07-17"	releaseName="Gray Kitty"/>
+		<a	id="215" 	available="2009-06-26"	releaseName="Pawsome Pony"/>
+		<a	id="216" 	available="2009-07-31"	releaseName="PR Bear"/>
+		<a	id="217" 	available="2009-07-03"	releaseName="Pig"/>
+		<a	id="218" 	available="2009-07-03"	releaseName="Water Portugese Dog"/>
+		<a	id="219" 	available="2009-07-03"	releaseName="WWF Wolf"/>
+		<a	id="220" 	available="2009-07-03"	releaseName="Cinnamon Sugar Puppy"/>
+		<a	id="221" 	available="2009-07-03"	releaseName="Fudge Puppy"/>
+		<a	id="222" 	available="2009-07-03"	releaseName="Huggable Puppy"/>
+		<a	id="223" 	available="2009-07-03"	releaseName="Season of Hugs Bear"/>
+		<a	id="224" 	available="2009-07-03"	releaseName="Wooly Mammoth"/>
+		<a	id="225" 	available="2009-07-03"	releaseName="WWF Fennec Fox"/>
+		<a	id="226" 	available="2009-09-11"	releaseName="Kooky Spooky Kitty"/>
+		<a	id="227" 	available="2009-09-25"	releaseName="Jonas Bros Puppy"/>
+		<a	id="228" 	available="2009-08-28"	releaseName="Ball Park Colorable Bear Special Reward"/>
+		<a	id="229" 	available="2009-10-09"	releaseName="Polar Bear"/>
+		<a	id="230" 	available="2009-10-23"	releaseName="Winter Hugs Bear"/>
+		<a	id="231" 	available="2009-09-23"	releaseName="Brutus Buck Eye"/>
+		<a	id="232" 	available="2009-11-01"	releaseName="Snowman"/>
+		<a	id="233" 	available="2009-11-12"	releaseName="Puffin"/>
+		<a	id="234" 	available="2009-11-28"	releaseName="Holiday Heart Teddy"/>
+		<a	id="235" 	available="2009-11-28"	releaseName="Maple Leaf Heart Teddy"/>
+		<a	id="236" 	available="2009-11-23"	releaseName="Alvin"/>
+		<a	id="237" 	available="2009-11-01"	releaseName="Bearemy"/>
+		<a	id="238" 	available="2009-11-01"	releaseName="Lil' Bunny Big Ears"/>
+		<a	id="239" 	available="2009-11-12"	releaseName="Hal Moose"/>
+		<a	id="240" 	available="2009-11-12"	releaseName="Holly Moose"/>
+		<a	id="241" 	available="2009-11-01"	releaseName="Fabulous Frog"/>
+		<a	id="242" 	available="2009-11-01"	releaseName="Frosty The Snowman"/>
+		<a	id="243" 	available="2009-12-02"	releaseName="Orca"/>
+		<a	id="244" 	available="2009-12-02"	releaseName="Year of the Mouse"/>
+		<a	id="245" 	available="2009-12-04"	releaseName="Blossom Bunny"/>
+		<a	id="246" 	available="2009-12-04"	releaseName="Marble Monkey"/>
+		<a	id="247" 	available="2009-12-04"	releaseName="Bungee Monkey"/>
+		<a	id="248" 	available="2010-01-01"	releaseName="Year of the Tiger"/>
+		<a	id="249" 	available="2010-01-04"	releaseName="Happy Hugs Teddy"/>
+		<a	id="250" 	available="2010-01-08"	releaseName="Be Mine Dalmation"/>
+		<a	id="251" 	available="2010-01-10"	releaseName="Baby Panther"/>
+		<a	id="252" 	available="2009-12-26"	releaseName="Limited Edition HK 35th Anniversary"/>
+		<a	id="253" 	available="2009-01-01"	releaseName="I-Carly"/>
+		<a	id="254" 	available="2009-01-01"	releaseName="Glitter Teddy"/>
+		<a	id="255" 	available="2009-01-01"	releaseName="Beary O'Lucky Teddy"/>
+		<a	id="256" 	available="2010-04-05"	releaseName="Enchanted Pony"/>
+		<a	id="257" 	available="2010-02-24"	releaseName="Spinosaurus"/>
+		<a	id="258" 	available="2010-02-24"	releaseName=""/>
+		<a	id="259" 	available="2010-03-04"	releaseName="Downtown Disney Bear"/>
+		<a	id="260" 	available="2010-03-01"	releaseName="Champ"/>
+		<a	id="261" 	available="2010-02-26"	releaseName="Cele-bear-ation Yellow"/>
+		<a	id="262" 	available="2010-03-19"	releaseName="Brittany"/>
+		<a	id="263" 	available="2010-02-24"	releaseName="Sweet Cuddles Blue"/>
+		<a	id="264" 	available="2010-02-24"	releaseName="Sweet Cuddles Pink"/>
+		<a	id="265" 	available="2010-03-15"	releaseName="Brachiosaurus"/>
+		<a	id="266" 	available="2010-03-15"	releaseName="Saber-tooth Tiger"/>
+		<a	id="267" 	available="2010-03-05"	releaseName="Chick"/>
+		<a	id="268" 	available="2010-03-05"	releaseName="Cross Bear"/>
+		<a	id="269" 	available="2010-02-26"	releaseName="Cele-bear-ation Pink"/>
+		<a	id="270" 	available="2010-03-05"	releaseName="Duck"/>
+		<a	id="271" 	available="2010-03-05"	releaseName="Star of David Bear"/>
+		<a	id="272" 	available="2010-04-01"	releaseName="Velvety Teddy"/>
+		<a	id="273" 	available="2010-03-01"	releaseName="Lil Coconut Cub"/>
+		<a	id="274" 	available="2010-02-24"	releaseName="Camel"/>
+		<a	id="275" 	available="2010-03-26"	releaseName="Mr. Baseball"/>
+		<a	id="276" 	available="2010-04-05"	releaseName="Dragon Bear"/>
+		<a	id="277" 	available="2010-04-02"	releaseName="Peacock"/>
+		<a	id="278" 	available="2010-03-05"	releaseName="Giraffe"/>
+		<a	id="279" 	available="2010-02-24"	releaseName="WC Bear"/>
+		<a	id="280" 	available="2010-04-07"	releaseName="Ballpark Bear"/>
+		<a	id="281" 	available="2010-04-07"	releaseName="Puppet Fredbird"/>
+		<a	id="282" 	available="2010-04-07"	releaseName="Pujols/Jeter Bear"/>
+		<a	id="283" 	available="2010-04-07"	releaseName="Mascot"/>
+		<a	id="284" 	available="2010-04-15"	releaseName="Mr. Soccer"/>
+		<a	id="285" 	available="2010-04-16"	releaseName="Yorkshire Terrier"/>
+		<a	id="286" 	available="2010-04-16"	releaseName="FA Lion"/>
+		<a	id="287" 	available="2010-04-16"	releaseName="Red Panda"/>
+		<a	id="288" 	available="2010-04-23"	releaseName="Stingray Pink"/>
+		<a	id="289" 	available="2010-04-23"	releaseName="Stingray Blue"/>
+		<a	id="290" 	available="2010-04-23"	releaseName="Stingray II"/>
+		<a	id="291" 	available="2010-04-30"	releaseName="Tropical Hello Kitty"/>
+		<a	id="292" 	available="2009-05-28"	releaseName="Patriotic Peace Bear"/>
+		<a	id="293" 	available="2009-05-27"	releaseName="Poison Dart Tree Frog"/>
+		<a	id="294" 	available="2009-05-28"	releaseName="Flamingo"/>
+		<a	id="295" 	available="2009-05-28"	releaseName="Amur Tiger"/>
+		<a	id="296" 	available="2009-05-28"	releaseName="Puma"/>
+		<a	id="297" 	available="2009-05-28"	releaseName="Leopard"/>
+		<a	id="298" 	available="2009-05-28"	releaseName="Tiger"/>
+		<a	id="299" 	available="2009-05-28"	releaseName="Parrot"/>
+		<a	id="300" 	available="2009-05-28"	releaseName="Giraffe"/>
+		<a	id="301" 	available="2009-05-21"	releaseName="Shaggy Pup"/>
+		<a	id="302" 	available="2010-07-01"	releaseName="Pawfectly Huggable Bunny"/>
+		<a	id="303" 	available="2010-07-02"	releaseName="Mint Chip Bear"/>
+		<a	id="304" 	available="2010-07-02"	releaseName="Orange Sherber Bear"/>
+		<a	id="305" 	available="2010-07-02"	releaseName="Bubble Gum Bear"/>
+		<a	id="306" 	available="2010-07-02"	releaseName="Hot Fudge Sundae Bear"/>
+		<a	id="307" 	available="2010-07-16"	releaseName="Black And White Lemur"/>
+		<a	id="308" 	available="2010-07-23"	releaseName="Owl II"/>
+		<a	id="309" 	available="2010-07-23"	releaseName="Chihuahua"/>
+		<a	id="310" 	available="2010-07-29"	releaseName="Turquoise Peace Bear"/>
+		<a	id="311" 	available="2010-07-29"	releaseName="Black Peace And Smile Bear"/>
+		<a	id="312" 	available="2010-07-29"	releaseName="Black Heart Bear"/>
+		<a	id="313" 	available="2010-08-06"	releaseName="Baby Panther"/> <!-- 251-->
+		<a	id="314" 	available="2010-08-11"	releaseName="Diplodocus"/>
+		<a	id="315" 	available="2010-09-10"	releaseName="Candy Corn Bear"/>
+		<a	id="316" 	available="2010-09-10"	releaseName="Midnight Kitty"/>
+		<a	id="317" 	available="2010-08-27"	releaseName="Cuviers Gazelle"/>
+		<a	id="318" 	available="2010-08-17"	releaseName="Sweet Smiles Teddy"/>
+		<a	id="319" 	available="2010-08-17"	releaseName="Chocolat Mouse Bear"/> 		
+		<a	id="320" 	available="2010-08-17"	releaseName="Brown Tie-Dye Bear"/> 
+		<a	id="321" 	available="2010-08-20"	releaseName="Chocolat"/> 
+		<a	id="322" 	available="2010-08-20"	releaseName="My Melody"/> 
+		<a	id="323" 	available="2010-08-20"	releaseName="Keroppi"/> 
+		<a	id="324" 	available="2010-09-03"	releaseName="Peace Bear"/> 
+		<a	id="325" 	available="2010-09-03"	releaseName="Endless Hug"/> 
+		<a	id="326" 	available="2010-09-03"	releaseName="Sassy Kitty"/> 
+		<a	id="327" 	available="2010-09-03"	releaseName="Cinammon Swirl Bunny"/> 
+		<a	id="328" 	available="2010-09-03"	releaseName="Marble Monkey"/> 
+		<a	id="329" 	available="2010-09-03"	releaseName="Frog"/> 
+		<a	id="330" 	available="2010-09-03"	releaseName="Read Teddy"/> 
+		<a	id="331" 	available="2010-09-03"	releaseName="Shaggy Puppy"/> 
+		<a	id="332" 	available="2010-08-11"	releaseName="Team One Bear"/> 
+		<a	id="333" 	available="2010-08-11"	releaseName="Team Two Bear"/> 
+		<a	id="334" 	available="2010-10-01"	releaseName="Virtual Bear Stars"/> 
+		<a	id="335" 	available="2010-10-01"	releaseName="Virtual Bear Rounds"/> 
+		<a	id="336" 	available="2010-10-01"	releaseName="Virtual Bear Bubbles"/> 
+		<a	id="337" 	available="2010-10-01"	releaseName="Virtual Bear Smiles"/> 
+		<a	id="338" 	available="2010-10-01"	releaseName="Virtual Bear Squares"/> 
+		<a	id="339" 	available="2010-09-20"	releaseName="Star Wars Bear"/>
+		<a	id="340" 	available="2010-10-01"	releaseName="Candy Corn Kitty"/>
+		<a	id="341" 	available="2010-10-01"	releaseName="Cozy Corduroy Puppy"/>
+		<a	id="342" 	available="2010-10-01"	releaseName="Blush"/>
+		<a	id="343" 	available="2010-10-08"	releaseName="Snowhugs Teddy"/>
+		<a	id="344" 	available="2010-11-01"	releaseName="Rudolph"/>
+		<a	id="345" 	available="2010-11-01"	releaseName="Clarice"/>
+		<a	id="346" 	available="2010-11-01"	releaseName="Bumble"/>
+		<a	id="347" 	available="2010-11-01"	releaseName="Velvety Teddy II"/>
+		<a	id="348" 	available="2010-10-01"	releaseName="Virtual Bear"/> 
+		<a	id="349" 	available="2010-11-12"	releaseName="Stegosaurus"/> 
+		<a	id="350" 	available="2010-11-09"	releaseName="Beary Merry Teddy"/> 
+		<a	id="351" 	available="2010-12-01"	releaseName="Sweet Velvet Teddy"/> 
+		<a	id="352" 	available="2010-12-01"	releaseName="Midnight Teddy"/> 
+		<a	id="353" 	available="2010-12-10"	releaseName="Speakerstarz Pink"/> 
+		<a	id="354" 	available="2010-12-10"	releaseName="Speakerstarz Black"/> 
+		<a	id="355" 	available="2010-11-09"	releaseName="UK Beary Merry Teddy"/>
+		<a	id="356" 	available="2010-12-01"	releaseName="Year of the Rabbit"/> 
+		<a	id="357" 	available="2010-12-01"	releaseName="Safety bear"/>
+		<a	id="358" 	available="2011-01-07"	releaseName="Love Bear"/>
+		<a	id="359" 	available="2011-02-01"	releaseName="Lil HoneyComb Cub"/>
+		<a	id="360" 	available="2011-01-07"	releaseName="Love Bug"/>
+		<a	id="361" 	available="2010-11-26"	releaseName="Mickey Ears Bear"/>
+		<a	id="362" 	available="2011-02-01"	releaseName="I Heart NY Bear"/>
+		<a	id="363" 	available="2011-01-21"	releaseName="Witch of Waverly"/>
+		<a	id="364" 	available="2010-12-26"	releaseName="Darling Doggie Blue"/>
+		<a	id="365" 	available="2010-12-26"	releaseName="Darling Doggie Pink"/>
+		<a	id="366" 	available="2010-12-26"	releaseName="Darling Doggie Purple"/>
+		<a	id="367" 	available="2011-01-01"	releaseName="Sock Monkey"/>
+		<a	id="368" 	available="2011-01-01"	releaseName="Sparkle Hello Kitty"/>
+		<a	id="369" 	available="2010-12-15"	releaseName="Arabian Horse"/>
+		<a	id="370" 	available="2011-03-04"	releaseName="Zoo Grizzly"/>
+		<a	id="371" 	available="2011-03-04"	releaseName="Shimmer Kitty"/>
+		<a	id="372" 	available="2011-02-11"	releaseName="Four Leaf Clover Teddy"/>
+		<a	id="373" 	available="2011-03-04"	releaseName="UK Swirl Lamb"/>
+		<a	id="374" 	available="2011-03-04"	releaseName="Guinea Pig"/>
+		<a	id="375" 	available="2011-03-01"	releaseName="Llama"/>
+		<a  id="376" 	available="2011-02-15"	releaseName="[TEMP] Huggable Bunny Small Fry" /> 
+		<a  id="377" 	available="2011-02-15"	releaseName="[TEMP] Turq Peace Small Fry" /> 
+		<a  id="378"	available="2011-02-15"	releaseName="[TEMP] Panda Small Fry" /> 
+		<a  id="379"	available="2011-02-15"	releaseName="[TEMP] Summer Hugs Small Fry" /> 
+		<a  id="380"	available="2011-02-15"	releaseName="[TEMP] Camo Small Fry" /> 
+		<a  id="381"	available="2011-02-15"	releaseName="[TEMP] Golden Retriever Small Fry" /> 
+		<a  id="382"	available="2011-02-15"	releaseName="[TEMP] Poodle Small Fry" /> 
+		<a  id="383"	available="2011-02-15"	releaseName="[TEMP] Chick Small Fry" /> 
+		<a  id="384"	available="2011-02-15"	releaseName="[TEMP] Vanilla Fudge Bunny Small Fry" /> 
+		<a	id="385"	available="2011-04-25"	releaseName="Colorful Speckled Friend"/>
+		<a	id="386"	available="2011-03-16"	releaseName="Endless Hearts Teddy"/>
+		<a	id="387"	available="2011-04-01"	releaseName="Baseball Fleece Bear"/>
+		<a	id="388"	available="2011-04-20"	releaseName="Greenzy Panda"/>
+		<a	id="389"	available="2011-04-08"	releaseName="Hedgehog"/>
+		<a	id="390"	available="2011-04-01"	releaseName="Cardinal"/>
+		<a	id="391"	available="2011-04-18"	releaseName="E.B."/>
+		<a	id="392"	available="2011-04-22"	releaseName="Striped Stingray"/>
+		<a	id="393"	available="2011-04-25"	releaseName="Colorful Hearts Bear"/>
+		<a	id="394"	available="2011-03-18"	releaseName="Daisy Bunny"/>
+		<a	id="395"	available="2011-04-25"	releaseName="Colorful Peace Bear"/>
+		<a	id="396"	available="2011-04-25"	releaseName="Colorful Stripes Bear"/>
+		<a	id="397"	available="2011-05-10"	releaseName="Pirate Bear"/>
+		<a	id="398"	available="2011-05-11"	releaseName="Tasmanian Wolf"/>
+		<a	id="399"	available="2011-05-12"	releaseName="Champ IV"/>
+		<a	id="400"	available="2011-05-27"	releaseName="Zoo Billy Goat"/>
+		<a	id="401"	available="2011-05-20"	releaseName="Dalmatian"/>		
+		<a	id="402"	available="2011-05-20"	releaseName="Siamiese Cat"/>		
+		<a	id="403"	available="2011-05-01"	releaseName="Virtual Bear Kitty with spots"/>		
+		<a	id="404"	available="2011-05-01"	releaseName="Virtual Bear Kitty with bubbles"/>		
+		<a	id="405"	available="2011-05-01"	releaseName="Virtual Bear Kitty with stars"/>		
+		<a	id="406"	available="2011-05-01"	releaseName="Virtual Bear Dog with spots"/>		
+		<a	id="407"	available="2011-05-01"	releaseName="Virtual Bear Dog with bubbles"/>		
+		<a	id="408"	available="2011-05-01"	releaseName="Virtual Bear Dog with stars"/>		
+		<a	id="409"	available="2011-05-01"	releaseName="Virtual Bear Monkey with spots"/>		
+		<a	id="410"	available="2011-05-01"	releaseName="Virtual Bear Monkey with bubbles"/>		
+		<a	id="411"	available="2011-05-01"	releaseName="Virtual Bear Monkey with stars"/>		
+		<a	id="412"	available="2011-05-01"	releaseName="Virtual Bear Bunny with spots"/>		
+		<a	id="413"	available="2011-05-01"	releaseName="Virtual Bear Bunny with bubbles"/>		
+		<a	id="414"	available="2011-05-01"	releaseName="Virtual Bear Bunny with stars"/>		
+		<a	id="415"	available="2011-05-06"	releaseName="Hello Kitty Pink"/>	
+		<a	id="416"	available="2011-05-20"	releaseName="Colorful Hearts"/>	
+		<a	id="417"	available="2011-05-20"	releaseName="Curly Bunny"/>	
+		<a	id="418"	available="2011-05-20"	releaseName="Dragon"/>	
+		<a	id="419"	available="2011-05-20"	releaseName="Fucshia Monkey"/>	
+		<a	id="420"	available="2011-05-20"	releaseName="Grey Kitty"/>	
+		<a	id="421"	available="2011-05-20"	releaseName="Hip Hippo"/>	
+		<a	id="422"	available="2011-05-20"	releaseName="Penguin"/>
+		<a	id="423"	available="2011-07-01"	releaseName="Virtual Bear Euro Rabbit with Happy face" />
+		<a	id="424"	available="2011-07-01"	releaseName="Virtual Bear Euro Rabbit with Bubbles" />
+		<a	id="425"	available="2011-07-01"	releaseName="Virtual Bear Euro Rabbit with Stars" />
+		<a	id="426"	available="2011-07-01"	releaseName="Virtual Bear Zoo Grizzly with Happy face" />
+		<a	id="427"	available="2011-07-01"	releaseName="Virtual Bear Zoo Grizzly with Bubbles" />
+		<a	id="428"	available="2011-07-01"	releaseName="Virtual Bear Zoo Grizzly with Stars" />
+		<a  id="429"	available="2011-06-17"	releaseName="Cookie Dough Blizzard Bear" />
+		<a  id="430"	available="2011-06-17"	releaseName="Candy Blizzard Bear" />
+		<a  id="431"	available="2011-06-17"	releaseName="Strawberry Cheesecake Blizzard Bear" />
+		<a  id="432"	available="2011-06-17"	releaseName="Cherry Berry Blizzard Bear" />
+		<a  id="433"	available="2011-06-10"	releaseName="Bald Eagle" />
+		<a  id="434"	available="2011-07-01"	releaseName="Read Teddy" />
+		<a  id="435"	available="2011-07-15"	releaseName="Clumsey Smurf" />
+		<a  id="436"	available="2011-07-15"	releaseName="Smurfette" />
+		<a  id="437"	available="2011-07-08"	releaseName="Champ IV" />
+		<a  id="438"	available="2011-07-08"	releaseName="Blue Marble Bear" />
+		<a  id="439"	available="2011-08-05"	releaseName="Flower BFF Bear" />
+		<a  id="440"	available="2011-08-05"	releaseName="Heart BFF Bear" />
+		<a  id="441"	available="2011-08-05"	releaseName="Peace Kitty Bear" />
+		<a  id="442"	available="2011-08-15"	releaseName="Velociraptor Bear" />
+		<a  id="443"	available="2011-08-01"	releaseName="Patchwork Bunny Bear" />
+		<a  id="444"	available="2011-08-19"	releaseName="Peace &amp; Hearts Bear" />
+		<a  id="445"	available="2011-08-15"	releaseName="Polka Dot Dino Bear" />
+		<a  id="446"	available="2011-07-01"	releaseName="Endless Hearts Bear" />
+		<a  id="447"	available="2011-07-01"	releaseName="Peace Bear" />
+		<a  id="448"	available="2011-07-01"	releaseName="Floppy Dog Bear" />
+		<a  id="449"	available="2011-09-01"	releaseName="Peace &amp; Smiles Teddy" />
+		<a  id="450"	available="2011-09-01"	releaseName="Turquoise Tiger" />
+		<a  id="451"	available="2011-09-01"	releaseName="Lime Leopard" />
+		<a  id="452"	available="2011-09-01"	releaseName="Purple Giraffe" />
+		<a  id="453"	available="2011-09-01"	releaseName="Fuchsia Zebra" />
+		<a  id="454"	available="2011-09-01"	releaseName="Endless Hearts Teddy" />
+		<a  id="455"	available="2011-09-01"	releaseName="Fuzzy Koala" />
+		<a  id="456"	available="2011-09-01"	releaseName="Autumn Hugs Teddy" />
+		<a  id="457"	available="2011-09-01"	releaseName="Fennec Fox" />
+		<a  id="458"	available="2011-09-01"	releaseName="Hedgehog" />
+		<a  id="459"	available="2011-09-01"	releaseName="Racoon" />
+		<a  id="460"	available="2011-09-16"	releaseName="Snoopy" />
+		<a  id="461"	available="2011-09-16"	releaseName="Fun Fleece Owl" />
+		<a  id="462"	available="2011-10-01"	releaseName="German Shephard" />
+		<a  id="463"	available="2011-09-09"	releaseName="Cuddly Hearts Teddy Blue" />
+		<a  id="464"	available="2011-09-09"	releaseName="Cuddly Hearts Teddy Pink" />
+		<a  id="465"	available="2011-09-30"	releaseName="Orange Hello Kitty" />
+		<a  id="466"	available="2011-09-01"	releaseName="Fuzzy Koala" />
+		<a	id="467"	available="2011-11-01"	releaseName="Artic Polar Bear" />
+		<a	id="468"	available="2011-11-01"	releaseName="Erik" />
+		<a	id="469"	available="2011-11-01"	releaseName="Gingerbread Boy" />
+		<a	id="470"	available="2011-11-01"	releaseName="Gingerbread Girl" />
+		<a	id="471"	available="2011-11-01"	releaseName="White Hello Kitty" />
+		<a	id="472"	available="2011-11-01"	releaseName="Winter Wonder Teddy" />
+		<a	id="473"	available="2011-11-01"	releaseName="Downtown Disney Bear" />
+		<a  id="474"	available="2011-11-01"	releaseName="Virtual Bear Golden Retriever with dots" />
+		<a  id="475"	available="2011-11-01"	releaseName="Virtual Bear Golden Retriever with snowflakes" />
+		<a  id="476"	available="2011-11-01"	releaseName="Virtual Bear Golden Retriever with stars" />
+		<a	id="477"	available="2011-11-25"	releaseName="I Heart NY smallfry" />
+		<a	id="478"	available="2011-11-25"	releaseName="Bluestar Smallfry" />
+		<a	id="479"	available="2011-11-25"	releaseName="Brittany" />
+		<a	id="480"	available="2011-11-25"	releaseName="Alvin" />
+		<!-- <a	id="481"	available="2011-11-25"	releaseName="Winter Wishes Teddy" /> -->
+		<a	id="482"	available="2011-12-01"	releaseName="Disney Ears Puppy" />
+		<a	id="483"	available="2011-12-01"	releaseName="Mall of America Bear" />
+		<a	id="484"	available="2011-12-26"	releaseName="Sugar Cookie Bear" />
+		<a	id="485"	available="2011-12-26"	releaseName="Sprinkles Donut Bear" />
+		<a	id="486"	available="2011-12-26"	releaseName="Confetti Cupcake Bear" />
+		<a	id="487"	available="2011-12-26"	releaseName="I Heart London Bear" />
+		<a	id="488"	available="2011-12-26"	releaseName="I Heart Great Britain Bear" />
+		<a	id="489"	available="2012-01-06"	releaseName="Kisses For You Puppy" />
+		<a	id="490"	available="2012-01-06"	releaseName="Kisses For You Kitty" />
+		<a	id="491"	available="2011-12-15"	releaseName="Papa Smurf" />
+		<a	id="492"	available="2012-01-06"	releaseName="Brilliant Bear" />
+		<a	id="493"	available="2012-01-12"	releaseName="Red Hello Kitty" />
+		<a	id="494"	available="2030-01-01"	releaseName="Red Furry Friend" />
+		<a	id="495"	available="2012-01-13"	releaseName="Happy Smiles Teddy" />
+		<a	id="496"	available="2012-01-23"	releaseName="Pawsome Puppy" />
+		<a	id="497"	available="2012-01-23"	releaseName="Pink Hearts Puppy" />
+		<a	id="498"	available="2012-01-20"	releaseName="Victoria Justice Bear" />
+		<a	id="499"	available="2012-02-03"	releaseName="Green Furry Friend" />
+		<a	id="500"	available="2012-02-03"	releaseName="Pink Furry Friend" />
+		<a	id="501"	available="2012-02-15"	releaseName="Lucky Plaid Teddy" />
+		<a	id="502"	available="2012-02-15"	releaseName="Cele-BEAR-ation Teddy" />
+		<a	id="503"	available="2012-02-20"	releaseName="Scribbles NY Bear" />
+		<a	id="504"	available="2012-02-15"	releaseName="Tabby Kitty" />
+		<a	id="505"	available="2012-02-15"	releaseName="Pink Hearts Teddy" />
+		<a	id="506"	available="2012-02-15"	releaseName="Peace &amp; Hearts Bear" />
+		<a	id="507"	available="2012-02-15"	releaseName="Elephant" />
+		<a	id="508"	available="2012-03-01"	releaseName="Cherry Blossom Teddy" />
+		<a	id="509"	available="2012-03-16"	releaseName="Girl Scouts Bear" />
+		<a	id="510"	available="2012-03-01"	releaseName="Cards Rally Squirrel" />
+		<a	id="511"	available="2012-04-13"	releaseName="Acrylic Bear" />
+		<a	id="512"	available="2012-03-02"	releaseName="Watercolor Bunny" />
+		<a	id="513"	available="2012-03-02"	releaseName="Blossum Bunny" /><!-- Smallfry -->
+		<a	id="514"	available="2012-03-01"	releaseName="Champ" /><!-- Smallfry -->
+		<a	id="515"	available="2012-03-01"	releaseName="Happy Hugs" /><!-- Smallfry -->
+		<a	id="516"	available="2012-03-02"	releaseName="Fuzzy Lamb" /><!-- Smallfry -->
+		<a	id="517"	available="2012-03-01"	releaseName="Parrot" /><!-- Smallfry -->
+		<a	id="518"	available="2012-03-01"	releaseName="Pink Bunny" /><!-- Smallfry -->
+		<a	id="519"	available="2012-03-01"	releaseName="Diplodocus Mulit" />
+		<a	id="520"	available="2012-03-01"	releaseName="Giants Fleece Bear" />
+		<a	id="521"	available="2012-03-16"	releaseName="Purple Hello Kitty" />
+		<a	id="522"	available="2012-03-30"	releaseName="Colorful Hearts II" />
+		<a	id="523"	available="2012-03-01"	releaseName="Cards ws Bear" />
+		<a	id="524"	available="2012-03-01"	releaseName="Nationals Tie Dye Bear" />
+		<a	id="525"	available="2012-03-01"	releaseName="Myrtle Beach Bear" />
+		<a	id="526"	available="2012-03-01"	releaseName="Myrtle Beach Bunny" />
+		<a	id="527"	available="2012-04-20"	releaseName="Bubblegum Bear" />			<!-- Smallfry -->
+		<a	id="528"	available="2012-04-20"	releaseName="Mint Chip Bear" />		<!-- Smallfry -->
+		<a	id="529"	available="2012-04-20"	releaseName="Hot Fudge Sundae Bear" />	<!-- Smallfry -->
+		<a	id="530"	available="2012-04-20"	releaseName="Orange Sherbet Bear" />	<!-- Smallfry -->
+		<a	id="531"	available="2012-04-20"	releaseName="Cow" />					<!-- Smallfry -->
+		<a	id="532"	available="2012-04-20"	releaseName="Pig" />					<!-- Smallfry -->
+		<a	id="533"	available="2012-04-20"	releaseName="Virtual Bear" />	<!-- exact copy of 348 -->
+		<a	id="534"	available="2012-04-09"	releaseName="Twinkle Butterfly" />
+		<a	id="535"	available="2012-04-09"	releaseName="Blooming Teddy" />
+		<a	id="536"	available="2012-04-09"	releaseName="Rainbow Hugs Bear" />
+		<a	id="537"	available="2012-04-20"	releaseName="Zoo Meerkat" />
+		<a	id="538"	available="2012-05-01"	releaseName="Calico Cat" />
+		<a	id="539"	available="2012-05-04"	releaseName="Horse" />
+		<a	id="540"	available="2012-05-04"	releaseName="Pig" />
+		<a	id="541"	available="2012-05-04"	releaseName="Sheep" />		<!-- duplicate of 373 -->
+		<a	id="542"	available="2012-05-04"	releaseName="Zoo Llama" />	<!-- duplicate of 375 -->
+		<a	id="543"	available="2012-06-01"	releaseName="BKP Chocolate Lab" />
+		<a	id="544"	available="2012-06-01"	releaseName="Blonde Doll" />
+		<a	id="545"	available="2012-06-01"	releaseName="Brunette Doll" />
+		<a	id="546"	available="2012-06-01"	releaseName="Oodles of Fun Octopus" />
+		<a	id="547"	available="2012-06-01"	releaseName="Travelin Sea Turtle" />
+		<a	id="548"	available="2012-06-01"	releaseName="Splish Splash Sea Horse" />
+		<a	id="549"	available="2012-06-01"	releaseName="Deep Blue Sea Bear" />
+		<a	id="550"	available="2012-06-01"	releaseName="Coral beach Bunny" />
+		<a	id="551"	available="2012-06-15"	releaseName="Minnie Bear" />
+		<a	id="552"	available="2012-05-18"	releaseName="Star Style Teddy" />	<!-- duplicate of 483 -->
+		<a	id="553"	available="2012-06-29"	releaseName="Twinkle Toes Bear" />
+		<a	id="554"	available="2012-06-29"	releaseName="Hot Lights Bear" />
+		<a	id="555"	available="2012-07-01"	releaseName="Cookie Monster" />
+		<a	id="556"	available="2012-07-12"	releaseName="Sid" />
+		<a	id="557"	available="2012-07-12"	releaseName="Scrat" />
+		<a	id="558"	available="2012-07-20"	releaseName="Leopard-Print Hello Kitty" />
+		<a	id="559"	available="2012-08-13"	releaseName="Colorful Stars Bear" />
+		<a	id="560"	available="2012-06-27"	releaseName="Red Fox Bear" />
+		<a	id="561"	available="2012-08-03"	releaseName="Friends Count Heart Bear" /> <!-- duplicate of 139 -->
+		<a	id="562"	available="2012-08-03"	releaseName="Friends Count Star Bear" /> <!-- duplicate of 106 -->		
+		<a	id="566"	available="2012-07-04"	releaseName="Patriotic Red, White &amp; Blue Striped Bear" /> <!-- recolor 536 -->
+		<a	id="567"	available="2012-08-10"	releaseName="Rainbow Swirl" />			<!-- Smallfry -->
+		<a	id="568"	available="2012-08-10"	releaseName="Vanilla Cream Bunny" />	<!-- Smallfry -->
+		<a	id="569"	available="2012-08-10"	releaseName="Cheerful Monkey" />		<!-- Smallfry -->
+		<a	id="570"	available="2012-08-31"	releaseName="Wolf" />					<!-- Smallfry -->
+		<a	id="571"	available="2012-08-31"	releaseName="Cheetah" />				<!-- Smallfry -->
+		<a	id="572"	available="2012-08-31"	releaseName="Lion" />					<!-- Smallfry -->
+		<a	id="573"	available="2012-08-17"	releaseName="Rebecca Bonbon" />
+		<a	id="574"	available="2012-08-31"	releaseName="WWF Leopard" />
+		<a	id="575"	available="2012-09-01"	releaseName="Midnight Teddy" />
+		<a	id="576"	available="2012-09-14"	releaseName="Shake It Up Bunny" />
+		<a	id="577"	available="2030-01-01"	releaseName="Striped Pteranodon" />
+		<a	id="578"	available="2030-01-01"	releaseName="Striped Brachiosaurus" />	
+		<a	id="579"	available="2030-01-01"	releaseName="Carnotosaurus" />
+		<a	id="580"	available="2012-08-17"	releaseName="Velvet Hugs Teddy" />
+		<a	id="581"	available="2012-08-17"	releaseName="Velvet Heart teddy" />
+		<a	id="582"	available="2012-07-24"	releaseName="Peanut Butter Cub" />
+		<a	id="583"	available="2012-07-24"	releaseName="Sweet Smiles Bunny" />
+		<a	id="584"	available="2012-10-01"	releaseName="Virtual Dino with dots" />
+		<a	id="585"	available="2012-10-01"	releaseName="Virtual Dino with stars" />
+		<a	id="586"	available="2012-09-28"	releaseName="Pumpkin Pal Teddy" />
+		<a	id="587"	available="2030-01-01"	releaseName="Arctic Fox" />
+		<a	id="588"	available="2012-10-19"	releaseName="School Cool Bearemy" />
+		<a	id="589"	available="2012-10-19"	releaseName="Pink Flurry Teddy" />
+		<a	id="590"	available="2012-10-19"	releaseName="Zoo Monarch Butterfly" />
+		<a	id="591"	available="2030-01-01"	releaseName="I Heart NY Puppy" />
+		<a	id="592"	available="2012-09-28"	releaseName="Ghost" />						<!-- Smallfry -->
+		<a	id="593"	available="2012-09-28"	releaseName="Black Cat" />					<!-- Smallfry -->
+		<a	id="594"	available="2012-09-28"	releaseName="Poodle" />						<!-- Smallfry -->
+		<a	id="595"	available="2012-10-01"	releaseName="Pudsey" />						<!-- Smallfry -->
+		<a	id="596"	available="2012-10-01"	releaseName="Blush" />						<!-- Smallfry -->
+		<a	id="597"	available="2012-10-12"	releaseName="Calico Cat" />					<!-- Smallfry -->
+		<a	id="598"	available="2012-10-12"	releaseName="Lil' Bunny Big Ears" />		<!-- Smallfry -->
+		<a	id="599"	available="2012-10-19"	releaseName="Happy Husky" />
+		<a	id="600"	available="2030-01-01"	releaseName="BKP Scotty Dog" />
+		<a	id="601"	available="2012-10-01"	releaseName="Pudsey" />
+		<a	id="602"	available="2012-10-01"	releaseName="Blush" />
+		<a	id="603"	available="2012-11-23"	releaseName="Hello Kitty Pink with Scarf" />			<!-- Smallfry -->
+		<a	id="604"	available="2012-11-23"	releaseName="Hello Kitty Purple with Scarf" />			<!-- Smallfry -->
+		<a	id="605"	available="2012-11-23"	releaseName="Hello Kitty Red with Scarf" />	<!-- Smallfry -->
+		<a	id="606"	available="2012-11-23"	releaseName="Sock Monkey" />			<!-- Smallfry -->
+		<a	id="607"	available="2012-11-23"	releaseName="Merry Mint Pup" />			<!-- Smallfry -->
+		<a	id="608"	available="2012-11-01"	releaseName="Golden Pup" />			<!-- Smallfry -->	<!-- duplicate 381 -->
+		<a	id="609"	available="2012-11-01"	releaseName="Elf on the Shelf Boy" />
+		<a	id="610"	available="2012-11-01"	releaseName="Elf on the Shelf Girl" />
+		<a	id="611"	available="2012-11-01"	releaseName="Merry Mint Pup" />
+		<a	id="612"	available="2012-11-07"	releaseName="Snowman" />
+		<a	id="613"	available="2012-11-07"	releaseName="Grinch" />
+		<a	id="614"	available="2012-11-23"	releaseName="Gingerbread Hello Kitty" />
+		<a	id="615"	available="2012-12-09"	releaseName="Paddington Bear" />
+		<a	id="616"	available="2012-11-01"	releaseName="Holiday Hugs Bear" />
+		<a	id="617"	available="2012-11-23"	releaseName="Flurry Friend - Black Friday US Boy" />
+		<a	id="618"	available="2012-11-23"	releaseName="Flurry Friend - Black Friday US Girl" />
+		<a	id="619"	available="2012-11-23"	releaseName="Penguin - Black Friday UK Boy" />
+		<a	id="620"	available="2012-11-23"	releaseName="Penguin - Black Friday UK Girl" />
+		<a	id="621"	available="2012-11-01"	releaseName="Christmas Cookie Bear" />
+		<a	id="622"	available="2012-10-31"	releaseName="Cute Caramel Puppy" />
+		<a	id="623"	available="2012-11-01"	releaseName="Poodle INT" />
+		<a  id="624" 	available="2013-01-04"	releaseName="Blue Camo Bear" />				<!-- Smallfry -->
+		<a  id="625" 	available="2013-01-04"	releaseName="Cup Cake Bear" />				<!-- Smallfry -->
+		<a  id="626" 	available="2013-01-04"	releaseName="Friendly Frog Bear" />			<!-- Smallfry -->
+		<a  id="627" 	available="2013-01-04"	releaseName="Furever Hearts Bear" />		<!-- Smallfry -->
+		<a  id="628" 	available="2013-01-04"	releaseName="Lady Love Bug" />				<!-- Smallfry -->
+		<a	id="629"	available="2012-12-12"	releaseName="Year of the Snake" />
+		<a	id="630"	available="2012-11-24"	releaseName="Neon Triceratops" />
+		<a	id="631"	available="2013-01-04"	releaseName="Hearts-A-Plenty Puppy" />
+		<a	id="632"	available="2013-01-04"	releaseName="Love Hello Kitty" />
+		<a	id="633"	available="2013-01-11"	releaseName="Princess Bear" />
+		<a	id="634"	available="2013-01-18"	releaseName="Harajuku Hugs Panda" />
+		<a	id="635"	available="2013-01-18"	releaseName="Hugs So Bright Teddy" />
+		<a	id="636"	available="2013-01-18"	releaseName="Jammin' Bunny" />
+		<a	id="637"	available="2013-01-18"	releaseName="Blushing Beauty Kitty" />
+		<a	id="638" 	available="2013-02-01"	releaseName="Thin Mint Bear" />
+		<a	id="639" 	available="2013-02-15"	releaseName="Lucky Clover Teddy" />
+		<a	id="640" 	available="2013-02-15"	releaseName="Flower Fun Bunny" />
+		<a	id="641" 	available="2013-02-15"	releaseName="Chirpy Chick" />
+		<a	id="642" 	available="2013-02-01"	releaseName="Downtown Disney Bear" />
+		<a  id="643" 	available="2013-03-01"	releaseName="Cream Puff Kitty" />
+		<a	id="644" 	available="2013-03-01"	releaseName="Zebra" />
+		<a	id="645" 	available="2013-03-01"	releaseName="Purple T-Rex" />
+		<a	id="646" 	available="2013-03-01"	releaseName="Charcoal Stegosaurus" />
+		<a	id="647" 	available="2013-01-23"	releaseName="Champ - A Champion Fur Kids" />
+		<a  id="648" 	available="2013-01-23"	releaseName="Citrus Bunny" />				<!-- Smallfry -->
+		<a  id="649" 	available="2013-01-23"	releaseName="Cuddly Lamb" />				<!-- Smallfry -->
+		<a  id="650" 	available="2013-01-23"	releaseName="Shaggy Pup" />					<!-- Smallfry -->
+		<a  id="651" 	available="2013-01-23"	releaseName="Chocolate Bunny" />			<!-- Smallfry -->
+		<a  id="652" 	available="2013-01-23"	releaseName="Fuzzy Duck" />					<!-- Smallfry -->
+		<a  id="653" 	available="2013-03-01"	releaseName="Myrtle Beach Bunny" />
+		<a  id="654" 	available="2013-03-01"	releaseName="Cherry Blossum Bunny" />
+		<a	id="655"	available="2013-02-08"	releaseName="[TEMP] Pink Flower Hello Kitty" />	<!-- Smallfry -->
+		<a	id="656"	available="2013-02-08"	releaseName="[TEMP] Sunny Hello Kitty" />		<!-- Smallfry -->
+		<a	id="657"	available="2013-02-08"	releaseName="[TEMP] Pawfectly Pink Flamingo" />	<!-- Smallfry -->
+		<a	id="658"	available="2013-02-08"	releaseName="[TEMP] Chocolate Labrador" />		<!-- Smallfry -->
+		<a	id="659"	available="2013-02-08"	releaseName="[TEMP] Cuddly Puppy" />			<!-- Smallfry -->
+		<a	id="660"	available="2013-02-08"	releaseName="[TEMP] Cardinal Bird" />			<!-- Smallfry -->
+		<a	id="661"	available="2013-02-08"	releaseName="[TEMP] Clydesdale" />				<!-- Smallfry -->
+		<a	id="662"	available="2013-02-01"	releaseName="Surfin' Teddy" />
+		<a	id="663"	available="2013-03-29"	releaseName="Autism Speaks Bear" />
+		<a	id="664"	available="2013-04-13"	releaseName="St. Louis Cooperstown Bear" />
+		<a	id="665"	available="2013-03-15"	releaseName="Sunshine Hello Kitty" />
+		<a	id="666"	available="2013-04-13"	releaseName="Duggie, the Dugout Dog" />
+		<a	id="667"	available="2013-03-06"	releaseName="Fudge Pup" />
+		<a	id="668"	available="2013-03-22"	releaseName="Hippo" />
+		<a	id="669"	available="2030-04-01"	releaseName="[TEMP] London Bear" />
+		<a	id="670"	available="2013-04-01"	releaseName="Pinkie Pie" />
+		<a	id="671"	available="2013-04-01"	releaseName="Rainbow Dash" />
+		<a	id="672"	available="2013-04-13"	releaseName="Tie Dye Monkey" />
+		<a	id="673"	available="2013-05-03"	releaseName="Peace &amp; Love Bear" />
+		<a	id="674"	available="2013-05-03"	releaseName="Tropicolor Teddy" />
+		<a	id="675"	available="2013-05-17"	releaseName="SpongeBob" />
+		<a	id="676"	available="2013-05-17"	releaseName="Patrick" />
+		<a	id="677"	available="2013-05-10"	releaseName="Blue Stingray" />
+		<a	id="678"	available="2013-04-17"	releaseName="Velvet Teddy" />
+		<a	id="679"	available="2013-05-01"	releaseName="Pug" />
+		<a	id="680"	available="2013-05-24"	releaseName="Sea Turtle" />
+		<a	id="681"	available="2013-05-03"	releaseName="Blue Cuddles smallfry" />
+		<a	id="682"	available="2013-05-03"	releaseName="Pink Cuddles smallfry" />
+		<a	id="683"	available="2013-04-01"	releaseName="Toucan" />
+		<a	id="684"	available="2013-04-01"	releaseName="Superman Bear" />
+		<a	id="685"	available="2013-04-01"	releaseName="Razzy Berry Kitty" />
+		<a	id="686"	available="2013-04-01"	releaseName="Jazzy Frog" />
+		<a	id="687"	available="2013-04-01"	releaseName="Pizazzy Bear" />
+		<a	id="688"	available="2013-04-01"	releaseName="Cody Simpson Koala" />
+		<a	id="689"	available="2013-04-01"	releaseName="Sulley" />
+		<a	id="690"	available="2013-04-01"	releaseName="Beach Bear Smallfry" />
+		<a	id="691"	available="2013-04-01"	releaseName="Oodles of Fun Octopus Smallfry" />
+		<a	id="692"	available="2013-04-01"	releaseName="Travelin' Sea Turtle Smallfry" />
+		<!-- June 2013 -->
+		<a	id="693"	available="2013-04-01"	releaseName="Clever Fox" />
+		<a	id="694"	available="2013-04-01"	releaseName="Mighty Bear" />
+		<a	id="695"	available="2013-04-01"	releaseName="Pink Pal Owl" />
+		<a	id="696"	available="2013-04-01"	releaseName="Smiley Skunk" />
+		<a	id="697"	available="2013-04-01"	releaseName="Huggable Hedgehog" />
+		<a	id="698"	available="2013-04-01"	releaseName="New Smurfette" />
+		<a	id="699"	available="2013-04-01"	releaseName="Vexy" />
+		<a	id="700"	available="2013-04-01"	releaseName="Hackus" />
+		<a	id="701"	available="2013-04-01"	releaseName="Peaks Dragon" />
+		<!-- July 2013 -->
+		<a	id="702"	available="2013-08-02"	releaseName="Peace &amp; Love Bear" />
+		<a	id="703"	available="2013-08-02"	releaseName="Tropicolor Teddy" />
+		<a	id="704"	available="2013-08-30"	releaseName="Frightfully Fun Girl" />
+		<a	id="705"	available="2013-08-30"	releaseName="Mr. Monster" />
+		<a	id="706"	available="2013-08-01"	releaseName="Princess Twilight Sparkle" />
+		<a	id="707"	available="2013-08-09"	releaseName="Wild About Spots Cat" />
+		<a	id="708"	available="2013-08-09"	releaseName="Wild About Stripes Bear" />
+		<a	id="709"	available="2013-08-16"	releaseName="I Love One Direction Bear" />
+		<a	id="710"	available="2013-08-30"	releaseName="WWF Red Panda" />
+		<!-- August 2013 -->
+		<a	id="711"	available="2013-09-15"	releaseName="Lucky Kitty" />
+		<a	id="712"	available="2013-09-15"	releaseName="Champ V" />
+		<a	id="713"	available="2013-09-15"	releaseName="Champ VI" />
+		<a	id="714"	available="2013-09-15"	releaseName="Pinky The Penguin" />
+		<a	id="715"	available="2013-09-15"	releaseName="Dora The Explorer" />
+		<a	id="716"	available="2013-09-15"	releaseName="Boots" />
+		<a	id="717"	available="2013-09-15"	releaseName="Rainbow Apatosaurus" />
+		<!-- October 2013 -->
+		<a	id="718"	available="2013-10-04"	releaseName="Unicorn" />
+		<a	id="719"	available="2013-10-04"	releaseName="Pengy The Penguin" />
+		<a	id="720"	available="2013-10-11"	releaseName="Snowy Sparkles Bunny" />
+		<a	id="721"	available="2013-10-11"	releaseName="Cutie Bunny" />
+		<a	id="722"	available="2013-10-11"	releaseName="Cutie Cat" />
+		<a	id="723"	available="2013-10-11"	releaseName="Blue Snow Flake Bear" />
+		<!-- October B 2013 -->
+		<a	id="724"	available="2013-11-01"	releaseName="Wishes Santa" />
+		<a	id="725"	available="2013-11-01"	releaseName="Merry Mouse" />
+		<a	id="726"	available="2013-11-01"	releaseName="The Snowdog" />
+		<a	id="727"	available="2013-11-01"	releaseName="Blue Snowflake Bear" />
+		<!-- November 2013 -->
+		<a	id="728"	available="2013-11-07"	releaseName="Snowy Smiles Bunny" />
+		<a	id="729"	available="2013-11-29"	releaseName="Boy Sock Monkey" />
+		<a	id="730"	available="2013-11-29"	releaseName="Girl Sock Monkey" />
+		<!-- December 2013 -->
+		<a	id="731"	available="2013-12-01"	releaseName="Fluttershy" />
+		<a	id="732"	available="2014-01-01"	releaseName="Big Top Bearemy" />
+		<a	id="733"	available="2014-01-01"	releaseName="Big Hearts Bear" />
+		<a	id="734"	available="2013-12-26"	releaseName="Blingy Kitty" />
+		<a	id="735"	available="2013-12-26"	releaseName="Blingy Pony" />
+		<a	id="736"	available="2014-01-01"	releaseName="Huge Hearted Lion" />
+		<a	id="737"	available="2014-01-01"	releaseName="Tons of Love Elephant" />
+		<a	id="738"	available="2013-12-11"	releaseName="My First Bear" />
+		<!-- January 2014 -->
+		<a	id="739"	available="2014-02-14"	releaseName="Captain America Bear" />
+		<a	id="740"	available="2014-01-31"	releaseName="GS Coconut Caramel Bear" />
+		<a	id="741"	available="2014-02-14"	releaseName="Pawrincess Bear" />
+		<a	id="742"	available="2014-02-14"	releaseName="Shimmerin' Shamrock Bear" />
+		<a	id="743"	available="2014-02-14"	releaseName="Spider-Man Bear" />
+		<a	id="744"	available="2014-01-17"	releaseName="Pink Hearts Hello Kitty" />
+		<a	id="745"	available="2014-02-14"	releaseName="Palace Pets Treasure" />
+		<a	id="746"	available="2014-02-14"	releaseName="Palace Pets Pumpkin" />
+		<a	id="747"	available="2014-02-14"	releaseName="Pawrincess Kitty" />
+	</default_sidekick>
+</avatar_sidekick>

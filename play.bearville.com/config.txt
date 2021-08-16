@@ -1,0 +1,1 @@
+BaseScriptPath=http://play.bearville.com/&loader=0&encry=0

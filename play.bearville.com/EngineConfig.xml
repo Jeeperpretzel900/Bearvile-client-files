@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<config>
+
+	<sfs>		<!-- DEPRECATED -->
+		<ext name ="HideGame" command="HIDE" id="3"/>
+		<ext name ="ServerTimer" command="TIMER" id="4"/>
+	</sfs>
+
+	<engine>
+		<m01 id="0" lang="en" text="Unable to establish a connection with any server. Please try later."/>
+		<m01 id="1" lang="en" text="Oops! The den connection was interrupted. Please try again."/>
+		<m02 id="2" lang="en" text="Connection to the server failed. Please try later."/>
+		<m03 id="3" lang="en" text="Login failed! Try later."/>
+		<m04 id="4" lang="en" text="Login failed! Wrong password!"/>
+		<m05 id="5" lang="en" text="Error, unable to load config file!"/>
+		<m06 id="6" lang="en" text="Error, unable to retreive zone list from the server!"/>
+	</engine>
+
+	<void>
+		<zone name="Void01" ip="vwgame01.bearville.com" port="9339"/>
+		<zone name="Void02" ip="vwgame02.bearville.com" port="9339"/>
+		<zone name="Void03" ip="vwgame03.bearville.com" port="9339"/>
+		<zone name="Void04" ip="vwgame04.bearville.com" port="9339"/>
+		<!--<zone name="Void05" ip="vwgame05.bearville.com" port="9339"/>
+		<zone name="Void06" ip="vwgame06.bearville.com" port="9339"/>-->
+		<zone name="Void07" ip="vwgame07.bearville.com" port="9339"/>
+		<zone name="Void08" ip="vwgame08.bearville.com" port="9339"/>
+		<!--<zone name="Void09" ip="vwgame09.bearville.com" port="9339"/>
+		<zone name="Void10" ip="vwgame10.bearville.com" port="9339"/>-->
+	</void>
+
+	<global>
+		<var name="debug" value="false"/>
+		<var name="debugStoreProc" value="false"/>
+		<var name="ping_frequency" value="120000"/>
+		<var name="lobby" value="Void"/>
+		<var name="show_framerate" value="false"/>
+		<var name="loader_show_treshold" value="1000"/>
+		<var name="script_path" value="http://play.bearville.com/"/>
+		<var name="default_lang" value="en"/>
+		<var name="cleanup_interval" value="60000"/>
+		<var name="connection_time_out" value="6000"/>
+		<var name="client_version" value="V3.0.0.0"/>
+		<var name="disconnect_time_out" value="15"/>
+		<var name="SilentDensList" value="Furever~Woods~Sunny~Paw Peak~Pawsome Park"/>
+	</global>
+
+	<planet>
+		<var name="max_visible_avatar" value="10"/>
+	</planet>
+	
+	<version>
+		<var name="show_client_version" value="0"/>
+	</version>
+
+	<addresses>
+		<var name="landingpageURL" value="http://www.bearville.com/"/>
+		<var name="pledge_box" value="http://www.buildabear.com/lovehugspeace/"/>
+		<var name="ask_bearemy" value="askbearemy@buildabear.com" />
+		<var name="photobooth_pics" value="http://zazzle.bearville.com/picture/" />
+		<var name="help_request" value="vwhelp@buildabear.com"/>
+		<var name="report_request" value="vwpatrol@buildabear.com"/>
+		<var name="betafeedback_address" value="vwfeedback@buildabear.com"/>
+		<var name="tell_a_friend" value="Bearville"/>
+	</addresses>
+
+	<minigame>
+		<var name="dailyGame" value="1"/>
+	</minigame>
+
+	<tutorial>
+		<var name="res_id" value="34"/>
+		<var name="activated" value = "1" />
+	</tutorial>
+
+	<help>
+		<var name="help_address" value="vwhelp@buildabear.com"/>
+		<var name="report_address" value="vwpatrol@buildabear.com"/>
+		<var name="betafeedback_address" value="vwfeedback@buildabear.com"/>
+		<var name="tell_a_friend" value="noreply@buildabear.com"/>
+		<var name="change_email" value="vwpatrol@buildabear.com"/>
+	</help>
+
+	<chat>
+		<var name="loadLists" value="1"/> <!-- Prevents the loading of the chat lists if set to anything else than "1" -->
+	</chat>
+
+	<ai>
+		<var name="active" value="1"/>
+		<var name="max_bear" value ="5" /> <!--Number of bear that we can see, don't include the owner bear-->
+	</ai>
+	
+	<celebrity>
+		<!-- Please keep the whitespace as it makes it easier to merge the files -->
+		<var name="mamabear" value="1"/>
+		
+		<var name="lucas" value="2361886"/>
+		
+		<var name="sheamegale" value="3033031"/>
+		
+		<var name="chloerocks" value="3022751"/>
+		
+		<var name="corbindelay" value="5" />
+		
+		<var name="miguelsunshine" value="8475584"/>
+	
+		<var name="denyaccess" value="1" />
+		
+		<var name="greentracks" value="12736563" />
+		
+		<var name="greentracksscale" value="68" />
+		
+		<var name="LizCyBearGuide" value="557587" />
+
+		<var name="CharlieCyBearGuide" value="557610" />
+		
+		<var name="NateCyBearGuide" value="3295916" />
+
+		<var name="arashicybearguide" value="3296180" />	<!-- live id: 3296180 -->
+		<var name="clarice" value="22213433" />					<!-- live id: 22213433 -->
+		<var name="rudolph" value="20619173" />					<!-- live id: 20619173 -->
+	</celebrity>
+
+	<bearContextMenu>
+		<var name="activated" value="1"/>
+	</bearContextMenu>
+	
+	<bearChat>
+		<var name="activated" value="0"/>
+	</bearChat>
+	
+	<fsm>
+		<var name="activated" value="1"/>
+		<var name="multiActionActivated" value="0"/>
+	</fsm>
+
+	<cacheAsBitmap>
+		<var name="defaultValue" value = "1"/>
+		<var name="enableSwitch" value = "1"/>
+	</cacheAsBitmap>
+
+	<sandBox>
+		<var name="activated" value = "0" />
+	</sandBox>
+
+	<bedInteraction>
+		<var name="enableSwitch" value = "1"/>
+	</bedInteraction>
+	
+	<!--emoticonId : use the id in AvatarEmoticon_c.as -->
+	<bearEmoticonBackPack>
+		<var name="enabled" value = "1" />
+		<var name="emoticonId" value = "13" />
+	</bearEmoticonBackPack>
+	
+	<pda>
+		<var name="fnf" value="1" />
+	</pda>
+	
+	<photobooth>
+		<var name="picspath" value="http://zazzle.bearville.com/picture/" />
+	</photobooth>
+	
+	<clientVersionVerification>
+		<var name="enabled" value="0"/>
+	</clientVersionVerification>
+
+	<Forum>
+		<var name="lockPosting" value="1"/>
+	</Forum>
+	
+	<BABusiness>
+		<var name="enabled" value="0"/>
+	</BABusiness>
+	
+	<specialRooms>
+		<specialRoom id="0" nameExt="M" maxSeen="5"/>
+		<specialRoom id="1" nameExt="Gymnasium" maxSeen="5"/>
+	</specialRooms>
+	
+	<storedProcs>
+		<var name="securedID" value="33~571~582" />
+	</storedProcs>
+	
+	<surveys>
+		<var name="active" value="0"/>
+		<var name="url" value="http://www.buildabearsurveys.com/se.ashx?s=205BC5DA3927A24B"/>
+	</surveys>
+	
+	<mail>
+		<var name="timeBetweenUpdates" value="5" /> <!-- Time between checks for new mails (in minutes) -->
+	</mail>
+
+	<styleBoard>
+		<var name="address" value="http://www.google.com/images" />
+	</styleBoard>
+	
+	<news>
+		<var name="showPopupsAfter" value="1" />
+	</news>
+
+</config>

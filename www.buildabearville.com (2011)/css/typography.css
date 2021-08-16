@@ -1,0 +1,117 @@
+body {
+	font: 62.5% Verdana;
+}
+
+#logo h1, #logo p, #getting_started_header h2, #games_header h2, #newsFlash_header h2, #gamesHome_header h2, #faq_header h2, #coolStuff_header h2, #pics_header h2, #help_header h2, #parents_header h2, #terms_header h2, #news_header h2
+ {
+	position: absolute;
+	text-indent: -9999px;
+}
+
+#siteNav {
+	font: 1.1em Verdana;
+}
+
+#siteNav ul {
+	text-align: right;
+	margin-right: 2em;
+}
+
+#subNav {
+	font: 1em Verdana;
+}
+
+#subNav ul {
+	text-align: left;
+}
+
+#subNav li {
+	text-align: left;
+	padding-left: 0.6em;
+	padding-right: 0.2em;
+}
+
+#siteInfo {
+	font: 0.9em Verdana;
+}
+
+#siteInfo ul {
+	text-align: left;
+	margin-left: 2em;
+}
+
+#siteInfo ul.right {
+	text-align: right;
+	margin-right: 1em;
+}
+
+#startHere .content, #games .content, #gamesHome .content, #faq .content, #coolStuff .content, #pics .content, #help .content, #parents .content, #terms .content, #news .content {
+	padding: 1em;
+} 
+
+#startHere .content, #games .content, #faq .content, #coolStuff .content, #pics .content, #help .content, #parents .content, #terms .content, #news .content {
+	font-size: 1.1em;
+} 
+
+#newsFlash .content {
+	padding: 1em 1.5em 1em .5em;
+}
+
+#startHere .content h3, #games .content h3, #faq .content h3, #faq .content h1, #coolStuff .content h3, #pics .content h3, #help .content h3, #parents .content h3, #terms .content h3, #news .content h3 {
+	padding: 1em 0 0.5em;
+}
+
+#startHere .content p, #games .content p, #faq .content p, #help .content p, #parents .content p, #terms .content p, #news .content p {
+	padding: 0 0 1em;
+}
+
+thead {
+	text-align: left;
+}
+
+#newsFlash .content{
+	line-height: 150%;
+}	
+
+#newsFlash .content ul img {
+	left: -3px;
+}
+
+#gamesHome .content #picViewer h4 {
+	font-size: 1.2em;
+	font-weight: 900;
+	margin-top: 1em;
+}
+
+#gamesHome .content #picViewer h5 {
+	font-size: 1.1em;
+	font-weight: normal;
+	margin-bottom: 10px;
+}
+
+#gamesHome .content #picViewer ul li {
+	font-size: 1em;
+	font-weight: normal;
+	margin: 0; padding: 0;
+}
+
+.arrow 
+{
+	position: relative;
+	top: 3px;
+	margin-left: -13px;
+}
+
+
+#gameInfo h3 {
+	font-size: 1.4em;
+}
+
+#startHere h3 {
+	font-size: 1.4em;
+	font-weight: bold;
+}
+#startHere li {
+	font-weight: bold;
+}
+

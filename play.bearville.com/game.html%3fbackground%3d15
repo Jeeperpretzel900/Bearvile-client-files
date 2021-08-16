@@ -1,0 +1,190 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Build-A-Bearville</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<script type="text/javascript" src="swfobject.js"></script>
+<script type="text/javascript" src="site/js/validateFlash.js"></script>
+<script type="text/javascript" src="site/js/googleAnalytics.js"></script>
+
+<script type="text/javascript">
+var popupAllowed = null;
+
+function TrackPageview(pageView)
+{
+	_gaq.push(['_trackPageview', pageView]);
+}
+
+function sc_AreasVisited(id)
+{
+	TrackPageview('/AreaTag/' + id);
+}
+
+function sc_GamePlayed(id)
+{
+	TrackPageview('/GameTag/' + id);
+}
+
+function sc_VideoViewed(id)
+{
+	TrackPageview('/VideoTag/' + id);
+}
+
+function NewsViewed(name)
+{
+	TrackPageview('/NewsTag/' + name);
+}
+
+function sc_Navigation(name)
+{
+	TrackPageview('/NavigationToolTag/' + name);
+}
+
+function sc_ChooseMeWall(name)
+{
+	TrackPageview('/ChooseMeWallTag/' + name);
+}
+
+function sc_BeachHouseAccess(name)
+{
+	TrackPageview('/BeachHouseAccessTag/' + name);
+}
+
+function sc_CondoAccess(name)
+{
+	TrackPageview('/CondoAccessTag/' + name);
+}
+
+function sc_BearMail(name)
+{
+	TrackPageview('/BearMail/' + name);
+}
+
+function sc_HomePage(name)
+{
+	TrackPageview('/HomePage/' + name);
+}
+
+function sc_TrackBarCode(name)
+{
+	TrackPageview('/BarCode/' + name);
+}
+
+function sc_TrackBearMailLinks(name)
+{
+	TrackPageview('/BearMailLinks/' + name);
+}
+
+function TryWindowOpening(page)
+{
+	popupAllowed = window.open(page, "PopupValidation", "");
+	var result = false;
+	if (popupAllowed != null)
+	{
+		result = true;
+		popupAllowed.close();
+	}
+	return(result);
+}
+
+function GetParam(param)
+{
+	var url = window.location.href;
+	var pos = url.indexOf(param);
+	if (pos == -1)
+	{
+		return("");
+	}
+	pos = pos + param.length + 1;
+	var name = url.substring(pos);
+	return(name);
+}
+
+var USERNAME = GetParam("name");
+var BACKGROUND = GetParam("background");
+
+function TestEventString(param)
+{
+	return(eval(param));
+}
+
+// DO NOT REMOVE
+function AdjustPageHeight()
+{
+
+}
+
+function OnGameEvent(eventName)
+{
+	switch(eventName)
+	{
+		case "OnGameLoadingError":
+			// ...
+			break;
+			
+		case "OnNewUserLogin":
+			// ...
+			break;
+			
+		case "OnReloadClient":
+			// ...
+			break;
+			
+		case "OnQuitGame":
+			// ...
+			break;
+	}
+	return true;
+}
+
+
+</script>
+</head>
+<body bgcolor="#ffffff" onload="ValidateVersion()">
+<div align="center">
+	<div id="page">
+		<div id="flashEnabled" align="center">
+			<div id="flashcontent"></div>
+			<script type="text/javascript">
+				var so = new SWFObject("Accessor2.swf", "client", "750", "510", "8,0,0,0", "#000000");
+				so.addParam("wmode", "opaque");
+				so.addVariable("VERSION", getQueryParamValue("VERSION"));
+				so.addVariable("USERNAME", USERNAME);
+				so.addVariable("BACKGROUND", BACKGROUND);
+				so.write("flashcontent");
+			</script>
+		</div>
+		<div id="flashDisabled" style="display:none">
+			<p>
+				<a href="http://www.adobe.com/products/flashplayer/" title="Get Adobe Flash Player" onclick="OpenPopup('http://www.adobe.com/products/flashplayer/','GetFlash','');return(false);">
+					<img src="site/images/noFlashPlayer.jpg" title="Adobe Flash Player 9 required" alt="Adobe Flash Player 9 required" />
+				</a>
+			</p>
+			<p><a class="mainLink" href="login/login.html">Retry</a></p>
+		</div>
+	</div>
+</div>
+
+	<!-- Begin comScore Tag -->
+	<script>
+		document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+	</script>
+	<script>
+		COMSCORE.beacon({
+			c1:2,
+			c2:7939405,
+			c3:"",
+			c4:"",
+			c5:"",
+			c6:"",
+			c15:""
+		});
+	</script>
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&c2=7939405&c3=&c4=&c5=&c6=&c15=&cj=1" />
+	</noscript>
+	<!-- End comScore Tag -->
+</body>
+</html>

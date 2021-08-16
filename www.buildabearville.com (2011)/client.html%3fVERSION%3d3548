@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+<head>
+<title>Build-A-Bearville Beta</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<script src="swfobject.js" type="text/javascript"></script>
+<script type="text/javascript">
+
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+
+</script>
+
+<script type="text/javascript">
+
+var pageTracker = _gat._getTracker("UA-4919083-1");
+
+pageTracker._initData();
+
+pageTracker._trackPageview();
+
+</script>
+
+<script type="text/javascript">
+var popupAllowed = null;
+
+function sc_AreasVisited(id)
+{
+	pageTracker._trackPageview("/AreaTag/"+id); 
+}
+
+function TryWindowOpening(page)
+{
+	popupAllowed = window.open(page, "PopupValidation", "");
+	var result = false;
+	if (popupAllowed != null)
+	{
+		result = true;
+		popupAllowed.close();
+	}
+	return(result);
+}
+
+function GetParam(param)
+{
+	var url = window.location.href;
+	var pos = url.indexOf(param);
+	if (pos == -1)
+	{
+		return("");
+	}
+	pos = pos + param.length + 1;
+	var name = url.substring(pos);
+	return(name);
+}
+
+var USERNAME = GetParam("name");
+</script>
+
+<style type="text/css">
+<!--
+body {
+	background-image: url(images/gameBkg.jpg);
+	background-repeat: repeat-x;
+}
+-->
+</style>
+
+</head>
+<body bgcolor="#080E5A">
+<div align="center">
+	<div id="flashcontent"></div>
+	<script type="text/javascript">
+		var versionClient = "client.swf?Version=" + getQueryParamValue("VERSION");
+		var so = new SWFObject(versionClient, "client", "750", "510", "8,0,0,0", "#000000");
+		so.addVariable("USERNAME", USERNAME);
+		so.write("flashcontent");
+	</script>	
+</div>
+</body>
+</html>
